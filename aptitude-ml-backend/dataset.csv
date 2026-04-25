@@ -1,0 +1,2001 @@
+question_id,question_text,option_a,option_b,option_c,option_d,correct_option,category,difficulty_level
+Q1,What is 3 - 2?,2,1,4,3,B,Math,Easy
+Q2,What is 3 × 6?,19,18,13,16,B,Math,Easy
+Q3,What is 59 + 44?,103,97,104,102,A,Math,Hard
+Q4,What is 74 + 24?,115,85,98,96,C,Math,Hard
+Q5,What is 9 × 11?,99,82,118,105,A,Math,Medium
+Q6,What is 3 ÷ 1?,3,0,5,8,A,Math,Medium
+Q7,What is 23 + 2?,22,20,21,25,D,Math,Medium
+Q8,What is 79 + 54?,115,136,133,121,C,Math,Hard
+Q9,What is 21 + 37?,55,49,69,58,D,Math,Medium
+Q10,What is 52 + 9?,69,58,61,67,C,Math,Hard
+Q11,What is 67 + 32?,102,88,99,113,C,Math,Hard
+Q12,What is 9 × 4?,36,39,37,34,A,Math,Medium
+Q13,What is 5 + 36?,46,41,48,49,B,Math,Medium
+Q14,What is 30 - 12?,16,18,22,17,B,Math,Medium
+Q15,What is 39 + 41?,82,67,80,90,C,Math,Medium
+Q16,What is 40 + 30?,70,76,67,66,A,Math,Medium
+Q17,What is 6 + 31?,40,38,37,35,C,Math,Medium
+Q18,What is 12 + 13?,29,20,25,30,C,Math,Easy
+Q19,What is 7 × 6?,50,42,48,43,B,Math,Medium
+Q20,What is 9 - 2?,7,6,4,3,A,Math,Easy
+Q21,What is 56 - 15?,45,38,41,44,C,Math,Medium
+Q22,What is 1 × 11?,11,12,9,10,A,Math,Medium
+Q23,What is 48 + 58?,127,106,93,89,B,Math,Hard
+Q24,What is 64 + 11?,79,82,75,77,C,Math,Hard
+Q25,What is 79 + 50?,108,146,129,120,C,Math,Hard
+Q26,What is 4 × 11?,39,44,48,51,B,Math,Medium
+Q27,What is 72 + 1?,72,63,67,73,D,Math,Hard
+Q28,What is 5 - 2?,3,7,5,8,A,Math,Easy
+Q29,What is 2 × 5?,14,11,13,10,D,Math,Easy
+Q30,What is 80 + 1?,82,81,87,66,B,Math,Hard
+Q31,What is 77 + 41?,118,141,106,104,A,Math,Hard
+Q32,What is 79 - 48?,31,37,35,26,A,Math,Hard
+Q33,What is 61 + 29?,107,98,90,106,C,Math,Hard
+Q34,What is 6 + 16?,20,19,22,18,C,Math,Easy
+Q35,What is 32 + 69?,113,121,101,88,C,Math,Hard
+Q36,What is 42 - 16?,23,25,28,26,D,Math,Medium
+Q37,What is 4 × 5?,20,19,17,18,A,Math,Easy
+Q38,What is 55 + 75?,130,108,124,116,A,Math,Hard
+Q39,What is 12 × 3?,38,35,43,36,D,Math,Medium
+Q40,What is 43 + 52?,79,98,95,101,C,Math,Hard
+Q41,What is 34 - 9?,26,25,27,28,B,Math,Medium
+Q42,What is 15 - 11?,5,0,4,3,C,Math,Easy
+Q43,What is 17 - 13?,2,7,0,4,D,Math,Easy
+Q44,What is 11 × 7?,86,77,84,81,B,Math,Medium
+Q45,What is 64 - 7?,53,51,65,57,D,Math,Hard
+Q46,What is 90 ÷ 10?,7,9,10,8,B,Math,Medium
+Q47,What is 8 ÷ 1?,5,3,8,7,C,Math,Medium
+Q48,What is 10 - 2?,4,8,12,13,B,Math,Easy
+Q49,What is 47 - 46?,5,2,3,1,D,Math,Medium
+Q50,What is 26 + 4?,30,31,35,36,A,Math,Medium
+Q51,What is 20 - 4?,16,14,18,15,A,Math,Easy
+Q52,What is 55 - 18?,35,37,33,40,B,Math,Medium
+Q53,What is 71 - 14?,66,50,56,57,D,Math,Hard
+Q54,What is 80 ÷ 10?,8,11,9,12,A,Math,Medium
+Q55,What is 24 - 8?,16,20,19,11,A,Math,Easy
+Q56,What is 45 ÷ 9?,10,5,4,7,B,Math,Medium
+Q57,What is 8 × 12?,96,104,82,77,A,Math,Medium
+Q58,What is 9 × 2?,19,16,14,18,D,Math,Medium
+Q59,What is 4 + 38?,42,35,48,46,A,Math,Medium
+Q60,What is 4 ÷ 1?,4,5,0,2,A,Math,Medium
+Q61,What is 47 - 40?,5,7,6,9,B,Math,Medium
+Q62,What is 56 + 75?,131,134,142,138,A,Math,Hard
+Q63,What is 23 + 72?,99,95,100,83,B,Math,Hard
+Q64,What is 5 × 5?,26,25,29,20,B,Math,Easy
+Q65,What is 77 + 23?,100,110,85,108,A,Math,Hard
+Q66,What is 13 - 6?,9,7,4,2,B,Math,Easy
+Q67,What is 54 + 75?,118,129,106,154,B,Math,Hard
+Q68,What is 30 - 15?,12,11,15,19,C,Math,Medium
+Q69,What is 67 - 2?,65,57,75,77,A,Math,Hard
+Q70,What is 34 - 22?,12,10,13,14,A,Math,Medium
+Q71,What is 77 - 11?,66,54,76,72,A,Math,Hard
+Q72,What is 27 ÷ 9?,3,0,2,1,A,Math,Medium
+Q73,What is 7 × 3?,22,24,18,21,D,Math,Medium
+Q74,What is 26 + 36?,56,67,51,62,D,Math,Medium
+Q75,What is 15 + 10?,20,26,25,29,C,Math,Easy
+Q76,What is 44 - 35?,8,9,5,10,B,Math,Medium
+Q77,What is 6 × 11?,67,66,61,58,B,Math,Medium
+Q78,What is 12 × 12?,120,161,144,141,C,Math,Medium
+Q79,What is 7 × 5?,34,29,35,33,C,Math,Medium
+Q80,What is 24 + 46?,71,68,81,70,D,Math,Medium
+Q81,What is 70 + 61?,138,131,117,110,B,Math,Hard
+Q82,What is 53 - 24?,30,29,34,25,B,Math,Medium
+Q83,What is 19 - 17?,5,2,3,6,B,Math,Easy
+Q84,What is 76 + 22?,86,98,106,90,B,Math,Hard
+Q85,What is 78 - 46?,27,26,36,32,D,Math,Hard
+Q86,What is 11 × 12?,106,132,156,140,B,Math,Medium
+Q87,What is 2 ÷ 2?,2,1,0,4,B,Math,Medium
+Q88,What is 60 + 55?,115,109,124,118,A,Math,Hard
+Q89,What is 1 × 1?,5,4,1,3,C,Math,Easy
+Q90,What is 6 × 9?,46,58,61,54,D,Math,Medium
+Q91,What is 53 + 9?,53,62,74,56,B,Math,Hard
+Q92,What is 3 ÷ 3?,1,4,6,3,A,Math,Medium
+Q93,What is 71 + 65?,136,134,118,138,A,Math,Hard
+Q94,What is 12 × 5?,53,62,65,60,D,Math,Medium
+Q95,What is 20 + 42?,53,62,70,50,B,Math,Medium
+Q96,What is 3 - 1?,2,5,1,0,A,Math,Easy
+Q97,What is 4 × 1?,3,0,4,5,C,Math,Easy
+Q98,What is 42 - 37?,3,9,5,1,C,Math,Medium
+Q99,What is 9 × 9?,69,86,72,81,D,Math,Medium
+Q100,What is 48 ÷ 6?,13,6,8,11,C,Math,Medium
+Q101,What is 20 - 8?,12,14,15,9,A,Math,Easy
+Q102,What is 5 × 11?,55,50,45,56,A,Math,Medium
+Q103,What is 44 - 5?,32,40,39,38,C,Math,Medium
+Q104,What is 1 × 9?,9,6,5,4,A,Math,Medium
+Q105,What is 4 × 11?,45,44,40,48,B,Math,Medium
+Q106,What is 50 + 75?,106,125,119,135,B,Math,Hard
+Q107,What is 65 - 5?,72,69,63,60,D,Math,Hard
+Q108,What is 14 + 20?,34,31,32,30,A,Math,Medium
+Q109,What is 23 - 13?,10,13,14,11,A,Math,Easy
+Q110,What is 2 - 1?,1,3,0,2,A,Math,Easy
+Q111,What is 70 + 29?,86,99,82,113,B,Math,Hard
+Q112,What is 76 - 17?,62,54,67,59,D,Math,Hard
+Q113,What is 65 + 32?,86,112,96,97,D,Math,Hard
+Q114,What is 64 + 71?,158,138,135,154,C,Math,Hard
+Q115,What is 63 + 19?,94,82,72,68,B,Math,Hard
+Q116,What is 69 - 27?,37,42,36,47,B,Math,Hard
+Q117,What is 9 × 2?,14,13,19,18,D,Math,Medium
+Q118,What is 30 + 51?,97,81,72,89,B,Math,Hard
+Q119,What is 46 + 55?,101,92,81,96,A,Math,Hard
+Q120,What is 64 + 51?,102,99,115,136,C,Math,Hard
+Q121,What is 15 + 30?,45,53,51,37,A,Math,Medium
+Q122,What is 55 + 32?,87,89,71,79,A,Math,Hard
+Q123,What is 3 + 54?,67,63,57,52,C,Math,Hard
+Q124,What is 35 + 56?,91,80,102,75,A,Math,Hard
+Q125,What is 60 ÷ 10?,4,7,6,3,C,Math,Medium
+Q126,What is 71 - 11?,68,58,60,52,C,Math,Hard
+Q127,What is 2 × 9?,18,22,15,19,A,Math,Medium
+Q128,What is 90 ÷ 10?,9,12,4,11,A,Math,Medium
+Q129,What is 4 ÷ 1?,7,4,1,9,B,Math,Medium
+Q130,What is 8 × 5?,45,40,36,38,B,Math,Medium
+Q131,What is 57 + 22?,68,91,79,74,C,Math,Hard
+Q132,What is 132 ÷ 12?,14,11,15,12,B,Math,Medium
+Q133,What is 40 + 55?,110,95,83,88,B,Math,Hard
+Q134,What is 70 - 51?,19,18,20,15,A,Math,Hard
+Q135,What is 6 × 10?,56,71,60,67,C,Math,Medium
+Q136,What is 41 - 13?,28,27,23,24,A,Math,Medium
+Q137,What is 78 - 69?,9,8,7,6,A,Math,Hard
+Q138,What is 2 × 5?,10,11,14,9,A,Math,Easy
+Q139,What is 12 × 8?,104,96,106,87,B,Math,Medium
+Q140,What is 6 × 5?,30,28,35,31,A,Math,Easy
+Q141,What is 8 × 6?,54,48,51,42,B,Math,Medium
+Q142,What is 3 × 5?,16,15,10,17,B,Math,Easy
+Q143,What is 9 + 37?,47,44,46,38,C,Math,Medium
+Q144,What is 8 × 2?,20,16,18,21,B,Math,Medium
+Q145,What is 18 + 5?,23,22,24,18,A,Math,Easy
+Q146,What is 8 ÷ 2?,9,8,2,4,D,Math,Medium
+Q147,What is 69 - 25?,41,36,52,44,D,Math,Hard
+Q148,What is 46 + 14?,55,60,68,61,B,Math,Medium
+Q149,What is 60 + 45?,92,105,118,88,B,Math,Hard
+Q150,What is 29 - 1?,28,24,33,25,A,Math,Easy
+Q151,What is 110 ÷ 11?,10,9,11,8,A,Math,Medium
+Q152,What is 1 ÷ 1?,0,3,2,1,D,Math,Medium
+Q153,What is 60 + 68?,118,128,137,149,B,Math,Hard
+Q154,What is 80 + 80?,190,181,175,160,D,Math,Hard
+Q155,What is 11 × 1?,7,11,6,13,B,Math,Medium
+Q156,What is 27 - 13?,15,11,18,14,D,Math,Easy
+Q157,What is 36 ÷ 4?,9,4,13,8,A,Math,Medium
+Q158,What is 72 + 63?,129,112,152,135,D,Math,Hard
+Q159,What is 13 - 3?,11,10,13,9,B,Math,Easy
+Q160,What is 12 ÷ 4?,0,8,3,7,C,Math,Medium
+Q161,What is 66 - 48?,18,17,22,19,A,Math,Hard
+Q162,What is 24 - 18?,2,4,6,7,C,Math,Easy
+Q163,What is 59 + 64?,131,104,123,144,C,Math,Hard
+Q164,What is 57 - 4?,54,59,48,53,D,Math,Medium
+Q165,What is 11 × 5?,57,44,55,60,C,Math,Medium
+Q166,What is 8 - 6?,3,2,0,7,B,Math,Easy
+Q167,What is 120 ÷ 12?,14,9,12,10,D,Math,Medium
+Q168,What is 30 ÷ 5?,6,10,4,7,A,Math,Medium
+Q169,What is 36 ÷ 6?,11,8,10,6,D,Math,Medium
+Q170,What is 46 + 62?,112,108,120,105,B,Math,Hard
+Q171,What is 3 ÷ 3?,1,0,5,4,A,Math,Medium
+Q172,What is 75 - 60?,15,13,11,16,A,Math,Hard
+Q173,What is 78 + 9?,73,102,87,84,C,Math,Hard
+Q174,What is 14 - 3?,11,12,9,8,A,Math,Easy
+Q175,What is 9 - 8?,1,4,0,6,A,Math,Easy
+Q176,What is 49 + 53?,90,102,96,120,B,Math,Hard
+Q177,What is 18 - 15?,2,4,3,0,C,Math,Easy
+Q178,What is 10 × 1?,10,12,6,15,A,Math,Medium
+Q179,What is 50 - 7?,50,49,36,43,D,Math,Medium
+Q180,What is 144 ÷ 12?,12,11,15,7,A,Math,Medium
+Q181,What is 12 × 8?,96,100,95,82,A,Math,Medium
+Q182,What is 12 ÷ 3?,4,3,2,5,A,Math,Medium
+Q183,What is 36 + 65?,111,101,91,106,B,Math,Hard
+Q184,What is 80 - 70?,5,15,12,10,D,Math,Hard
+Q185,What is 21 + 77?,98,103,91,105,A,Math,Hard
+Q186,What is 73 + 49?,141,143,102,122,D,Math,Hard
+Q187,What is 29 - 3?,26,30,28,22,A,Math,Easy
+Q188,What is 11 × 5?,60,50,57,55,D,Math,Medium
+Q189,What is 31 - 14?,16,21,17,12,C,Math,Medium
+Q190,What is 2 × 9?,23,18,14,21,B,Math,Medium
+Q191,What is 18 ÷ 3?,3,6,7,5,B,Math,Medium
+Q192,What is 23 + 79?,122,121,102,104,C,Math,Hard
+Q193,What is 60 + 75?,153,131,135,159,C,Math,Hard
+Q194,What is 26 + 47?,60,64,73,79,C,Math,Medium
+Q195,What is 70 + 45?,138,128,117,115,D,Math,Hard
+Q196,What is 22 - 17?,5,7,4,1,A,Math,Easy
+Q197,What is 1 × 2?,2,7,3,5,A,Math,Easy
+Q198,What is 17 + 46?,63,70,72,64,A,Math,Medium
+Q199,What is 61 + 7?,79,68,56,65,B,Math,Hard
+Q200,What is 45 + 78?,117,123,107,139,B,Math,Hard
+Q201,"Find the odd one out: Giraffe, Rabbit, Blue, Zebra.",Giraffe,Rabbit,Blue,Zebra,C,Logic,Easy
+Q202,"Find the odd one out: Dog, Zebra, Orange, Tiger.",Dog,Zebra,Orange,Tiger,C,Logic,Easy
+Q203,"Find the odd one out: Bicycle, Tractor, Plane, Sofa.",Bicycle,Tractor,Plane,Sofa,D,Logic,Medium
+Q204,"Find the odd one out: Plane, Pear, Motorbike, Bus.",Plane,Pear,Motorbike,Bus,B,Logic,Easy
+Q205,"Find the odd one out: Octagon, Diamond, Square, Wardrobe.",Octagon,Diamond,Square,Wardrobe,D,Logic,Easy
+Q206,"Find the odd one out: Apple, Kiwi, Cherry, Car.",Apple,Kiwi,Cherry,Car,D,Logic,Medium
+Q207,"Find the odd one out: Oval, Hexagon, Orange, Square.",Oval,Hexagon,Orange,Square,C,Logic,Easy
+Q208,"Find the odd one out: Stool, Pear, Bed, Wardrobe.",Stool,Pear,Bed,Wardrobe,B,Logic,Medium
+Q209,"Find the odd one out: Rectangle, Zebra, Oval, Star.",Rectangle,Zebra,Oval,Star,B,Logic,Medium
+Q210,"Find the odd one out: Pineapple, Peach, Plum, Hexagon.",Pineapple,Peach,Plum,Hexagon,D,Logic,Easy
+Q211,"Find the odd one out: White, Orange, Triangle, Grey.",White,Orange,Triangle,Grey,C,Logic,Medium
+Q212,"Find the odd one out: Pink, Elephant, Giraffe, Tiger.",Pink,Elephant,Giraffe,Tiger,A,Logic,Easy
+Q213,"Find the odd one out: Bear, Sofa, Rabbit, Zebra.",Bear,Sofa,Rabbit,Zebra,B,Logic,Easy
+Q214,"Find the odd one out: Triangle, Oval, Pear, Pentagon.",Triangle,Oval,Pear,Pentagon,C,Logic,Easy
+Q215,"Find the odd one out: Grapes, Lion, Banana, Plum.",Grapes,Lion,Banana,Plum,B,Logic,Medium
+Q216,"Find the odd one out: Grapes, Plum, Elephant, Pear.",Grapes,Plum,Elephant,Pear,C,Logic,Medium
+Q217,"Find the odd one out: Radish, Car, Corn, Tomato.",Radish,Car,Corn,Tomato,B,Logic,Medium
+Q218,"Find the odd one out: Radish, Shelf, Pea, Tomato.",Radish,Shelf,Pea,Tomato,B,Logic,Medium
+Q219,"Find the odd one out: Black, Boat, Yellow, Orange.",Black,Boat,Yellow,Orange,B,Logic,Medium
+Q220,"Find the odd one out: Oval, Green, Triangle, Octagon.",Oval,Green,Triangle,Octagon,B,Logic,Easy
+Q221,"Find the odd one out: Table, Cupboard, Dresser, Pineapple.",Table,Cupboard,Dresser,Pineapple,D,Logic,Easy
+Q222,"Find the odd one out: Corn, Beetroot, Onion, Tractor.",Corn,Beetroot,Onion,Tractor,D,Logic,Easy
+Q223,"Find the odd one out: Peach, Pear, Shelf, Papaya.",Peach,Pear,Shelf,Papaya,C,Logic,Easy
+Q224,"Find the odd one out: Orange, Circle, Red, Black.",Orange,Circle,Red,Black,B,Logic,Easy
+Q225,"Find the odd one out: Peach, Kangaroo, Grapes, Banana.",Peach,Kangaroo,Grapes,Banana,B,Logic,Easy
+Q226,"Find the odd one out: Cat, Fox, Orange, Wolf.",Cat,Fox,Orange,Wolf,C,Logic,Easy
+Q227,"Find the odd one out: Dresser, Wardrobe, Shelf, Black.",Dresser,Wardrobe,Shelf,Black,D,Logic,Medium
+Q228,"Find the odd one out: Helicopter, Red, Ship, Van.",Helicopter,Red,Ship,Van,B,Logic,Medium
+Q229,"Find the odd one out: Cyan, Brown, Bus, Purple.",Cyan,Brown,Bus,Purple,C,Logic,Medium
+Q230,"Find the odd one out: Banana, Papaya, Diamond, Pear.",Banana,Papaya,Diamond,Pear,C,Logic,Easy
+Q231,"Find the odd one out: Trapezoid, Rectangle, Heart, Motorbike.",Trapezoid,Rectangle,Heart,Motorbike,D,Logic,Easy
+Q232,"Find the odd one out: Tiger, Cat, Van, Zebra.",Tiger,Cat,Van,Zebra,C,Logic,Easy
+Q233,"Find the odd one out: Truck, Red, Van, Car.",Truck,Red,Van,Car,B,Logic,Medium
+Q234,"Find the odd one out: Purple, Beetroot, Grey, Orange.",Purple,Beetroot,Grey,Orange,B,Logic,Easy
+Q235,"Find the odd one out: Beetroot, Pink, Carrot, Cabbage.",Beetroot,Pink,Carrot,Cabbage,B,Logic,Medium
+Q236,"Find the odd one out: Diamond, Heart, Wolf, Circle.",Diamond,Heart,Wolf,Circle,C,Logic,Easy
+Q237,"Find the odd one out: Chair, Couch, Table, Brown.",Chair,Couch,Table,Brown,D,Logic,Easy
+Q238,"Find the odd one out: Elephant, Tiger, Orange, Bear.",Elephant,Tiger,Orange,Bear,C,Logic,Medium
+Q239,"Find the odd one out: Purple, Green, Banana, Pink.",Purple,Green,Banana,Pink,C,Logic,Medium
+Q240,"Find the odd one out: Pumpkin, Peach, Grapes, Orange.",Pumpkin,Peach,Grapes,Orange,A,Logic,Medium
+Q241,"Find the odd one out: Grapes, Kiwi, Orange, Orange.",Grapes,Kiwi,Orange,Orange,C,Logic,Easy
+Q242,"Find the odd one out: Broccoli, Potato, Pea, Dresser.",Broccoli,Potato,Pea,Dresser,D,Logic,Easy
+Q243,"Find the odd one out: Orange, Pear, Car, Cherry.",Orange,Pear,Car,Cherry,C,Logic,Medium
+Q244,"Find the odd one out: Stool, Broccoli, Cupboard, Chair.",Stool,Broccoli,Cupboard,Chair,B,Logic,Medium
+Q245,"Find the odd one out: Pea, Sofa, Potato, Radish.",Pea,Sofa,Potato,Radish,B,Logic,Easy
+Q246,"Find the odd one out: Purple, Table, Green, Yellow.",Purple,Table,Green,Yellow,B,Logic,Medium
+Q247,"Find the odd one out: Oval, Hexagon, Diamond, Pink.",Oval,Hexagon,Diamond,Pink,D,Logic,Easy
+Q248,"Find the odd one out: Red, Car, Tractor, Plane.",Red,Car,Tractor,Plane,A,Logic,Easy
+Q249,"Find the odd one out: Chair, Desk, Dresser, Orange.",Chair,Desk,Dresser,Orange,D,Logic,Medium
+Q250,"Find the odd one out: Wolf, Lion, Cat, Peach.",Wolf,Lion,Cat,Peach,D,Logic,Easy
+Q251,"Find the odd one out: Giraffe, Apple, Cherry, Kiwi.",Giraffe,Apple,Cherry,Kiwi,A,Logic,Medium
+Q252,"Find the odd one out: Pea, Radish, Corn, Grapes.",Pea,Radish,Corn,Grapes,D,Logic,Easy
+Q253,"Find the odd one out: Corn, Peach, Kiwi, Pineapple.",Corn,Peach,Kiwi,Pineapple,A,Logic,Medium
+Q254,"Find the odd one out: Giraffe, Elephant, Plane, Kangaroo.",Giraffe,Elephant,Plane,Kangaroo,C,Logic,Easy
+Q255,"Find the odd one out: Banana, Cherry, Radish, Grapes.",Banana,Cherry,Radish,Grapes,C,Logic,Medium
+Q256,"Find the odd one out: Purple, Grey, Orange, Pear.",Purple,Grey,Orange,Pear,D,Logic,Easy
+Q257,"Find the odd one out: White, Radish, Red, Purple.",White,Radish,Red,Purple,B,Logic,Medium
+Q258,"Find the odd one out: Motorbike, Orange, White, Grey.",Motorbike,Orange,White,Grey,A,Logic,Medium
+Q259,"Find the odd one out: Stool, Desk, Broccoli, Cupboard.",Stool,Desk,Broccoli,Cupboard,C,Logic,Medium
+Q260,"Find the odd one out: Cupboard, Spinach, Bench, Shelf.",Cupboard,Spinach,Bench,Shelf,B,Logic,Easy
+Q261,"Find the odd one out: Elephant, Orange, Kangaroo, Rabbit.",Elephant,Orange,Kangaroo,Rabbit,B,Logic,Easy
+Q262,"Find the odd one out: Cherry, Mango, Papaya, Zebra.",Cherry,Mango,Papaya,Zebra,D,Logic,Easy
+Q263,"Find the odd one out: Papaya, Star, Grapes, Kiwi.",Papaya,Star,Grapes,Kiwi,B,Logic,Medium
+Q264,"Find the odd one out: Peach, Orange, White, Green.",Peach,Orange,White,Green,A,Logic,Easy
+Q265,"Find the odd one out: Wolf, Trapezoid, Giraffe, Zebra.",Wolf,Trapezoid,Giraffe,Zebra,B,Logic,Medium
+Q266,"Find the odd one out: Mango, Peach, Scooter, Plum.",Mango,Peach,Scooter,Plum,C,Logic,Medium
+Q267,"Find the odd one out: Grey, Cyan, Black, Kiwi.",Grey,Cyan,Black,Kiwi,D,Logic,Easy
+Q268,"Find the odd one out: Car, Tractor, Plane, Dresser.",Car,Tractor,Plane,Dresser,D,Logic,Medium
+Q269,"Find the odd one out: Cupboard, Bus, Van, Ship.",Cupboard,Bus,Van,Ship,A,Logic,Medium
+Q270,"Find the odd one out: Brown, Shelf, Green, Red.",Brown,Shelf,Green,Red,B,Logic,Easy
+Q271,"Find the odd one out: Tiger, Rabbit, Carrot, Lion.",Tiger,Rabbit,Carrot,Lion,C,Logic,Medium
+Q272,"Find the odd one out: Desk, Scooter, Van, Helicopter.",Desk,Scooter,Van,Helicopter,A,Logic,Medium
+Q273,"Find the odd one out: Couch, Cyan, Bench, Table.",Couch,Cyan,Bench,Table,B,Logic,Easy
+Q274,"Find the odd one out: Tiger, Fox, Rectangle, Dog.",Tiger,Fox,Rectangle,Dog,C,Logic,Medium
+Q275,"Find the odd one out: Cupboard, Bicycle, Ship, Motorbike.",Cupboard,Bicycle,Ship,Motorbike,A,Logic,Medium
+Q276,"Find the odd one out: White, Purple, Black, Rectangle.",White,Purple,Black,Rectangle,D,Logic,Easy
+Q277,"Find the odd one out: Bus, Square, Tractor, Plane.",Bus,Square,Tractor,Plane,B,Logic,Medium
+Q278,"Find the odd one out: Star, Tiger, Cat, Lion.",Star,Tiger,Cat,Lion,A,Logic,Easy
+Q279,"Find the odd one out: Mango, Plum, Pineapple, Couch.",Mango,Plum,Pineapple,Couch,D,Logic,Medium
+Q280,"Find the odd one out: Car, Bicycle, Pea, Motorbike.",Car,Bicycle,Pea,Motorbike,C,Logic,Easy
+Q281,"Find the odd one out: Bear, Bench, Couch, Shelf.",Bear,Bench,Couch,Shelf,A,Logic,Easy
+Q282,"Find the odd one out: Broccoli, Cabbage, Corn, Triangle.",Broccoli,Cabbage,Corn,Triangle,D,Logic,Easy
+Q283,"Find the odd one out: Bed, Fox, Wolf, Kangaroo.",Bed,Fox,Wolf,Kangaroo,A,Logic,Medium
+Q284,"Find the odd one out: Orange, Kiwi, Cyan, Brown.",Orange,Kiwi,Cyan,Brown,B,Logic,Medium
+Q285,"Find the odd one out: Mango, Truck, Plum, Papaya.",Mango,Truck,Plum,Papaya,B,Logic,Medium
+Q286,"Find the odd one out: Beetroot, Pea, Purple, Potato.",Beetroot,Pea,Purple,Potato,C,Logic,Medium
+Q287,"Find the odd one out: Grey, Orange, Orange, Yellow.",Grey,Orange,Orange,Yellow,B,Logic,Easy
+Q288,"Find the odd one out: Circle, Pea, Oval, Pentagon.",Circle,Pea,Oval,Pentagon,B,Logic,Easy
+Q289,"Find the odd one out: Fox, Couch, Bear, Tiger.",Fox,Couch,Bear,Tiger,B,Logic,Easy
+Q290,"Find the odd one out: Grey, Brown, Green, Boat.",Grey,Brown,Green,Boat,D,Logic,Medium
+Q291,"Find the odd one out: Lion, Diamond, Oval, Heart.",Lion,Diamond,Oval,Heart,A,Logic,Medium
+Q292,"Find the odd one out: Orange, Yellow, Pink, Plane.",Orange,Yellow,Pink,Plane,D,Logic,Medium
+Q293,"Find the odd one out: Green, White, Pineapple, Red.",Green,White,Pineapple,Red,C,Logic,Easy
+Q294,"Find the odd one out: Desk, Grey, Brown, White.",Desk,Grey,Brown,White,A,Logic,Easy
+Q295,"Find the odd one out: Kiwi, Table, Papaya, Orange.",Kiwi,Table,Papaya,Orange,B,Logic,Easy
+Q296,"Find the odd one out: Broccoli, Elephant, Tomato, Onion.",Broccoli,Elephant,Tomato,Onion,B,Logic,Medium
+Q297,"Find the odd one out: White, Onion, Brown, Orange.",White,Onion,Brown,Orange,B,Logic,Easy
+Q298,"Find the odd one out: Hexagon, Rectangle, Cat, Square.",Hexagon,Rectangle,Cat,Square,C,Logic,Easy
+Q299,"Find the odd one out: Pineapple, Peach, Rectangle, Mango.",Pineapple,Peach,Rectangle,Mango,C,Logic,Medium
+Q300,"Find the odd one out: Circle, Onion, Trapezoid, Star.",Circle,Onion,Trapezoid,Star,B,Logic,Easy
+Q301,"Find the odd one out: Peach, Giraffe, Papaya, Orange.",Peach,Giraffe,Papaya,Orange,B,Logic,Medium
+Q302,"Find the odd one out: Lion, Square, Kangaroo, Tiger.",Lion,Square,Kangaroo,Tiger,B,Logic,Medium
+Q303,"Find the odd one out: Grey, Green, Black, Mango.",Grey,Green,Black,Mango,D,Logic,Medium
+Q304,"Find the odd one out: Chair, Boat, Table, Bench.",Chair,Boat,Table,Bench,B,Logic,Medium
+Q305,"Find the odd one out: Plum, Pineapple, Red, Peach.",Plum,Pineapple,Red,Peach,C,Logic,Medium
+Q306,"Find the odd one out: Pear, Papaya, Plum, Blue.",Pear,Papaya,Plum,Blue,D,Logic,Easy
+Q307,"Find the odd one out: Orange, Pear, Pineapple, Oval.",Orange,Pear,Pineapple,Oval,D,Logic,Medium
+Q308,"Find the odd one out: Chair, Wardrobe, Tiger, Bench.",Chair,Wardrobe,Tiger,Bench,C,Logic,Easy
+Q309,"Find the odd one out: Spinach, Tomato, Pumpkin, Boat.",Spinach,Tomato,Pumpkin,Boat,D,Logic,Easy
+Q310,"Find the odd one out: Shelf, White, Cupboard, Bed.",Shelf,White,Cupboard,Bed,B,Logic,Easy
+Q311,"Find the odd one out: Grapes, Banana, Carrot, Cherry.",Grapes,Banana,Carrot,Cherry,C,Logic,Easy
+Q312,"Find the odd one out: Apple, Orange, Peach, Onion.",Apple,Orange,Peach,Onion,D,Logic,Easy
+Q313,"Find the odd one out: Bench, Star, Bed, Table.",Bench,Star,Bed,Table,B,Logic,Easy
+Q314,"Find the odd one out: Wolf, White, Purple, Grey.",Wolf,White,Purple,Grey,A,Logic,Medium
+Q315,"Find the odd one out: Apple, Fox, Papaya, Kiwi.",Apple,Fox,Papaya,Kiwi,B,Logic,Easy
+Q316,"Find the odd one out: Bed, Carrot, Radish, Onion.",Bed,Carrot,Radish,Onion,A,Logic,Medium
+Q317,"Find the odd one out: Car, Scooter, Helicopter, Shelf.",Car,Scooter,Helicopter,Shelf,D,Logic,Medium
+Q318,"Find the odd one out: Octagon, Circle, Pentagon, Lion.",Octagon,Circle,Pentagon,Lion,D,Logic,Medium
+Q319,"Find the odd one out: Car, Peach, Plane, Van.",Car,Peach,Plane,Van,B,Logic,Medium
+Q320,"Find the odd one out: Spinach, Chair, Radish, Tomato.",Spinach,Chair,Radish,Tomato,B,Logic,Easy
+Q321,"Find the odd one out: Spinach, Cupboard, Corn, Potato.",Spinach,Cupboard,Corn,Potato,B,Logic,Easy
+Q322,"Find the odd one out: Couch, Pink, Brown, Purple.",Couch,Pink,Brown,Purple,A,Logic,Easy
+Q323,"Find the odd one out: Van, Bicycle, Bear, Boat.",Van,Bicycle,Bear,Boat,C,Logic,Medium
+Q324,"Find the odd one out: Ship, Boat, Van, Rectangle.",Ship,Boat,Van,Rectangle,D,Logic,Easy
+Q325,"Find the odd one out: Van, Truck, Car, Square.",Van,Truck,Car,Square,D,Logic,Easy
+Q326,"Find the odd one out: Zebra, Pear, Mango, Banana.",Zebra,Pear,Mango,Banana,A,Logic,Medium
+Q327,"Find the odd one out: Cyan, Cupboard, Bench, Bed.",Cyan,Cupboard,Bench,Bed,A,Logic,Medium
+Q328,"Find the odd one out: Red, White, Table, Cyan.",Red,White,Table,Cyan,C,Logic,Easy
+Q329,"Find the odd one out: Diamond, Heart, Rabbit, Circle.",Diamond,Heart,Rabbit,Circle,C,Logic,Medium
+Q330,"Find the odd one out: Orange, Plum, Kiwi, Orange.",Orange,Plum,Kiwi,Orange,A,Logic,Medium
+Q331,"Find the odd one out: Circle, Apple, Star, Diamond.",Circle,Apple,Star,Diamond,B,Logic,Medium
+Q332,"Find the odd one out: Peach, Van, Pear, Papaya.",Peach,Van,Pear,Papaya,B,Logic,Easy
+Q333,"Find the odd one out: Pumpkin, Onion, Purple, Tomato.",Pumpkin,Onion,Purple,Tomato,C,Logic,Medium
+Q334,"Find the odd one out: Ship, Orange, Bicycle, Boat.",Ship,Orange,Bicycle,Boat,B,Logic,Medium
+Q335,"Find the odd one out: Potato, Diamond, Star, Triangle.",Potato,Diamond,Star,Triangle,A,Logic,Easy
+Q336,"Find the odd one out: Bus, Wardrobe, Bicycle, Truck.",Bus,Wardrobe,Bicycle,Truck,B,Logic,Medium
+Q337,"Find the odd one out: Pumpkin, Diamond, Trapezoid, Octagon.",Pumpkin,Diamond,Trapezoid,Octagon,A,Logic,Easy
+Q338,"Find the odd one out: Pineapple, Papaya, Triangle, Banana.",Pineapple,Papaya,Triangle,Banana,C,Logic,Easy
+Q339,"Find the odd one out: Tomato, Table, Beetroot, Potato.",Tomato,Table,Beetroot,Potato,B,Logic,Easy
+Q340,"Find the odd one out: Plum, Peach, Banana, Star.",Plum,Peach,Banana,Star,D,Logic,Medium
+Q341,"Find the odd one out: Couch, Bench, Kangaroo, Bed.",Couch,Bench,Kangaroo,Bed,C,Logic,Medium
+Q342,"Find the odd one out: Tractor, Pink, Red, Orange.",Tractor,Pink,Red,Orange,A,Logic,Easy
+Q343,"Find the odd one out: Chair, Table, Stool, Kangaroo.",Chair,Table,Stool,Kangaroo,D,Logic,Medium
+Q344,"Find the odd one out: White, Cyan, Yellow, Papaya.",White,Cyan,Yellow,Papaya,D,Logic,Medium
+Q345,"Find the odd one out: Purple, Stool, Red, White.",Purple,Stool,Red,White,B,Logic,Easy
+Q346,"Find the odd one out: Truck, Boat, Beetroot, Plane.",Truck,Boat,Beetroot,Plane,C,Logic,Easy
+Q347,"Find the odd one out: Broccoli, Tomato, Truck, Pumpkin.",Broccoli,Tomato,Truck,Pumpkin,C,Logic,Medium
+Q348,"Find the odd one out: Helicopter, Square, Oval, Circle.",Helicopter,Square,Oval,Circle,A,Logic,Medium
+Q349,"Find the odd one out: Bear, Giraffe, Beetroot, Wolf.",Bear,Giraffe,Beetroot,Wolf,C,Logic,Easy
+Q350,"Find the odd one out: Scooter, Ship, Lion, Van.",Scooter,Ship,Lion,Van,C,Logic,Easy
+Q351,"Find the odd one out: Fox, Tiger, Trapezoid, Lion.",Fox,Tiger,Trapezoid,Lion,C,Logic,Easy
+Q352,"Find the odd one out: Bus, Grapes, Pineapple, Banana.",Bus,Grapes,Pineapple,Banana,A,Logic,Medium
+Q353,"Find the odd one out: Rectangle, Helicopter, Diamond, Triangle.",Rectangle,Helicopter,Diamond,Triangle,B,Logic,Medium
+Q354,"Find the odd one out: Dog, Lion, Wolf, Cupboard.",Dog,Lion,Wolf,Cupboard,D,Logic,Easy
+Q355,"Find the odd one out: Plane, Tractor, Van, Hexagon.",Plane,Tractor,Van,Hexagon,D,Logic,Medium
+Q356,"Find the odd one out: Cyan, Bus, Red, White.",Cyan,Bus,Red,White,B,Logic,Medium
+Q357,"Find the odd one out: Kangaroo, Red, Lion, Giraffe.",Kangaroo,Red,Lion,Giraffe,B,Logic,Easy
+Q358,"Find the odd one out: Potato, Spinach, Cyan, Broccoli.",Potato,Spinach,Cyan,Broccoli,C,Logic,Easy
+Q359,"Find the odd one out: Truck, Couch, Bus, Boat.",Truck,Couch,Bus,Boat,B,Logic,Medium
+Q360,"Find the odd one out: Spinach, Pea, Onion, Trapezoid.",Spinach,Pea,Onion,Trapezoid,D,Logic,Medium
+Q361,"Find the odd one out: Red, Purple, White, Shelf.",Red,Purple,White,Shelf,D,Logic,Easy
+Q362,"Find the odd one out: Table, Tiger, Fox, Elephant.",Table,Tiger,Fox,Elephant,A,Logic,Medium
+Q363,"Find the odd one out: Sofa, Onion, Spinach, Tomato.",Sofa,Onion,Spinach,Tomato,A,Logic,Medium
+Q364,"Find the odd one out: Kangaroo, Zebra, Elephant, Bench.",Kangaroo,Zebra,Elephant,Bench,D,Logic,Medium
+Q365,"Find the odd one out: Pineapple, Banana, Bus, Kiwi.",Pineapple,Banana,Bus,Kiwi,C,Logic,Medium
+Q366,"Find the odd one out: Orange, Black, Trapezoid, Brown.",Orange,Black,Trapezoid,Brown,C,Logic,Easy
+Q367,"Find the odd one out: Bear, Trapezoid, Cat, Fox.",Bear,Trapezoid,Cat,Fox,B,Logic,Easy
+Q368,"Find the odd one out: Triangle, Car, Heart, Diamond.",Triangle,Car,Heart,Diamond,B,Logic,Easy
+Q369,"Find the odd one out: Hexagon, Square, Cyan, Rectangle.",Hexagon,Square,Cyan,Rectangle,C,Logic,Easy
+Q370,"Find the odd one out: Giraffe, Potato, Tiger, Rabbit.",Giraffe,Potato,Tiger,Rabbit,B,Logic,Easy
+Q371,"Find the odd one out: Helicopter, Pink, Red, Purple.",Helicopter,Pink,Red,Purple,A,Logic,Easy
+Q372,"Find the odd one out: Hexagon, Octagon, Square, Boat.",Hexagon,Octagon,Square,Boat,D,Logic,Medium
+Q373,"Find the odd one out: Zebra, Rabbit, Oval, Lion.",Zebra,Rabbit,Oval,Lion,C,Logic,Easy
+Q374,"Find the odd one out: Red, Grapes, Pink, Purple.",Red,Grapes,Pink,Purple,B,Logic,Easy
+Q375,"Find the odd one out: Rabbit, Giraffe, Kangaroo, Potato.",Rabbit,Giraffe,Kangaroo,Potato,D,Logic,Medium
+Q376,"Find the odd one out: Apple, Couch, Grapes, Banana.",Apple,Couch,Grapes,Banana,B,Logic,Easy
+Q377,"Find the odd one out: Tractor, Potato, Helicopter, Motorbike.",Tractor,Potato,Helicopter,Motorbike,B,Logic,Medium
+Q378,"Find the odd one out: Heart, Square, Dog, Pentagon.",Heart,Square,Dog,Pentagon,C,Logic,Medium
+Q379,"Find the odd one out: Blue, Pink, Triangle, Green.",Blue,Pink,Triangle,Green,C,Logic,Easy
+Q380,"Find the odd one out: Bed, Trapezoid, Triangle, Hexagon.",Bed,Trapezoid,Triangle,Hexagon,A,Logic,Easy
+Q381,"Find the odd one out: Tractor, Ship, Car, Banana.",Tractor,Ship,Car,Banana,D,Logic,Easy
+Q382,"Find the odd one out: Circle, Bicycle, Bus, Ship.",Circle,Bicycle,Bus,Ship,A,Logic,Medium
+Q383,"Find the odd one out: Purple, Sofa, Pink, Red.",Purple,Sofa,Pink,Red,B,Logic,Medium
+Q384,"Find the odd one out: Onion, Spinach, Potato, Triangle.",Onion,Spinach,Potato,Triangle,D,Logic,Medium
+Q385,"Find the odd one out: Purple, Oval, Orange, Green.",Purple,Oval,Orange,Green,B,Logic,Medium
+Q386,"Find the odd one out: Beetroot, Wolf, Bear, Rabbit.",Beetroot,Wolf,Bear,Rabbit,A,Logic,Medium
+Q387,"Find the odd one out: Apple, Grapes, Beetroot, Orange.",Apple,Grapes,Beetroot,Orange,C,Logic,Medium
+Q388,"Find the odd one out: Dresser, Star, Pentagon, Circle.",Dresser,Star,Pentagon,Circle,A,Logic,Medium
+Q389,"Find the odd one out: Truck, White, Bicycle, Van.",Truck,White,Bicycle,Van,B,Logic,Medium
+Q390,"Find the odd one out: Star, Square, Hexagon, Cat.",Star,Square,Hexagon,Cat,D,Logic,Easy
+Q391,"Find the odd one out: Dresser, Bench, Trapezoid, Shelf.",Dresser,Bench,Trapezoid,Shelf,C,Logic,Easy
+Q392,"Find the odd one out: Cherry, Sofa, Couch, Cupboard.",Cherry,Sofa,Couch,Cupboard,A,Logic,Easy
+Q393,"Find the odd one out: Yellow, Black, Bicycle, Red.",Yellow,Black,Bicycle,Red,C,Logic,Medium
+Q394,"Find the odd one out: Pea, Car, Motorbike, Bicycle.",Pea,Car,Motorbike,Bicycle,A,Logic,Easy
+Q395,"Find the odd one out: Octagon, Tractor, Car, Bicycle.",Octagon,Tractor,Car,Bicycle,A,Logic,Easy
+Q396,"Find the odd one out: Onion, Spinach, Pentagon, Corn.",Onion,Spinach,Pentagon,Corn,C,Logic,Medium
+Q397,"Find the odd one out: Rabbit, Tiger, Octagon, Zebra.",Rabbit,Tiger,Octagon,Zebra,C,Logic,Easy
+Q398,"Find the odd one out: Pumpkin, Sofa, Corn, Pea.",Pumpkin,Sofa,Corn,Pea,B,Logic,Medium
+Q399,"Find the odd one out: Orange, Triangle, Mango, Pineapple.",Orange,Triangle,Mango,Pineapple,B,Logic,Medium
+Q400,"Find the odd one out: Ship, Bear, Tiger, Rabbit.",Ship,Bear,Tiger,Rabbit,A,Logic,Easy
+Q401,Select the synonym of 'strong'.,see,powerful,simple,quick,B,Verbal,Easy
+Q402,Select the word that rhymes with 'dog'.,pen,book,log,car,C,Verbal,Easy
+Q403,Select the synonym of 'end'.,courageous,close,silent,finish,D,Verbal,Easy
+Q404,Select the word that rhymes with 'pen'.,hen,stone,book,chair,A,Verbal,Easy
+Q405,Select the synonym of 'cold'.,chilly,powerful,inexpensive,request,A,Verbal,Easy
+Q406,Select the synonym of 'big'.,retain,large,begin,tiny,B,Verbal,Easy
+Q407,Select the synonym of 'angry'.,mad,silent,stroll,intelligent,A,Verbal,Easy
+Q408,Select the antonym of 'hard'.,soft,closed,out,down,A,Verbal,Easy
+Q409,Select the synonym of 'keep'.,noisy,close,retain,large,C,Verbal,Easy
+Q410,Select the synonym of 'cheap'.,silent,chilly,tiny,inexpensive,D,Verbal,Easy
+Q411,Select the antonym of 'light'.,sad,closed,dark,cold,C,Verbal,Easy
+Q412,Select the word that rhymes with 'car'.,pen,table,star,chair,C,Verbal,Easy
+Q413,Select the word that rhymes with 'dog'.,moon,stone,book,log,D,Verbal,Easy
+Q414,Select the synonym of 'help'.,large,retain,intelligent,assist,D,Verbal,Easy
+Q415,Select the synonym of 'small'.,tiny,close,silent,begin,A,Verbal,Easy
+Q416,Select the synonym of 'brave'.,see,donate,joyful,courageous,D,Verbal,Easy
+Q417,Select the synonym of 'end'.,begin,joyful,silent,finish,D,Verbal,Easy
+Q418,Select the synonym of 'start'.,begin,powerful,stroll,close,A,Verbal,Easy
+Q419,Select the antonym of 'big'.,slow,small,sad,empty,B,Verbal,Easy
+Q420,Select the word that rhymes with 'mouse'.,house,book,leaf,chair,A,Verbal,Easy
+Q421,Select the antonym of 'hot'.,dark,cold,out,closed,B,Verbal,Easy
+Q422,Select the synonym of 'quiet'.,tiny,finish,powerful,silent,D,Verbal,Easy
+Q423,Select the word that rhymes with 'tree'.,king,bee,book,car,B,Verbal,Easy
+Q424,Select the synonym of 'start'.,silent,inexpensive,begin,noisy,C,Verbal,Easy
+Q425,Select the word that rhymes with 'light'.,dog,king,night,moon,C,Verbal,Easy
+Q426,Select the synonym of 'cheap'.,intelligent,inexpensive,mad,chilly,B,Verbal,Easy
+Q427,Select the word that rhymes with 'car'.,pen,dog,star,leaf,C,Verbal,Easy
+Q428,Select the word that rhymes with 'dog'.,chair,leaf,log,table,C,Verbal,Easy
+Q429,Select the antonym of 'near'.,empty,dark,far,outside,C,Verbal,Easy
+Q430,Select the word that rhymes with 'mouse'.,moon,house,leaf,car,B,Verbal,Easy
+Q431,Select the word that rhymes with 'dog'.,log,chair,leaf,stone,A,Verbal,Easy
+Q432,Select the word that rhymes with 'ball'.,chair,dog,fall,king,C,Verbal,Easy
+Q433,Select the antonym of 'strong'.,empty,weak,closed,soft,B,Verbal,Easy
+Q434,Select the antonym of 'strong'.,empty,weak,sad,small,B,Verbal,Easy
+Q435,Select the word that rhymes with 'tree'.,stone,dog,table,bee,D,Verbal,Easy
+Q436,Select the antonym of 'full'.,empty,outside,sad,weak,A,Verbal,Easy
+Q437,Select the synonym of 'fast'.,large,joyful,quick,simple,C,Verbal,Easy
+Q438,Select the word that rhymes with 'dog'.,moon,log,leaf,book,B,Verbal,Easy
+Q439,Select the word that rhymes with 'cat'.,chair,hat,table,king,B,Verbal,Easy
+Q440,Select the synonym of 'cheap'.,see,inexpensive,stroll,close,B,Verbal,Easy
+Q441,Select the word that rhymes with 'pen'.,stone,dog,hen,car,C,Verbal,Easy
+Q442,Select the synonym of 'keep'.,powerful,joyful,retain,donate,C,Verbal,Easy
+Q443,Select the antonym of 'light'.,small,sad,dark,cold,C,Verbal,Easy
+Q444,Select the antonym of 'full'.,empty,out,weak,small,A,Verbal,Easy
+Q445,Select the antonym of 'big'.,dark,small,sad,cold,B,Verbal,Easy
+Q446,Select the word that rhymes with 'mouse'.,king,house,table,leaf,B,Verbal,Easy
+Q447,Select the antonym of 'hard'.,far,soft,empty,outside,B,Verbal,Easy
+Q448,Select the word that rhymes with 'cat'.,dog,table,hat,king,C,Verbal,Easy
+Q449,Select the synonym of 'start'.,wealthy,begin,stroll,close,B,Verbal,Easy
+Q450,Select the antonym of 'near'.,sad,slow,far,weak,C,Verbal,Easy
+Q451,Select the word that rhymes with 'ball'.,table,book,king,fall,D,Verbal,Easy
+Q452,Select the synonym of 'strong'.,request,joyful,silent,powerful,D,Verbal,Easy
+Q453,Select the word that rhymes with 'pen'.,moon,table,book,hen,D,Verbal,Easy
+Q454,Select the synonym of 'give'.,intelligent,chilly,donate,inexpensive,C,Verbal,Easy
+Q455,Select the synonym of 'brave'.,joyful,noisy,simple,courageous,D,Verbal,Easy
+Q456,Select the antonym of 'hard'.,soft,dark,far,small,A,Verbal,Easy
+Q457,Select the synonym of 'walk'.,stroll,begin,mad,donate,A,Verbal,Easy
+Q458,Select the synonym of 'end'.,noisy,joyful,begin,finish,D,Verbal,Easy
+Q459,Select the antonym of 'fast'.,empty,closed,small,slow,D,Verbal,Easy
+Q460,Select the word that rhymes with 'ball'.,fall,stone,pen,chair,A,Verbal,Easy
+Q461,Select the word that rhymes with 'ring'.,book,sing,moon,chair,B,Verbal,Easy
+Q462,Select the word that rhymes with 'pen'.,stone,leaf,moon,hen,D,Verbal,Easy
+Q463,Select the word that rhymes with 'ball'.,chair,pen,fall,stone,C,Verbal,Easy
+Q464,Select the antonym of 'up'.,outside,slow,soft,down,D,Verbal,Easy
+Q465,Select the antonym of 'light'.,small,far,dark,out,C,Verbal,Easy
+Q466,Select the synonym of 'loud'.,quick,noisy,begin,donate,B,Verbal,Easy
+Q467,Select the antonym of 'in'.,outside,weak,soft,out,D,Verbal,Easy
+Q468,Select the word that rhymes with 'dog'.,pen,chair,log,moon,C,Verbal,Easy
+Q469,Select the antonym of 'near'.,slow,far,weak,dark,B,Verbal,Easy
+Q470,Select the synonym of 'fast'.,request,close,quick,intelligent,C,Verbal,Easy
+Q471,Select the antonym of 'wet'.,soft,late,empty,dry,D,Verbal,Easy
+Q472,Select the word that rhymes with 'tree'.,king,bee,leaf,chair,B,Verbal,Easy
+Q473,Select the antonym of 'light'.,out,sad,closed,dark,D,Verbal,Easy
+Q474,Select the synonym of 'brave'.,finish,simple,courageous,large,C,Verbal,Easy
+Q475,Select the antonym of 'hot'.,closed,cold,out,dry,B,Verbal,Easy
+Q476,Select the synonym of 'cheap'.,inexpensive,joyful,assist,quick,A,Verbal,Easy
+Q477,Select the antonym of 'hot'.,cold,closed,sad,small,A,Verbal,Easy
+Q478,Select the word that rhymes with 'ring'.,king,table,sing,pen,C,Verbal,Easy
+Q479,Select the antonym of 'light'.,dark,far,slow,dry,A,Verbal,Easy
+Q480,Select the word that rhymes with 'pen'.,chair,table,king,hen,D,Verbal,Easy
+Q481,Select the antonym of 'big'.,small,dry,slow,outside,A,Verbal,Easy
+Q482,Select the antonym of 'hard'.,soft,far,small,dark,A,Verbal,Easy
+Q483,Select the synonym of 'cold'.,powerful,quick,inexpensive,chilly,D,Verbal,Easy
+Q484,Select the antonym of 'strong'.,dark,out,soft,weak,D,Verbal,Easy
+Q485,Select the antonym of 'fast'.,down,dark,slow,empty,C,Verbal,Easy
+Q486,Select the antonym of 'wet'.,dry,out,small,soft,A,Verbal,Easy
+Q487,Select the synonym of 'keep'.,large,intelligent,retain,tiny,C,Verbal,Easy
+Q488,Select the synonym of 'empty'.,vacant,begin,request,mad,A,Verbal,Easy
+Q489,Select the synonym of 'fast'.,noisy,quick,donate,stroll,B,Verbal,Easy
+Q490,Select the antonym of 'in'.,dark,weak,out,slow,C,Verbal,Easy
+Q491,Select the synonym of 'strong'.,noisy,request,powerful,large,C,Verbal,Easy
+Q492,Select the word that rhymes with 'ball'.,fall,car,stone,dog,A,Verbal,Easy
+Q493,Select the word that rhymes with 'cat'.,chair,stone,leaf,hat,D,Verbal,Easy
+Q494,Select the synonym of 'easy'.,silent,intelligent,simple,mad,C,Verbal,Easy
+Q495,Select the synonym of 'ask'.,noisy,finish,request,joyful,C,Verbal,Easy
+Q496,Select the antonym of 'happy'.,closed,slow,cold,sad,D,Verbal,Easy
+Q497,Select the antonym of 'full'.,empty,slow,closed,dry,A,Verbal,Easy
+Q498,Select the word that rhymes with 'dog'.,leaf,log,chair,table,B,Verbal,Easy
+Q499,Select the antonym of 'open'.,out,dry,sad,closed,D,Verbal,Easy
+Q500,Select the antonym of 'inside'.,outside,down,dry,soft,A,Verbal,Easy
+Q501,Select the synonym of 'big'.,large,noisy,vacant,finish,A,Verbal,Easy
+Q502,Select the synonym of 'fast'.,inexpensive,noisy,quick,joyful,C,Verbal,Easy
+Q503,Select the synonym of 'smart'.,intelligent,large,powerful,see,A,Verbal,Easy
+Q504,Select the word that rhymes with 'dog'.,pen,table,log,stone,C,Verbal,Easy
+Q505,Select the antonym of 'inside'.,far,dry,down,outside,D,Verbal,Easy
+Q506,Select the synonym of 'happy'.,joyful,quick,begin,powerful,A,Verbal,Easy
+Q507,Select the antonym of 'big'.,down,closed,small,late,C,Verbal,Easy
+Q508,Select the antonym of 'in'.,down,weak,out,cold,C,Verbal,Easy
+Q509,Select the antonym of 'near'.,dry,slow,far,dark,C,Verbal,Easy
+Q510,Select the synonym of 'loud'.,inexpensive,see,tiny,noisy,D,Verbal,Easy
+Q511,Select the antonym of 'strong'.,empty,sad,outside,weak,D,Verbal,Easy
+Q512,Select the antonym of 'near'.,slow,dry,far,cold,C,Verbal,Easy
+Q513,Select the antonym of 'hot'.,closed,outside,cold,sad,C,Verbal,Easy
+Q514,Select the antonym of 'near'.,far,soft,out,dry,A,Verbal,Easy
+Q515,Select the word that rhymes with 'dog'.,king,car,leaf,log,D,Verbal,Easy
+Q516,Select the synonym of 'strong'.,tiny,courageous,see,powerful,D,Verbal,Easy
+Q517,Select the word that rhymes with 'tree'.,bee,moon,leaf,book,A,Verbal,Easy
+Q518,Select the word that rhymes with 'pen'.,car,stone,hen,king,C,Verbal,Easy
+Q519,Select the word that rhymes with 'car'.,book,dog,moon,star,D,Verbal,Easy
+Q520,Select the antonym of 'up'.,down,sad,closed,soft,A,Verbal,Easy
+Q521,Select the word that rhymes with 'sun'.,table,car,fun,chair,C,Verbal,Easy
+Q522,Select the antonym of 'in'.,soft,slow,out,down,C,Verbal,Easy
+Q523,Select the antonym of 'hard'.,soft,small,cold,outside,A,Verbal,Easy
+Q524,Select the synonym of 'brave'.,mad,wealthy,finish,courageous,D,Verbal,Easy
+Q525,Select the synonym of 'ask'.,finish,request,assist,courageous,B,Verbal,Easy
+Q526,Select the antonym of 'hot'.,down,slow,cold,far,C,Verbal,Easy
+Q527,Select the antonym of 'in'.,small,far,out,soft,C,Verbal,Easy
+Q528,Select the word that rhymes with 'dog'.,king,log,stone,moon,B,Verbal,Easy
+Q529,Select the synonym of 'clean'.,wealthy,mad,inexpensive,tidy,D,Verbal,Easy
+Q530,Select the synonym of 'small'.,begin,joyful,tiny,courageous,C,Verbal,Easy
+Q531,Select the word that rhymes with 'ring'.,book,sing,table,leaf,B,Verbal,Easy
+Q532,Select the word that rhymes with 'ring'.,sing,pen,chair,moon,A,Verbal,Easy
+Q533,Select the synonym of 'smart'.,intelligent,mad,joyful,silent,A,Verbal,Easy
+Q534,Select the word that rhymes with 'light'.,moon,leaf,night,dog,C,Verbal,Easy
+Q535,Select the word that rhymes with 'pen'.,book,chair,hen,moon,C,Verbal,Easy
+Q536,Select the antonym of 'strong'.,weak,cold,far,dark,A,Verbal,Easy
+Q537,Select the word that rhymes with 'sun'.,fun,stone,car,book,A,Verbal,Easy
+Q538,Select the antonym of 'big'.,dry,small,outside,soft,B,Verbal,Easy
+Q539,Select the synonym of 'brave'.,finish,quick,stroll,courageous,D,Verbal,Easy
+Q540,Select the word that rhymes with 'sun'.,dog,fun,leaf,king,B,Verbal,Easy
+Q541,Select the antonym of 'near'.,cold,closed,far,sad,C,Verbal,Easy
+Q542,Select the synonym of 'clean'.,mad,close,retain,tidy,D,Verbal,Easy
+Q543,Select the word that rhymes with 'ball'.,king,moon,fall,stone,C,Verbal,Easy
+Q544,Select the synonym of 'clean'.,tiny,tidy,simple,noisy,B,Verbal,Easy
+Q545,Select the synonym of 'empty'.,stroll,vacant,chilly,large,B,Verbal,Easy
+Q546,Select the antonym of 'full'.,empty,dark,sad,slow,A,Verbal,Easy
+Q547,Select the word that rhymes with 'mouse'.,leaf,dog,chair,house,D,Verbal,Easy
+Q548,Select the word that rhymes with 'tree'.,dog,chair,bee,pen,C,Verbal,Easy
+Q549,Select the antonym of 'big'.,empty,far,weak,small,D,Verbal,Easy
+Q550,Select the word that rhymes with 'ring'.,chair,table,king,sing,D,Verbal,Easy
+Q551,Select the antonym of 'open'.,dark,slow,dry,closed,D,Verbal,Easy
+Q552,Select the word that rhymes with 'mouse'.,house,table,book,leaf,A,Verbal,Easy
+Q553,Select the synonym of 'near'.,finish,assist,chilly,close,D,Verbal,Easy
+Q554,Select the synonym of 'big'.,silent,close,large,inexpensive,C,Verbal,Easy
+Q555,Select the word that rhymes with 'sun'.,chair,fun,pen,stone,B,Verbal,Easy
+Q556,Select the antonym of 'full'.,cold,empty,closed,outside,B,Verbal,Easy
+Q557,Select the word that rhymes with 'ring'.,chair,dog,sing,king,C,Verbal,Easy
+Q558,Select the antonym of 'fast'.,slow,soft,closed,down,A,Verbal,Easy
+Q559,Select the synonym of 'empty'.,joyful,vacant,quick,silent,B,Verbal,Easy
+Q560,Select the antonym of 'happy'.,closed,outside,cold,sad,D,Verbal,Easy
+Q561,Select the word that rhymes with 'ball'.,table,book,dog,fall,D,Verbal,Easy
+Q562,Select the word that rhymes with 'car'.,star,pen,table,chair,A,Verbal,Easy
+Q563,Select the synonym of 'keep'.,chilly,wealthy,silent,retain,D,Verbal,Easy
+Q564,Select the synonym of 'help'.,courageous,inexpensive,donate,assist,D,Verbal,Easy
+Q565,Select the synonym of 'walk'.,finish,retain,courageous,stroll,D,Verbal,Easy
+Q566,Select the synonym of 'brave'.,finish,inexpensive,stroll,courageous,D,Verbal,Easy
+Q567,Select the synonym of 'smart'.,quick,joyful,intelligent,vacant,C,Verbal,Easy
+Q568,Select the word that rhymes with 'tree'.,book,table,bee,leaf,C,Verbal,Easy
+Q569,Select the synonym of 'walk'.,powerful,large,close,stroll,D,Verbal,Easy
+Q570,Select the synonym of 'help'.,inexpensive,assist,courageous,begin,B,Verbal,Easy
+Q571,Select the word that rhymes with 'cat'.,dog,car,table,hat,D,Verbal,Easy
+Q572,Select the word that rhymes with 'cat'.,dog,table,stone,hat,D,Verbal,Easy
+Q573,Select the word that rhymes with 'tree'.,pen,bee,king,book,B,Verbal,Easy
+Q574,Select the antonym of 'inside'.,closed,sad,outside,far,C,Verbal,Easy
+Q575,Select the word that rhymes with 'cat'.,chair,hat,leaf,pen,B,Verbal,Easy
+Q576,Select the synonym of 'loud'.,intelligent,close,tidy,noisy,D,Verbal,Easy
+Q577,Select the antonym of 'early'.,late,closed,small,slow,A,Verbal,Easy
+Q578,Select the antonym of 'wet'.,dry,outside,out,soft,A,Verbal,Easy
+Q579,Select the synonym of 'cold'.,silent,chilly,finish,donate,B,Verbal,Easy
+Q580,Select the word that rhymes with 'ring'.,stone,sing,dog,chair,B,Verbal,Easy
+Q581,Select the synonym of 'strong'.,request,powerful,stroll,tidy,B,Verbal,Easy
+Q582,Select the word that rhymes with 'cat'.,stone,book,hat,dog,C,Verbal,Easy
+Q583,Select the antonym of 'near'.,far,weak,dark,out,A,Verbal,Easy
+Q584,Select the synonym of 'strong'.,see,donate,vacant,powerful,D,Verbal,Easy
+Q585,Select the antonym of 'strong'.,empty,down,weak,dry,C,Verbal,Easy
+Q586,Select the antonym of 'hard'.,outside,dark,soft,small,C,Verbal,Easy
+Q587,Select the antonym of 'open'.,weak,closed,outside,slow,B,Verbal,Easy
+Q588,Select the synonym of 'happy'.,see,assist,joyful,begin,C,Verbal,Easy
+Q589,Select the antonym of 'strong'.,dry,weak,sad,far,B,Verbal,Easy
+Q590,Select the antonym of 'up'.,dry,far,down,soft,C,Verbal,Easy
+Q591,Select the synonym of 'cheap'.,tidy,inexpensive,courageous,stroll,B,Verbal,Easy
+Q592,Select the synonym of 'end'.,finish,assist,donate,retain,A,Verbal,Easy
+Q593,Select the synonym of 'big'.,quick,chilly,large,mad,C,Verbal,Easy
+Q594,Select the word that rhymes with 'dog'.,leaf,table,log,book,C,Verbal,Easy
+Q595,Select the antonym of 'strong'.,down,cold,empty,weak,D,Verbal,Easy
+Q596,Select the word that rhymes with 'mouse'.,moon,dog,house,leaf,C,Verbal,Easy
+Q597,Select the antonym of 'hot'.,small,outside,cold,sad,C,Verbal,Easy
+Q598,Select the antonym of 'inside'.,outside,far,slow,weak,A,Verbal,Easy
+Q599,Select the synonym of 'clean'.,retain,tidy,intelligent,stroll,B,Verbal,Easy
+Q600,Select the synonym of 'clean'.,inexpensive,tidy,request,silent,B,Verbal,Easy
+Q601,"Remember the sequence: 3, 2, 9. Which was second?",3,9,2,30,C,Memory,Medium
+Q602,"Remember the sequence: Triangle, Rectangle, Diamond. Which was second?",Circle,Diamond,Triangle,Rectangle,D,Memory,Medium
+Q603,"Remember the sequence: 6, 10, 10. Which was last?",10,10,6,28,A,Memory,Medium
+Q604,"Remember the sequence: Rectangle, Oval, Square. Which was first?",Oval,Hexagon,Square,Rectangle,D,Memory,Medium
+Q605,"Remember the sequence: Pentagon, Hexagon, Diamond. Which was last?",Diamond,Pentagon,Circle,Hexagon,A,Memory,Medium
+Q606,"Remember the sequence: Purple, Pink, Grey. Which was second?",Purple,Cyan,Grey,Pink,D,Memory,Medium
+Q607,"Remember the sequence: Cherry, Grapes, Papaya. Which was last?",Papaya,Pineapple,Cherry,Grapes,A,Memory,Medium
+Q608,"Remember the sequence: Black, Brown, White. Which was last?",Black,White,Brown,Orange,B,Memory,Medium
+Q609,"Remember the sequence: 12, 16, 5. Which was last?",5,12,25,16,A,Memory,Medium
+Q610,"Remember the sequence: White, Purple, Blue. Which was second?",Yellow,White,Blue,Purple,D,Memory,Medium
+Q611,"Remember the sequence: Circle, Oval, Octagon. Which was second?",Octagon,Diamond,Circle,Oval,D,Memory,Medium
+Q612,"Remember the sequence: Green, Red, Black. Which was second?",Black,Green,Yellow,Red,D,Memory,Medium
+Q613,"Remember the sequence: Green, White, Grey. Which was last?",Green,Grey,White,Black,B,Memory,Medium
+Q614,"Remember the sequence: Fox, Dog, Zebra. Which was first?",Dog,Fox,Zebra,Tiger,B,Memory,Medium
+Q615,"Remember the sequence: Kangaroo, Dog, Giraffe. Which was first?",Kangaroo,Dog,Rabbit,Giraffe,A,Memory,Medium
+Q616,"Remember the sequence: Elephant, Lion, Giraffe. Which was first?",Lion,Giraffe,Tiger,Elephant,D,Memory,Medium
+Q617,"Remember the sequence: Plum, Papaya, Peach. Which was second?",Peach,Papaya,Plum,Mango,B,Memory,Medium
+Q618,"Remember the sequence: 9, 8, 8. Which was second?",9,8,20,8,B,Memory,Medium
+Q619,"Remember the sequence: 16, 15, 10. Which was first?",15,10,23,16,D,Memory,Medium
+Q620,"Remember the sequence: Peach, Apple, Pear. Which was second?",Pineapple,Pear,Peach,Apple,D,Memory,Medium
+Q621,"Remember the sequence: Wolf, Tiger, Bear. Which was first?",Rabbit,Wolf,Bear,Tiger,B,Memory,Medium
+Q622,"Remember the sequence: 11, 2, 16. Which was first?",2,19,16,11,D,Memory,Medium
+Q623,"Remember the sequence: Lion, Giraffe, Kangaroo. Which was last?",Lion,Fox,Giraffe,Kangaroo,D,Memory,Medium
+Q624,"Remember the sequence: Hexagon, Trapezoid, Star. Which was second?",Pentagon,Star,Hexagon,Trapezoid,D,Memory,Medium
+Q625,"Remember the sequence: Circle, Square, Triangle. Which was last?",Rectangle,Triangle,Square,Circle,B,Memory,Medium
+Q626,"Remember the sequence: 19, 17, 7. Which was last?",28,7,19,17,B,Memory,Medium
+Q627,"Remember the sequence: Peach, Mango, Cherry. Which was last?",Plum,Peach,Cherry,Mango,C,Memory,Medium
+Q628,"Remember the sequence: Grapes, Pineapple, Papaya. Which was second?",Peach,Pineapple,Papaya,Grapes,B,Memory,Medium
+Q629,"Remember the sequence: Fox, Zebra, Wolf. Which was last?",Wolf,Zebra,Elephant,Fox,A,Memory,Medium
+Q630,"Remember the sequence: Plum, Orange, Banana. Which was second?",Orange,Papaya,Plum,Banana,A,Memory,Medium
+Q631,"Remember the sequence: Star, Diamond, Square. Which was second?",Pentagon,Star,Square,Diamond,D,Memory,Medium
+Q632,"Remember the sequence: 6, 2, 15. Which was first?",6,23,2,15,A,Memory,Medium
+Q633,"Remember the sequence: Rabbit, Fox, Zebra. Which was last?",Fox,Zebra,Rabbit,Tiger,B,Memory,Medium
+Q634,"Remember the sequence: Kangaroo, Elephant, Lion. Which was second?",Elephant,Kangaroo,Lion,Rabbit,A,Memory,Medium
+Q635,"Remember the sequence: Cyan, Pink, Blue. Which was second?",Cyan,Pink,Blue,Brown,B,Memory,Medium
+Q636,"Remember the sequence: 18, 9, 13. Which was first?",9,13,7,18,D,Memory,Medium
+Q637,"Remember the sequence: Peach, Papaya, Pineapple. Which was last?",Papaya,Apple,Peach,Pineapple,D,Memory,Medium
+Q638,"Remember the sequence: Dog, Cat, Rabbit. Which was second?",Cat,Rabbit,Zebra,Dog,A,Memory,Medium
+Q639,"Remember the sequence: Heart, Octagon, Circle. Which was last?",Heart,Circle,Triangle,Octagon,B,Memory,Medium
+Q640,"Remember the sequence: Rabbit, Dog, Tiger. Which was last?",Giraffe,Rabbit,Tiger,Dog,C,Memory,Medium
+Q641,"Remember the sequence: Triangle, Octagon, Circle. Which was last?",Hexagon,Circle,Octagon,Triangle,B,Memory,Medium
+Q642,"Remember the sequence: Blue, Red, Brown. Which was last?",Red,White,Brown,Blue,C,Memory,Medium
+Q643,"Remember the sequence: Heart, Pentagon, Circle. Which was last?",Pentagon,Star,Heart,Circle,D,Memory,Medium
+Q644,"Remember the sequence: Pentagon, Trapezoid, Hexagon. Which was first?",Oval,Pentagon,Hexagon,Trapezoid,B,Memory,Medium
+Q645,"Remember the sequence: Triangle, Trapezoid, Diamond. Which was last?",Diamond,Rectangle,Triangle,Trapezoid,A,Memory,Medium
+Q646,"Remember the sequence: Red, Cyan, Orange. Which was first?",Cyan,Blue,Red,Orange,C,Memory,Medium
+Q647,"Remember the sequence: Heart, Trapezoid, Square. Which was first?",Square,Heart,Octagon,Trapezoid,B,Memory,Medium
+Q648,"Remember the sequence: Circle, Pentagon, Hexagon. Which was first?",Oval,Hexagon,Circle,Pentagon,C,Memory,Medium
+Q649,"Remember the sequence: Grey, Brown, Purple. Which was last?",Grey,Brown,Blue,Purple,D,Memory,Medium
+Q650,"Remember the sequence: Square, Circle, Octagon. Which was first?",Circle,Triangle,Square,Octagon,C,Memory,Medium
+Q651,"Remember the sequence: Purple, Orange, White. Which was last?",White,Purple,Orange,Grey,A,Memory,Medium
+Q652,"Remember the sequence: Grapes, Apple, Cherry. Which was last?",Mango,Cherry,Grapes,Apple,B,Memory,Medium
+Q653,"Remember the sequence: Oval, Star, Square. Which was first?",Square,Star,Trapezoid,Oval,D,Memory,Medium
+Q654,"Remember the sequence: Red, Purple, Yellow. Which was second?",Yellow,Purple,Red,White,B,Memory,Medium
+Q655,"Remember the sequence: Star, Square, Oval. Which was first?",Star,Square,Oval,Diamond,A,Memory,Medium
+Q656,"Remember the sequence: Pineapple, Apple, Cherry. Which was second?",Apple,Cherry,Pineapple,Peach,A,Memory,Medium
+Q657,"Remember the sequence: Zebra, Fox, Dog. Which was last?",Fox,Zebra,Giraffe,Dog,D,Memory,Medium
+Q658,"Remember the sequence: Pineapple, Cherry, Plum. Which was second?",Pineapple,Orange,Plum,Cherry,D,Memory,Medium
+Q659,"Remember the sequence: Diamond, Triangle, Heart. Which was second?",Rectangle,Heart,Diamond,Triangle,D,Memory,Medium
+Q660,"Remember the sequence: Zebra, Lion, Dog. Which was second?",Kangaroo,Lion,Dog,Zebra,B,Memory,Medium
+Q661,"Remember the sequence: Pineapple, Grapes, Kiwi. Which was last?",Pineapple,Kiwi,Grapes,Apple,B,Memory,Medium
+Q662,"Remember the sequence: Peach, Banana, Cherry. Which was first?",Banana,Cherry,Peach,Mango,C,Memory,Medium
+Q663,"Remember the sequence: Kangaroo, Cat, Dog. Which was first?",Tiger,Dog,Cat,Kangaroo,D,Memory,Medium
+Q664,"Remember the sequence: 5, 19, 7. Which was second?",5,7,25,19,D,Memory,Medium
+Q665,"Remember the sequence: 18, 5, 9. Which was first?",9,13,5,18,D,Memory,Medium
+Q666,"Remember the sequence: Pentagon, Oval, Hexagon. Which was first?",Diamond,Pentagon,Oval,Hexagon,B,Memory,Medium
+Q667,"Remember the sequence: Lion, Bear, Cat. Which was first?",Tiger,Bear,Cat,Lion,D,Memory,Medium
+Q668,"Remember the sequence: Pineapple, Grapes, Kiwi. Which was last?",Pear,Pineapple,Grapes,Kiwi,D,Memory,Medium
+Q669,"Remember the sequence: Cherry, Papaya, Pear. Which was second?",Papaya,Pear,Cherry,Plum,A,Memory,Medium
+Q670,"Remember the sequence: Orange, Peach, Grapes. Which was second?",Grapes,Mango,Peach,Orange,C,Memory,Medium
+Q671,"Remember the sequence: 14, 5, 3. Which was last?",3,5,14,26,A,Memory,Medium
+Q672,"Remember the sequence: Giraffe, Elephant, Wolf. Which was first?",Wolf,Elephant,Bear,Giraffe,D,Memory,Medium
+Q673,"Remember the sequence: 19, 3, 12. Which was last?",12,8,3,19,A,Memory,Medium
+Q674,"Remember the sequence: Green, Yellow, Blue. Which was last?",Green,Yellow,Brown,Blue,D,Memory,Medium
+Q675,"Remember the sequence: Zebra, Fox, Bear. Which was last?",Rabbit,Fox,Zebra,Bear,D,Memory,Medium
+Q676,"Remember the sequence: Oval, Trapezoid, Hexagon. Which was last?",Oval,Hexagon,Trapezoid,Circle,B,Memory,Medium
+Q677,"Remember the sequence: Octagon, Pentagon, Square. Which was first?",Pentagon,Square,Triangle,Octagon,D,Memory,Medium
+Q678,"Remember the sequence: Plum, Mango, Pear. Which was first?",Apple,Mango,Pear,Plum,D,Memory,Medium
+Q679,"Remember the sequence: 18, 16, 19. Which was first?",19,18,16,6,B,Memory,Medium
+Q680,"Remember the sequence: Green, Cyan, Grey. Which was last?",Orange,Green,Cyan,Grey,D,Memory,Medium
+Q681,"Remember the sequence: Orange, Blue, White. Which was first?",Orange,White,Blue,Purple,A,Memory,Medium
+Q682,"Remember the sequence: Kiwi, Mango, Cherry. Which was second?",Mango,Kiwi,Papaya,Cherry,A,Memory,Medium
+Q683,"Remember the sequence: Lion, Zebra, Tiger. Which was first?",Zebra,Lion,Bear,Tiger,B,Memory,Medium
+Q684,"Remember the sequence: 14, 16, 8. Which was first?",16,14,28,8,B,Memory,Medium
+Q685,"Remember the sequence: Pineapple, Banana, Pear. Which was last?",Pineapple,Banana,Apple,Pear,D,Memory,Medium
+Q686,"Remember the sequence: 9, 17, 13. Which was first?",17,9,29,13,B,Memory,Medium
+Q687,"Remember the sequence: 2, 19, 10. Which was first?",27,19,10,2,D,Memory,Medium
+Q688,"Remember the sequence: 8, 8, 12. Which was last?",12,24,8,8,A,Memory,Medium
+Q689,"Remember the sequence: Rabbit, Bear, Lion. Which was first?",Rabbit,Bear,Lion,Cat,A,Memory,Medium
+Q690,"Remember the sequence: Pink, Grey, Black. Which was second?",Pink,Grey,Purple,Black,B,Memory,Medium
+Q691,"Remember the sequence: Pineapple, Plum, Kiwi. Which was first?",Plum,Kiwi,Pineapple,Orange,C,Memory,Medium
+Q692,"Remember the sequence: Fox, Rabbit, Cat. Which was first?",Rabbit,Giraffe,Fox,Cat,C,Memory,Medium
+Q693,"Remember the sequence: Circle, Pentagon, Star. Which was first?",Pentagon,Circle,Star,Triangle,B,Memory,Medium
+Q694,"Remember the sequence: 5, 17, 15. Which was last?",17,15,2,5,B,Memory,Medium
+Q695,"Remember the sequence: Pear, Orange, Peach. Which was last?",Pineapple,Peach,Pear,Orange,B,Memory,Medium
+Q696,"Remember the sequence: Orange, Pink, White. Which was second?",Brown,Orange,Pink,White,C,Memory,Medium
+Q697,"Remember the sequence: 5, 7, 17. Which was second?",17,5,6,7,D,Memory,Medium
+Q698,"Remember the sequence: Blue, Cyan, Pink. Which was first?",Cyan,Black,Pink,Blue,D,Memory,Medium
+Q699,"Remember the sequence: Pink, Yellow, Green. Which was last?",Pink,Green,Cyan,Yellow,B,Memory,Medium
+Q700,"Remember the sequence: 16, 17, 14. Which was first?",16,14,17,18,A,Memory,Medium
+Q701,"Remember the sequence: Heart, Circle, Star. Which was first?",Circle,Rectangle,Heart,Star,C,Memory,Medium
+Q702,"Remember the sequence: Octagon, Rectangle, Circle. Which was second?",Hexagon,Circle,Rectangle,Octagon,C,Memory,Medium
+Q703,"Remember the sequence: Green, Pink, Grey. Which was second?",Green,Grey,Pink,Purple,C,Memory,Medium
+Q704,"Remember the sequence: Trapezoid, Circle, Rectangle. Which was last?",Hexagon,Rectangle,Trapezoid,Circle,B,Memory,Medium
+Q705,"Remember the sequence: Purple, Pink, Cyan. Which was last?",Cyan,Pink,Black,Purple,A,Memory,Medium
+Q706,"Remember the sequence: 1, 1, 1. Which was first?",19,1,1,1,B,Memory,Medium
+Q707,"Remember the sequence: Zebra, Bear, Dog. Which was last?",Wolf,Zebra,Dog,Bear,C,Memory,Medium
+Q708,"Remember the sequence: Brown, Yellow, Orange. Which was last?",Blue,Yellow,Orange,Brown,C,Memory,Medium
+Q709,"Remember the sequence: Cyan, Red, Green. Which was second?",Red,Green,Cyan,White,A,Memory,Medium
+Q710,"Remember the sequence: Octagon, Star, Pentagon. Which was first?",Star,Square,Octagon,Pentagon,C,Memory,Medium
+Q711,"Remember the sequence: Grey, Red, Blue. Which was second?",Black,Blue,Grey,Red,D,Memory,Medium
+Q712,"Remember the sequence: 9, 9, 6. Which was second?",11,9,6,9,B,Memory,Medium
+Q713,"Remember the sequence: Apple, Pear, Mango. Which was second?",Mango,Kiwi,Pear,Apple,C,Memory,Medium
+Q714,"Remember the sequence: Hexagon, Circle, Diamond. Which was last?",Diamond,Circle,Hexagon,Square,A,Memory,Medium
+Q715,"Remember the sequence: 3, 11, 12. Which was last?",21,12,11,3,B,Memory,Medium
+Q716,"Remember the sequence: Wolf, Dog, Zebra. Which was first?",Zebra,Wolf,Giraffe,Dog,B,Memory,Medium
+Q717,"Remember the sequence: Cat, Kangaroo, Dog. Which was second?",Cat,Dog,Kangaroo,Tiger,C,Memory,Medium
+Q718,"Remember the sequence: Hexagon, Heart, Rectangle. Which was first?",Heart,Hexagon,Trapezoid,Rectangle,B,Memory,Medium
+Q719,"Remember the sequence: Cat, Kangaroo, Giraffe. Which was last?",Kangaroo,Giraffe,Dog,Cat,B,Memory,Medium
+Q720,"Remember the sequence: Orange, Red, Cyan. Which was second?",White,Cyan,Orange,Red,D,Memory,Medium
+Q721,"Remember the sequence: Dog, Wolf, Fox. Which was last?",Wolf,Lion,Dog,Fox,D,Memory,Medium
+Q722,"Remember the sequence: Black, Orange, Purple. Which was second?",Black,Blue,Orange,Purple,C,Memory,Medium
+Q723,"Remember the sequence: Heart, Diamond, Rectangle. Which was second?",Heart,Octagon,Rectangle,Diamond,D,Memory,Medium
+Q724,"Remember the sequence: Mango, Cherry, Kiwi. Which was last?",Mango,Kiwi,Pear,Cherry,B,Memory,Medium
+Q725,"Remember the sequence: Kangaroo, Dog, Tiger. Which was first?",Kangaroo,Tiger,Dog,Bear,A,Memory,Medium
+Q726,"Remember the sequence: Oval, Octagon, Rectangle. Which was last?",Oval,Star,Octagon,Rectangle,D,Memory,Medium
+Q727,"Remember the sequence: Wolf, Bear, Kangaroo. Which was first?",Kangaroo,Giraffe,Bear,Wolf,D,Memory,Medium
+Q728,"Remember the sequence: Fox, Wolf, Bear. Which was first?",Bear,Giraffe,Fox,Wolf,C,Memory,Medium
+Q729,"Remember the sequence: Elephant, Fox, Lion. Which was second?",Cat,Lion,Fox,Elephant,C,Memory,Medium
+Q730,"Remember the sequence: Banana, Apple, Orange. Which was last?",Orange,Banana,Grapes,Apple,A,Memory,Medium
+Q731,"Remember the sequence: Elephant, Zebra, Fox. Which was second?",Elephant,Fox,Zebra,Bear,C,Memory,Medium
+Q732,"Remember the sequence: Zebra, Giraffe, Tiger. Which was last?",Lion,Giraffe,Tiger,Zebra,C,Memory,Medium
+Q733,"Remember the sequence: Black, Blue, White. Which was first?",Yellow,Blue,Black,White,C,Memory,Medium
+Q734,"Remember the sequence: Banana, Cherry, Apple. Which was second?",Cherry,Banana,Plum,Apple,A,Memory,Medium
+Q735,"Remember the sequence: Octagon, Hexagon, Square. Which was first?",Heart,Hexagon,Octagon,Square,C,Memory,Medium
+Q736,"Remember the sequence: Banana, Papaya, Pear. Which was first?",Banana,Pear,Papaya,Cherry,A,Memory,Medium
+Q737,"Remember the sequence: Mango, Banana, Orange. Which was second?",Kiwi,Orange,Mango,Banana,D,Memory,Medium
+Q738,"Remember the sequence: Black, Grey, Brown. Which was last?",Brown,Green,Black,Grey,A,Memory,Medium
+Q739,"Remember the sequence: Hexagon, Triangle, Trapezoid. Which was second?",Rectangle,Hexagon,Triangle,Trapezoid,C,Memory,Medium
+Q740,"Remember the sequence: 20, 10, 4. Which was first?",4,10,8,20,D,Memory,Medium
+Q741,"Remember the sequence: 9, 20, 3. Which was first?",9,20,24,3,A,Memory,Medium
+Q742,"Remember the sequence: Orange, Kiwi, Banana. Which was first?",Banana,Orange,Kiwi,Mango,B,Memory,Medium
+Q743,"Remember the sequence: Pink, Orange, Cyan. Which was second?",Pink,Orange,Purple,Cyan,B,Memory,Medium
+Q744,"Remember the sequence: 19, 1, 8. Which was second?",8,4,19,1,D,Memory,Medium
+Q745,"Remember the sequence: Rabbit, Giraffe, Dog. Which was first?",Dog,Rabbit,Elephant,Giraffe,B,Memory,Medium
+Q746,"Remember the sequence: Elephant, Tiger, Rabbit. Which was first?",Cat,Rabbit,Elephant,Tiger,C,Memory,Medium
+Q747,"Remember the sequence: Cyan, Yellow, White. Which was first?",Yellow,Cyan,Red,White,B,Memory,Medium
+Q748,"Remember the sequence: Banana, Kiwi, Pear. Which was last?",Pineapple,Banana,Kiwi,Pear,D,Memory,Medium
+Q749,"Remember the sequence: Blue, White, Cyan. Which was second?",Cyan,Pink,White,Blue,C,Memory,Medium
+Q750,"Remember the sequence: 6, 6, 12. Which was last?",9,12,6,6,B,Memory,Medium
+Q751,"Remember the sequence: 11, 20, 2. Which was last?",11,2,3,20,B,Memory,Medium
+Q752,"Remember the sequence: Cherry, Peach, Apple. Which was last?",Peach,Banana,Cherry,Apple,D,Memory,Medium
+Q753,"Remember the sequence: Grapes, Cherry, Apple. Which was second?",Cherry,Mango,Apple,Grapes,A,Memory,Medium
+Q754,"Remember the sequence: Oval, Rectangle, Diamond. Which was first?",Diamond,Rectangle,Pentagon,Oval,D,Memory,Medium
+Q755,"Remember the sequence: Pineapple, Kiwi, Plum. Which was first?",Cherry,Pineapple,Kiwi,Plum,B,Memory,Medium
+Q756,"Remember the sequence: Trapezoid, Heart, Octagon. Which was last?",Trapezoid,Octagon,Pentagon,Heart,B,Memory,Medium
+Q757,"Remember the sequence: Kiwi, Peach, Orange. Which was last?",Plum,Kiwi,Peach,Orange,D,Memory,Medium
+Q758,"Remember the sequence: 10, 19, 20. Which was first?",10,20,11,19,A,Memory,Medium
+Q759,"Remember the sequence: Grapes, Banana, Plum. Which was last?",Apple,Banana,Grapes,Plum,D,Memory,Medium
+Q760,"Remember the sequence: Giraffe, Zebra, Fox. Which was last?",Giraffe,Wolf,Fox,Zebra,C,Memory,Medium
+Q761,"Remember the sequence: Circle, Heart, Pentagon. Which was first?",Circle,Star,Pentagon,Heart,A,Memory,Medium
+Q762,"Remember the sequence: Octagon, Triangle, Rectangle. Which was second?",Rectangle,Hexagon,Octagon,Triangle,D,Memory,Medium
+Q763,"Remember the sequence: Elephant, Wolf, Lion. Which was first?",Lion,Elephant,Dog,Wolf,B,Memory,Medium
+Q764,"Remember the sequence: Brown, Orange, Red. Which was first?",Orange,Cyan,Red,Brown,D,Memory,Medium
+Q765,"Remember the sequence: 2, 19, 10. Which was second?",2,19,13,10,B,Memory,Medium
+Q766,"Remember the sequence: Blue, Purple, Red. Which was second?",Yellow,Red,Purple,Blue,C,Memory,Medium
+Q767,"Remember the sequence: 7, 8, 14. Which was last?",16,14,7,8,B,Memory,Medium
+Q768,"Remember the sequence: 9, 19, 14. Which was last?",9,28,14,19,C,Memory,Medium
+Q769,"Remember the sequence: Trapezoid, Circle, Oval. Which was last?",Circle,Square,Trapezoid,Oval,D,Memory,Medium
+Q770,"Remember the sequence: Rabbit, Elephant, Cat. Which was first?",Kangaroo,Cat,Rabbit,Elephant,C,Memory,Medium
+Q771,"Remember the sequence: Red, Black, Purple. Which was first?",Red,Purple,Blue,Black,A,Memory,Medium
+Q772,"Remember the sequence: Papaya, Peach, Pear. Which was second?",Pear,Peach,Cherry,Papaya,B,Memory,Medium
+Q773,"Remember the sequence: Grey, Blue, Brown. Which was last?",Grey,Brown,Blue,Cyan,B,Memory,Medium
+Q774,"Remember the sequence: 18, 20, 20. Which was second?",18,20,25,20,B,Memory,Medium
+Q775,"Remember the sequence: Oval, Hexagon, Pentagon. Which was first?",Trapezoid,Oval,Hexagon,Pentagon,B,Memory,Medium
+Q776,"Remember the sequence: Pear, Grapes, Peach. Which was last?",Grapes,Peach,Kiwi,Pear,B,Memory,Medium
+Q777,"Remember the sequence: 2, 4, 6. Which was last?",6,5,2,4,A,Memory,Medium
+Q778,"Remember the sequence: Yellow, Pink, Grey. Which was second?",Purple,Pink,Grey,Yellow,B,Memory,Medium
+Q779,"Remember the sequence: Pineapple, Cherry, Plum. Which was last?",Pineapple,Plum,Cherry,Kiwi,B,Memory,Medium
+Q780,"Remember the sequence: Dog, Rabbit, Zebra. Which was second?",Zebra,Rabbit,Dog,Cat,B,Memory,Medium
+Q781,"Remember the sequence: Kiwi, Banana, Pear. Which was second?",Banana,Papaya,Pear,Kiwi,A,Memory,Medium
+Q782,"Remember the sequence: 1, 5, 1. Which was second?",1,5,1,19,B,Memory,Medium
+Q783,"Remember the sequence: Fox, Tiger, Wolf. Which was first?",Cat,Tiger,Wolf,Fox,D,Memory,Medium
+Q784,"Remember the sequence: Hexagon, Rectangle, Circle. Which was first?",Circle,Rectangle,Hexagon,Trapezoid,C,Memory,Medium
+Q785,"Remember the sequence: Orange, Red, Yellow. Which was second?",White,Yellow,Red,Orange,C,Memory,Medium
+Q786,"Remember the sequence: Fox, Zebra, Lion. Which was last?",Bear,Fox,Lion,Zebra,C,Memory,Medium
+Q787,"Remember the sequence: 17, 16, 16. Which was last?",16,17,16,21,A,Memory,Medium
+Q788,"Remember the sequence: Grey, Purple, Orange. Which was first?",White,Grey,Purple,Orange,B,Memory,Medium
+Q789,"Remember the sequence: Hexagon, Trapezoid, Oval. Which was first?",Octagon,Oval,Trapezoid,Hexagon,D,Memory,Medium
+Q790,"Remember the sequence: Pink, Green, Orange. Which was first?",Green,Pink,Orange,Cyan,B,Memory,Medium
+Q791,"Remember the sequence: Orange, Yellow, Blue. Which was last?",White,Yellow,Orange,Blue,D,Memory,Medium
+Q792,"Remember the sequence: Banana, Papaya, Pear. Which was second?",Pear,Banana,Pineapple,Papaya,D,Memory,Medium
+Q793,"Remember the sequence: Grey, Yellow, Black. Which was last?",Yellow,Grey,Red,Black,D,Memory,Medium
+Q794,"Remember the sequence: Bear, Lion, Fox. Which was second?",Wolf,Fox,Bear,Lion,D,Memory,Medium
+Q795,"Remember the sequence: Mango, Papaya, Grapes. Which was first?",Papaya,Grapes,Peach,Mango,D,Memory,Medium
+Q796,"Remember the sequence: Tiger, Wolf, Cat. Which was second?",Tiger,Cat,Zebra,Wolf,D,Memory,Medium
+Q797,"Remember the sequence: Square, Heart, Hexagon. Which was first?",Heart,Hexagon,Diamond,Square,D,Memory,Medium
+Q798,"Remember the sequence: Black, White, Red. Which was first?",Red,Black,Blue,White,B,Memory,Medium
+Q799,"Remember the sequence: 2, 20, 6. Which was last?",2,20,10,6,D,Memory,Medium
+Q800,"Remember the sequence: Zebra, Fox, Giraffe. Which was first?",Fox,Bear,Zebra,Giraffe,C,Memory,Medium
+Q801,"Complete the pattern: 1, 5, 4, ?",11,10,3,8,D,Pattern Recognition,Hard
+Q802,"Complete the pattern: 1, 2, 4, ?",11,3,5,8,D,Pattern Recognition,Medium
+Q803,"Complete the pattern: 4, 16, 64, ?",256,215,285,237,A,Pattern Recognition,Medium
+Q804,"Complete the pattern: 2, 4, 4, ?",8,6,4,5,B,Pattern Recognition,Medium
+Q805,"Complete the pattern: 4, 8, 16, ?",37,36,32,34,C,Pattern Recognition,Medium
+Q806,"Complete the pattern: 7, 4, 9, ?",2,5,6,10,C,Pattern Recognition,Medium
+Q807,"Complete the pattern: 1, 3, 5, ?",10,7,11,9,B,Pattern Recognition,Easy
+Q808,"Complete the pattern: 7, 6, 11, ?",10,11,8,7,A,Pattern Recognition,Hard
+Q809,"Complete the pattern: 4, 12, 36, ?",95,108,127,103,B,Pattern Recognition,Medium
+Q810,"Complete the pattern: 6, 1, 8, ?",3,5,8,2,A,Pattern Recognition,Medium
+Q811,"Complete the pattern: 3, 8, 13, ?",16,22,18,21,C,Pattern Recognition,Medium
+Q812,"Complete the pattern: 2, 8, 32, ?",128,138,127,136,A,Pattern Recognition,Medium
+Q813,"Complete the pattern: 7, 2, 10, ?",1,8,6,5,D,Pattern Recognition,Hard
+Q814,"Complete the pattern: 4, 8, 16, ?",38,34,36,32,D,Pattern Recognition,Medium
+Q815,"Complete the pattern: 6, 7, 9, ?",10,8,13,7,A,Pattern Recognition,Hard
+Q816,"Complete the pattern: 5, 20, 80, ?",320,263,323,374,A,Pattern Recognition,Medium
+Q817,"Complete the pattern: 1, 2, 4, ?",7,10,8,13,C,Pattern Recognition,Medium
+Q818,"Complete the pattern: 3, 6, 12, ?",29,25,24,26,C,Pattern Recognition,Medium
+Q819,"Complete the pattern: 6, 9, 12, ?",17,12,19,15,D,Pattern Recognition,Medium
+Q820,"Complete the pattern: 2, 6, 3, ?",8,7,3,11,B,Pattern Recognition,Medium
+Q821,"Complete the pattern: 12, 16, 20, ?",28,20,26,24,D,Pattern Recognition,Medium
+Q822,"Complete the pattern: 3, 6, 12, ?",24,20,22,19,A,Pattern Recognition,Medium
+Q823,"Complete the pattern: 12, 18, 24, ?",27,34,30,31,C,Pattern Recognition,Medium
+Q824,"Complete the pattern: 3, 12, 48, ?",192,165,196,187,A,Pattern Recognition,Medium
+Q825,"Complete the pattern: 2, 4, 8, ?",15,21,13,16,D,Pattern Recognition,Medium
+Q826,"Complete the pattern: 10, 16, 22, ?",29,28,27,31,B,Pattern Recognition,Medium
+Q827,"Complete the pattern: 5, 10, 20, ?",38,40,39,32,B,Pattern Recognition,Medium
+Q828,"Complete the pattern: 2, 4, 8, ?",13,12,18,16,D,Pattern Recognition,Medium
+Q829,"Complete the pattern: 4, 10, 16, ?",22,24,23,21,A,Pattern Recognition,Medium
+Q830,"Complete the pattern: 5, 2, 9, ?",4,6,9,8,B,Pattern Recognition,Hard
+Q831,"Complete the pattern: 7, 12, 17, ?",22,27,23,17,A,Pattern Recognition,Medium
+Q832,"Complete the pattern: 4, 12, 36, ?",108,104,106,89,A,Pattern Recognition,Medium
+Q833,"Complete the pattern: 5, 7, 9, ?",8,6,16,11,D,Pattern Recognition,Hard
+Q834,"Complete the pattern: 10, 12, 14, ?",11,15,16,14,C,Pattern Recognition,Easy
+Q835,"Complete the pattern: 4, 16, 64, ?",205,266,298,256,D,Pattern Recognition,Medium
+Q836,"Complete the pattern: 1, 2, 4, ?",9,7,10,8,D,Pattern Recognition,Medium
+Q837,"Complete the pattern: 2, 3, 4, ?",7,5,6,0,B,Pattern Recognition,Easy
+Q838,"Complete the pattern: 4, 8, 16, ?",32,31,34,30,A,Pattern Recognition,Medium
+Q839,"Complete the pattern: 12, 15, 18, ?",21,20,22,16,A,Pattern Recognition,Medium
+Q840,"Complete the pattern: 8, 9, 10, ?",12,6,10,11,D,Pattern Recognition,Easy
+Q841,"Complete the pattern: 2, 8, 32, ?",121,128,116,153,B,Pattern Recognition,Medium
+Q842,"Complete the pattern: 1, 3, 9, ?",29,23,24,27,D,Pattern Recognition,Medium
+Q843,"Complete the pattern: 4, 12, 36, ?",92,122,114,108,D,Pattern Recognition,Medium
+Q844,"Complete the pattern: 4, 2, 5, ?",3,5,4,8,A,Pattern Recognition,Medium
+Q845,"Complete the pattern: 1, 2, 4, ?",6,8,3,7,B,Pattern Recognition,Medium
+Q846,"Complete the pattern: 4, 6, 5, ?",12,9,7,5,C,Pattern Recognition,Medium
+Q847,"Complete the pattern: 7, 6, 9, ?",11,7,8,9,C,Pattern Recognition,Medium
+Q848,"Complete the pattern: 1, 2, 4, ?",13,5,8,4,C,Pattern Recognition,Medium
+Q849,"Complete the pattern: 2, 4, 8, ?",14,18,19,16,D,Pattern Recognition,Medium
+Q850,"Complete the pattern: 4, 8, 16, ?",35,36,38,32,D,Pattern Recognition,Medium
+Q851,"Complete the pattern: 6, 1, 7, ?",6,2,0,3,B,Pattern Recognition,Medium
+Q852,"Complete the pattern: 4, 8, 16, ?",32,34,36,28,A,Pattern Recognition,Medium
+Q853,"Complete the pattern: 3, 2, 6, ?",5,1,4,8,A,Pattern Recognition,Hard
+Q854,"Complete the pattern: 4, 8, 16, ?",30,36,37,32,D,Pattern Recognition,Medium
+Q855,"Complete the pattern: 12, 17, 22, ?",24,26,32,27,D,Pattern Recognition,Medium
+Q856,"Complete the pattern: 3, 6, 12, ?",24,21,26,22,A,Pattern Recognition,Medium
+Q857,"Complete the pattern: 11, 13, 15, ?",14,12,13,17,D,Pattern Recognition,Easy
+Q858,"Complete the pattern: 4, 8, 16, ?",26,32,30,31,B,Pattern Recognition,Medium
+Q859,"Complete the pattern: 5, 3, 9, ?",11,10,7,2,C,Pattern Recognition,Hard
+Q860,"Complete the pattern: 4, 12, 36, ?",108,119,102,100,A,Pattern Recognition,Medium
+Q861,"Complete the pattern: 9, 15, 21, ?",27,30,26,23,A,Pattern Recognition,Medium
+Q862,"Complete the pattern: 10, 16, 22, ?",27,28,29,30,B,Pattern Recognition,Medium
+Q863,"Complete the pattern: 1, 2, 4, ?",8,6,12,13,A,Pattern Recognition,Medium
+Q864,"Complete the pattern: 7, 4, 8, ?",3,1,10,5,D,Pattern Recognition,Medium
+Q865,"Complete the pattern: 1, 2, 4, ?",7,6,8,11,C,Pattern Recognition,Medium
+Q866,"Complete the pattern: 2, 4, 8, ?",19,14,16,11,C,Pattern Recognition,Medium
+Q867,"Complete the pattern: 7, 9, 11, ?",8,17,13,18,C,Pattern Recognition,Easy
+Q868,"Complete the pattern: 2, 4, 6, ?",13,11,8,12,C,Pattern Recognition,Easy
+Q869,"Complete the pattern: 3, 6, 12, ?",25,27,24,26,C,Pattern Recognition,Medium
+Q870,"Complete the pattern: 3, 6, 12, ?",21,24,27,29,B,Pattern Recognition,Medium
+Q871,"Complete the pattern: 4, 12, 36, ?",92,115,95,108,D,Pattern Recognition,Medium
+Q872,"Complete the pattern: 3, 3, 4, ?",4,0,2,7,A,Pattern Recognition,Medium
+Q873,"Complete the pattern: 3, 5, 6, ?",8,9,6,7,A,Pattern Recognition,Hard
+Q874,"Complete the pattern: 11, 16, 21, ?",29,26,21,22,B,Pattern Recognition,Medium
+Q875,"Complete the pattern: 10, 15, 20, ?",30,25,20,23,B,Pattern Recognition,Medium
+Q876,"Complete the pattern: 1, 2, 4, ?",12,7,8,11,C,Pattern Recognition,Medium
+Q877,"Complete the pattern: 1, 7, 13, ?",20,24,19,21,C,Pattern Recognition,Medium
+Q878,"Complete the pattern: 3, 6, 12, ?",24,26,19,28,A,Pattern Recognition,Medium
+Q879,"Complete the pattern: 1, 2, 4, ?",4,10,11,8,D,Pattern Recognition,Medium
+Q880,"Complete the pattern: 4, 12, 36, ?",108,102,115,116,A,Pattern Recognition,Medium
+Q881,"Complete the pattern: 2, 4, 8, ?",16,19,20,12,A,Pattern Recognition,Medium
+Q882,"Complete the pattern: 5, 20, 80, ?",312,332,357,320,D,Pattern Recognition,Medium
+Q883,"Complete the pattern: 3, 6, 12, ?",26,24,20,25,B,Pattern Recognition,Medium
+Q884,"Complete the pattern: 3, 7, 5, ?",9,8,6,10,A,Pattern Recognition,Medium
+Q885,"Complete the pattern: 2, 2, 3, ?",8,1,5,3,D,Pattern Recognition,Medium
+Q886,"Complete the pattern: 11, 17, 23, ?",28,29,33,24,B,Pattern Recognition,Medium
+Q887,"Complete the pattern: 4, 8, 16, ?",35,30,32,33,C,Pattern Recognition,Medium
+Q888,"Complete the pattern: 1, 2, 4, ?",13,3,8,9,C,Pattern Recognition,Medium
+Q889,"Complete the pattern: 1, 2, 4, ?",8,11,10,13,A,Pattern Recognition,Medium
+Q890,"Complete the pattern: 4, 7, 10, ?",10,13,17,9,B,Pattern Recognition,Medium
+Q891,"Complete the pattern: 3, 7, 11, ?",14,10,12,15,D,Pattern Recognition,Medium
+Q892,"Complete the pattern: 5, 10, 20, ?",40,39,37,44,A,Pattern Recognition,Medium
+Q893,"Complete the pattern: 2, 4, 8, ?",20,17,12,16,D,Pattern Recognition,Medium
+Q894,"Complete the pattern: 3, 6, 12, ?",24,25,27,19,A,Pattern Recognition,Medium
+Q895,"Complete the pattern: 5, 10, 20, ?",46,37,40,34,C,Pattern Recognition,Medium
+Q896,"Complete the pattern: 1, 5, 9, ?",8,14,13,12,C,Pattern Recognition,Medium
+Q897,"Complete the pattern: 4, 8, 16, ?",32,35,30,36,A,Pattern Recognition,Medium
+Q898,"Complete the pattern: 7, 9, 11, ?",12,13,18,16,B,Pattern Recognition,Easy
+Q899,"Complete the pattern: 5, 10, 20, ?",40,37,48,47,A,Pattern Recognition,Medium
+Q900,"Complete the pattern: 8, 11, 14, ?",17,15,18,19,A,Pattern Recognition,Medium
+Q901,"Complete the pattern: 5, 10, 20, ?",40,44,38,42,A,Pattern Recognition,Medium
+Q902,"Complete the pattern: 4, 9, 14, ?",23,20,16,19,D,Pattern Recognition,Medium
+Q903,"Complete the pattern: 2, 5, 8, ?",6,16,11,14,C,Pattern Recognition,Medium
+Q904,"Complete the pattern: 3, 6, 12, ?",24,26,29,23,A,Pattern Recognition,Medium
+Q905,"Complete the pattern: 4, 8, 16, ?",30,32,27,29,B,Pattern Recognition,Medium
+Q906,"Complete the pattern: 1, 3, 9, ?",27,29,32,28,A,Pattern Recognition,Medium
+Q907,"Complete the pattern: 2, 4, 8, ?",13,16,14,18,B,Pattern Recognition,Medium
+Q908,"Complete the pattern: 12, 14, 16, ?",14,17,18,22,C,Pattern Recognition,Easy
+Q909,"Complete the pattern: 6, 6, 9, ?",8,9,14,12,B,Pattern Recognition,Hard
+Q910,"Complete the pattern: 5, 10, 15, ?",21,20,19,17,B,Pattern Recognition,Medium
+Q911,"Complete the pattern: 1, 3, 5, ?",7,5,3,6,A,Pattern Recognition,Hard
+Q912,"Complete the pattern: 1, 2, 4, ?",6,8,10,11,B,Pattern Recognition,Medium
+Q913,"Complete the pattern: 1, 3, 4, ?",1,3,6,9,C,Pattern Recognition,Hard
+Q914,"Complete the pattern: 6, 7, 8, ?",9,11,14,7,A,Pattern Recognition,Easy
+Q915,"Complete the pattern: 4, 8, 16, ?",32,34,33,37,A,Pattern Recognition,Medium
+Q916,"Complete the pattern: 2, 4, 8, ?",19,20,16,14,C,Pattern Recognition,Medium
+Q917,"Complete the pattern: 9, 10, 11, ?",14,8,9,12,D,Pattern Recognition,Easy
+Q918,"Complete the pattern: 1, 3, 5, ?",7,6,5,8,A,Pattern Recognition,Easy
+Q919,"Complete the pattern: 4, 10, 16, ?",20,17,22,27,C,Pattern Recognition,Medium
+Q920,"Complete the pattern: 3, 6, 12, ?",24,23,21,19,A,Pattern Recognition,Medium
+Q921,"Complete the pattern: 4, 8, 16, ?",27,36,28,32,D,Pattern Recognition,Medium
+Q922,"Complete the pattern: 4, 8, 16, ?",32,26,29,38,A,Pattern Recognition,Medium
+Q923,"Complete the pattern: 4, 8, 16, ?",33,32,30,31,B,Pattern Recognition,Medium
+Q924,"Complete the pattern: 2, 3, 3, ?",4,2,0,7,A,Pattern Recognition,Medium
+Q925,"Complete the pattern: 1, 2, 4, ?",8,7,4,13,A,Pattern Recognition,Medium
+Q926,"Complete the pattern: 4, 10, 16, ?",23,22,25,19,B,Pattern Recognition,Medium
+Q927,"Complete the pattern: 3, 6, 12, ?",29,24,19,22,B,Pattern Recognition,Medium
+Q928,"Complete the pattern: 6, 7, 9, ?",7,13,10,6,C,Pattern Recognition,Hard
+Q929,"Complete the pattern: 5, 6, 7, ?",8,7,11,5,A,Pattern Recognition,Easy
+Q930,"Complete the pattern: 2, 4, 8, ?",17,15,19,16,D,Pattern Recognition,Medium
+Q931,"Complete the pattern: 4, 8, 16, ?",36,34,37,32,D,Pattern Recognition,Medium
+Q932,"Complete the pattern: 5, 8, 11, ?",15,17,14,9,C,Pattern Recognition,Medium
+Q933,"Complete the pattern: 4, 8, 12, ?",19,21,14,16,D,Pattern Recognition,Medium
+Q934,"Complete the pattern: 8, 14, 20, ?",26,21,31,28,A,Pattern Recognition,Medium
+Q935,"Complete the pattern: 5, 10, 15, ?",24,19,22,20,D,Pattern Recognition,Medium
+Q936,"Complete the pattern: 4, 16, 64, ?",279,256,269,239,B,Pattern Recognition,Medium
+Q937,"Complete the pattern: 9, 11, 13, ?",13,18,11,15,D,Pattern Recognition,Easy
+Q938,"Complete the pattern: 8, 9, 10, ?",11,7,10,6,A,Pattern Recognition,Easy
+Q939,"Complete the pattern: 3, 12, 48, ?",171,192,184,156,B,Pattern Recognition,Medium
+Q940,"Complete the pattern: 4, 8, 16, ?",36,26,31,32,D,Pattern Recognition,Medium
+Q941,"Complete the pattern: 5, 10, 20, ?",38,33,41,40,D,Pattern Recognition,Medium
+Q942,"Complete the pattern: 4, 16, 64, ?",307,263,256,264,C,Pattern Recognition,Medium
+Q943,"Complete the pattern: 4, 12, 36, ?",108,92,121,87,A,Pattern Recognition,Medium
+Q944,"Complete the pattern: 10, 11, 12, ?",14,13,18,10,B,Pattern Recognition,Easy
+Q945,"Complete the pattern: 5, 20, 80, ?",383,320,305,381,B,Pattern Recognition,Medium
+Q946,"Complete the pattern: 2, 4, 8, ?",16,15,12,13,A,Pattern Recognition,Medium
+Q947,"Complete the pattern: 8, 14, 20, ?",22,23,26,27,C,Pattern Recognition,Medium
+Q948,"Complete the pattern: 5, 10, 15, ?",25,20,18,21,B,Pattern Recognition,Medium
+Q949,"Complete the pattern: 3, 12, 48, ?",217,207,160,192,D,Pattern Recognition,Medium
+Q950,"Complete the pattern: 9, 13, 17, ?",24,21,18,16,B,Pattern Recognition,Medium
+Q951,"Complete the pattern: 2, 4, 8, ?",16,20,14,15,A,Pattern Recognition,Medium
+Q952,"Complete the pattern: 8, 9, 10, ?",11,15,12,13,A,Pattern Recognition,Easy
+Q953,"Complete the pattern: 7, 3, 11, ?",5,4,7,10,C,Pattern Recognition,Hard
+Q954,"Complete the pattern: 6, 2, 9, ?",6,0,9,5,D,Pattern Recognition,Hard
+Q955,"Complete the pattern: 9, 14, 19, ?",28,22,24,20,C,Pattern Recognition,Medium
+Q956,"Complete the pattern: 12, 15, 18, ?",24,26,22,21,D,Pattern Recognition,Medium
+Q957,"Complete the pattern: 4, 8, 16, ?",26,32,31,33,B,Pattern Recognition,Medium
+Q958,"Complete the pattern: 1, 4, 16, ?",76,64,59,69,B,Pattern Recognition,Medium
+Q959,"Complete the pattern: 4, 12, 36, ?",97,128,108,117,C,Pattern Recognition,Medium
+Q960,"Complete the pattern: 5, 4, 7, ?",3,6,9,2,B,Pattern Recognition,Medium
+Q961,"Complete the pattern: 7, 1, 8, ?",6,7,1,2,D,Pattern Recognition,Medium
+Q962,"Complete the pattern: 6, 12, 18, ?",20,27,19,24,D,Pattern Recognition,Medium
+Q963,"Complete the pattern: 3, 3, 7, ?",7,9,11,8,A,Pattern Recognition,Hard
+Q964,"Complete the pattern: 2, 4, 8, ?",16,12,21,14,A,Pattern Recognition,Medium
+Q965,"Complete the pattern: 1, 2, 4, ?",8,12,5,4,A,Pattern Recognition,Medium
+Q966,"Complete the pattern: 5, 20, 80, ?",315,361,306,320,D,Pattern Recognition,Medium
+Q967,"Complete the pattern: 2, 7, 12, ?",17,18,12,16,A,Pattern Recognition,Medium
+Q968,"Complete the pattern: 7, 4, 10, ?",10,12,7,6,C,Pattern Recognition,Hard
+Q969,"Complete the pattern: 1, 2, 4, ?",9,7,8,12,C,Pattern Recognition,Medium
+Q970,"Complete the pattern: 10, 16, 22, ?",27,28,31,26,B,Pattern Recognition,Medium
+Q971,"Complete the pattern: 1, 2, 4, ?",4,10,8,6,C,Pattern Recognition,Medium
+Q972,"Complete the pattern: 2, 7, 12, ?",17,20,13,12,A,Pattern Recognition,Medium
+Q973,"Complete the pattern: 3, 9, 27, ?",68,90,67,81,D,Pattern Recognition,Medium
+Q974,"Complete the pattern: 2, 2, 5, ?",5,0,8,4,A,Pattern Recognition,Hard
+Q975,"Complete the pattern: 4, 5, 7, ?",8,4,10,7,A,Pattern Recognition,Hard
+Q976,"Complete the pattern: 6, 7, 8, ?",9,11,4,6,A,Pattern Recognition,Medium
+Q977,"Complete the pattern: 6, 7, 7, ?",8,12,13,6,A,Pattern Recognition,Medium
+Q978,"Complete the pattern: 3, 6, 12, ?",24,28,26,23,A,Pattern Recognition,Medium
+Q979,"Complete the pattern: 5, 15, 45, ?",114,135,128,133,B,Pattern Recognition,Medium
+Q980,"Complete the pattern: 5, 6, 9, ?",9,14,10,12,C,Pattern Recognition,Hard
+Q981,"Complete the pattern: 1, 3, 9, ?",32,26,27,28,C,Pattern Recognition,Medium
+Q982,"Complete the pattern: 1, 2, 4, ?",7,5,8,12,C,Pattern Recognition,Medium
+Q983,"Complete the pattern: 3, 6, 12, ?",28,21,24,19,C,Pattern Recognition,Medium
+Q984,"Complete the pattern: 2, 6, 10, ?",9,15,17,14,D,Pattern Recognition,Medium
+Q985,"Complete the pattern: 4, 8, 16, ?",36,34,32,27,C,Pattern Recognition,Medium
+Q986,"Complete the pattern: 2, 4, 8, ?",15,16,18,17,B,Pattern Recognition,Medium
+Q987,"Complete the pattern: 3, 9, 27, ?",96,74,81,93,C,Pattern Recognition,Medium
+Q988,"Complete the pattern: 4, 9, 14, ?",17,19,23,14,B,Pattern Recognition,Medium
+Q989,"Complete the pattern: 2, 4, 8, ?",17,15,16,18,C,Pattern Recognition,Medium
+Q990,"Complete the pattern: 3, 6, 12, ?",26,20,28,24,D,Pattern Recognition,Medium
+Q991,"Complete the pattern: 2, 3, 3, ?",6,7,4,9,C,Pattern Recognition,Medium
+Q992,"Complete the pattern: 5, 10, 20, ?",48,40,39,34,B,Pattern Recognition,Medium
+Q993,"Complete the pattern: 4, 8, 16, ?",35,30,36,32,D,Pattern Recognition,Medium
+Q994,"Complete the pattern: 2, 7, 3, ?",8,3,7,13,A,Pattern Recognition,Medium
+Q995,"Complete the pattern: 7, 6, 11, ?",10,7,9,5,A,Pattern Recognition,Hard
+Q996,"Complete the pattern: 8, 14, 20, ?",21,27,26,30,C,Pattern Recognition,Medium
+Q997,"Complete the pattern: 5, 2, 6, ?",8,5,3,1,C,Pattern Recognition,Medium
+Q998,"Complete the pattern: 2, 3, 5, ?",5,6,8,4,B,Pattern Recognition,Hard
+Q999,"Complete the pattern: 7, 9, 11, ?",17,13,12,14,B,Pattern Recognition,Easy
+Q1000,"Complete the pattern: 5, 10, 20, ?",32,37,46,40,D,Pattern Recognition,Medium
+Q1001,Calculate: 8 × 10 = ?,86,80,84,79,B,Math,Medium
+Q1002,Calculate: 90 ÷ 9 = ?,11,8,12,10,D,Math,Medium
+Q1003,Calculate: 60 - 40 = ?,23,24,21,20,D,Math,Medium
+Q1004,Calculate: 79 - 55 = ?,24,27,28,26,A,Math,Medium
+Q1005,Calculate: 20 + 13 = ?,37,31,36,33,D,Math,Easy
+Q1006,Calculate: 20 + 7 = ?,31,25,28,27,D,Math,Easy
+Q1007,Calculate: 14 × 8 = ?,100,117,103,112,D,Math,Medium
+Q1008,Calculate: 72 + 32 = ?,113,104,117,114,B,Math,Medium
+Q1009,Calculate: 13 + 38 = ?,46,51,49,54,B,Math,Medium
+Q1010,Calculate: 81 ÷ 9 = ?,9,7,8,11,A,Math,Medium
+Q1011,Calculate: 14 ÷ 7 = ?,2,3,5,0,A,Math,Medium
+Q1012,Calculate: 26 - 14 = ?,15,14,12,11,C,Math,Easy
+Q1013,Calculate: 99 ÷ 11 = ?,8,12,11,9,D,Math,Medium
+Q1014,Calculate: 4 × 3 = ?,11,12,13,14,B,Math,Medium
+Q1015,Calculate: 85 - 12 = ?,82,62,73,81,C,Math,Medium
+Q1016,Calculate: 30 ÷ 3 = ?,9,10,8,12,B,Math,Medium
+Q1017,Calculate: 49 - 11 = ?,40,44,38,42,C,Math,Medium
+Q1018,Calculate: 3 × 11 = ?,36,32,38,33,D,Math,Medium
+Q1019,Calculate: 77 ÷ 7 = ?,14,9,13,11,D,Math,Medium
+Q1020,Calculate: 23 - 8 = ?,15,13,14,17,A,Math,Easy
+Q1021,Calculate: 25 + 6 = ?,31,27,35,30,A,Math,Easy
+Q1022,Calculate: 4 × 2 = ?,10,11,8,6,C,Math,Medium
+Q1023,Calculate: 8 × 6 = ?,51,50,48,53,C,Math,Medium
+Q1024,Calculate: 71 - 28 = ?,42,43,48,46,B,Math,Medium
+Q1025,Calculate: 54 ÷ 6 = ?,8,11,9,12,C,Math,Medium
+Q1026,Calculate: 60 - 39 = ?,26,21,22,17,B,Math,Medium
+Q1027,Calculate: 33 - 12 = ?,21,25,24,23,A,Math,Medium
+Q1028,Calculate: 55 ÷ 11 = ?,3,7,4,5,D,Math,Medium
+Q1029,Calculate: 18 ÷ 3 = ?,7,6,4,5,B,Math,Medium
+Q1030,Calculate: 84 + 31 = ?,105,124,129,115,D,Math,Medium
+Q1031,Calculate: 10 × 8 = ?,73,81,68,80,D,Math,Medium
+Q1032,Calculate: 36 ÷ 6 = ?,4,6,8,5,B,Math,Medium
+Q1033,Calculate: 14 × 12 = ?,168,172,176,163,A,Math,Medium
+Q1034,Calculate: 12 ÷ 3 = ?,6,4,3,5,B,Math,Medium
+Q1035,Calculate: 3 × 5 = ?,14,15,18,13,B,Math,Medium
+Q1036,Calculate: 5 × 2 = ?,8,12,9,10,D,Math,Medium
+Q1037,Calculate: 75 + 5 = ?,82,69,73,80,D,Math,Medium
+Q1038,Calculate: 15 × 10 = ?,173,150,136,174,B,Math,Medium
+Q1039,Calculate: 14 + 27 = ?,49,41,44,43,B,Math,Easy
+Q1040,Calculate: 13 × 5 = ?,65,73,70,67,A,Math,Medium
+Q1041,Calculate: 12 × 5 = ?,62,60,65,55,B,Math,Medium
+Q1042,Calculate: 25 - 16 = ?,11,9,7,8,B,Math,Easy
+Q1043,Calculate: 84 ÷ 12 = ?,8,10,7,9,C,Math,Medium
+Q1044,Calculate: 20 - 11 = ?,8,11,7,9,D,Math,Easy
+Q1045,Calculate: 9 × 2 = ?,16,18,19,20,B,Math,Medium
+Q1046,Calculate: 24 - 9 = ?,17,15,14,16,B,Math,Easy
+Q1047,Calculate: 56 - 20 = ?,36,38,42,34,A,Math,Medium
+Q1048,Calculate: 54 + 40 = ?,98,94,110,108,B,Math,Medium
+Q1049,Calculate: 36 ÷ 9 = ?,5,4,3,2,B,Math,Medium
+Q1050,Calculate: 5 × 11 = ?,53,52,47,55,D,Math,Medium
+Q1051,Calculate: 87 + 37 = ?,139,135,127,124,D,Math,Medium
+Q1052,Calculate: 10 × 9 = ?,104,95,92,90,D,Math,Medium
+Q1053,Calculate: 85 + 9 = ?,101,87,94,97,C,Math,Medium
+Q1054,Calculate: 63 - 58 = ?,7,5,6,3,B,Math,Medium
+Q1055,Calculate: 10 × 5 = ?,52,42,50,45,C,Math,Medium
+Q1056,Calculate: 9 × 9 = ?,81,91,83,94,A,Math,Medium
+Q1057,Calculate: 71 + 16 = ?,87,101,95,100,A,Math,Medium
+Q1058,Calculate: 31 + 39 = ?,70,79,76,72,A,Math,Medium
+Q1059,Calculate: 25 ÷ 5 = ?,4,3,6,5,D,Math,Medium
+Q1060,Calculate: 33 ÷ 3 = ?,12,13,14,11,D,Math,Medium
+Q1061,Calculate: 66 ÷ 6 = ?,11,12,10,13,A,Math,Medium
+Q1062,Calculate: 90 - 9 = ?,73,81,92,89,B,Math,Medium
+Q1063,Calculate: 55 - 14 = ?,41,48,44,47,A,Math,Medium
+Q1064,Calculate: 12 × 7 = ?,96,71,94,84,D,Math,Medium
+Q1065,Calculate: 49 - 13 = ?,32,40,30,36,D,Math,Medium
+Q1066,Calculate: 7 × 2 = ?,16,18,15,14,D,Math,Medium
+Q1067,Calculate: 75 + 13 = ?,77,103,96,88,D,Math,Medium
+Q1068,Calculate: 49 - 16 = ?,35,37,39,33,D,Math,Medium
+Q1069,Calculate: 57 - 39 = ?,17,19,22,18,D,Math,Medium
+Q1070,Calculate: 13 × 11 = ?,145,143,158,164,B,Math,Medium
+Q1071,Calculate: 71 - 18 = ?,57,56,54,53,D,Math,Medium
+Q1072,Calculate: 89 + 21 = ?,113,102,110,116,C,Math,Medium
+Q1073,Calculate: 110 ÷ 11 = ?,8,10,11,13,B,Math,Medium
+Q1074,Calculate: 30 - 12 = ?,21,22,20,18,D,Math,Medium
+Q1075,Calculate: 35 + 38 = ?,64,83,78,73,D,Math,Medium
+Q1076,Calculate: 11 × 12 = ?,151,132,136,133,B,Math,Medium
+Q1077,Calculate: 26 + 35 = ?,59,71,61,64,C,Math,Medium
+Q1078,Calculate: 21 + 27 = ?,51,48,47,55,B,Math,Easy
+Q1079,Calculate: 15 × 2 = ?,35,33,32,30,D,Math,Medium
+Q1080,Calculate: 47 + 16 = ?,63,64,61,53,A,Math,Medium
+Q1081,Calculate: 53 - 43 = ?,8,10,12,9,B,Math,Medium
+Q1082,Calculate: 16 ÷ 4 = ?,4,2,7,5,A,Math,Medium
+Q1083,Calculate: 120 ÷ 12 = ?,9,10,12,13,B,Math,Medium
+Q1084,Calculate: 56 - 49 = ?,10,9,6,7,D,Math,Medium
+Q1085,Calculate: 15 × 9 = ?,142,135,129,119,B,Math,Medium
+Q1086,Calculate: 40 ÷ 5 = ?,10,8,11,7,B,Math,Medium
+Q1087,Calculate: 15 × 11 = ?,150,165,167,163,B,Math,Medium
+Q1088,Calculate: 70 ÷ 10 = ?,7,6,10,9,A,Math,Medium
+Q1089,Calculate: 53 + 22 = ?,63,68,75,66,C,Math,Medium
+Q1090,Calculate: 60 ÷ 6 = ?,10,12,9,8,A,Math,Medium
+Q1091,Calculate: 3 × 6 = ?,17,18,22,16,B,Math,Medium
+Q1092,Calculate: 36 ÷ 3 = ?,12,15,10,13,A,Math,Medium
+Q1093,Calculate: 42 ÷ 6 = ?,9,7,10,8,B,Math,Medium
+Q1094,Calculate: 9 × 10 = ?,97,90,100,93,B,Math,Medium
+Q1095,Calculate: 10 ÷ 2 = ?,8,6,5,4,C,Math,Medium
+Q1096,Calculate: 47 - 5 = ?,44,48,42,35,C,Math,Medium
+Q1097,Calculate: 77 - 15 = ?,62,72,55,53,A,Math,Medium
+Q1098,Calculate: 5 × 4 = ?,20,22,24,18,A,Math,Medium
+Q1099,Calculate: 20 ÷ 5 = ?,5,2,7,4,D,Math,Medium
+Q1100,Calculate: 54 ÷ 9 = ?,5,7,8,6,D,Math,Medium
+Q1101,Calculate: 22 - 14 = ?,9,8,6,10,B,Math,Easy
+Q1102,Calculate: 30 + 35 = ?,74,59,65,76,C,Math,Medium
+Q1103,Calculate: 34 - 18 = ?,14,15,16,18,C,Math,Medium
+Q1104,Calculate: 42 + 19 = ?,51,66,65,61,D,Math,Medium
+Q1105,Calculate: 78 + 23 = ?,101,91,103,94,A,Math,Medium
+Q1106,Calculate: 59 - 37 = ?,19,24,22,25,C,Math,Medium
+Q1107,Calculate: 32 - 21 = ?,14,12,13,11,D,Math,Medium
+Q1108,Calculate: 34 - 19 = ?,15,18,13,12,A,Math,Medium
+Q1109,Calculate: 16 + 40 = ?,48,64,56,51,C,Math,Medium
+Q1110,Calculate: 29 - 16 = ?,13,12,11,15,A,Math,Easy
+Q1111,Calculate: 47 - 38 = ?,10,11,7,9,D,Math,Medium
+Q1112,Calculate: 90 - 77 = ?,14,13,16,15,B,Math,Medium
+Q1113,Calculate: 27 - 19 = ?,8,7,10,11,A,Math,Easy
+Q1114,Calculate: 110 ÷ 10 = ?,10,14,12,11,D,Math,Medium
+Q1115,Calculate: 63 - 32 = ?,31,29,37,32,A,Math,Medium
+Q1116,Calculate: 48 - 20 = ?,30,28,33,29,B,Math,Medium
+Q1117,Calculate: 24 ÷ 4 = ?,9,6,5,7,B,Math,Medium
+Q1118,Calculate: 10 × 2 = ?,21,20,23,22,B,Math,Medium
+Q1119,Calculate: 87 - 31 = ?,56,60,48,61,A,Math,Medium
+Q1120,Calculate: 4 × 11 = ?,52,37,44,49,C,Math,Medium
+Q1121,Calculate: 13 + 5 = ?,20,22,16,18,D,Math,Easy
+Q1122,Calculate: 86 - 45 = ?,34,47,45,41,D,Math,Medium
+Q1123,Calculate: 89 - 43 = ?,46,39,51,53,A,Math,Medium
+Q1124,Calculate: 22 ÷ 11 = ?,4,3,5,2,D,Math,Medium
+Q1125,Calculate: 4 × 5 = ?,18,24,23,20,D,Math,Medium
+Q1126,Calculate: 77 - 41 = ?,30,40,36,33,C,Math,Medium
+Q1127,Calculate: 41 - 7 = ?,37,38,34,41,C,Math,Medium
+Q1128,Calculate: 27 - 17 = ?,8,9,12,10,D,Math,Easy
+Q1129,Calculate: 32 ÷ 4 = ?,8,11,9,10,A,Math,Medium
+Q1130,Calculate: 18 + 5 = ?,25,24,23,19,C,Math,Easy
+Q1131,Calculate: 31 - 6 = ?,27,22,25,29,C,Math,Medium
+Q1132,Calculate: 52 - 29 = ?,26,25,23,27,C,Math,Medium
+Q1133,Calculate: 72 ÷ 12 = ?,4,8,6,7,C,Math,Medium
+Q1134,Calculate: 22 + 25 = ?,55,50,47,40,C,Math,Easy
+Q1135,Calculate: 37 - 31 = ?,9,8,6,4,C,Math,Medium
+Q1136,Calculate: 18 + 26 = ?,48,47,44,51,C,Math,Easy
+Q1137,Calculate: 56 ÷ 7 = ?,6,8,10,11,B,Math,Medium
+Q1138,Calculate: 14 × 11 = ?,131,154,178,138,B,Math,Medium
+Q1139,Calculate: 13 × 7 = ?,96,103,101,91,D,Math,Medium
+Q1140,Calculate: 71 - 50 = ?,21,17,25,22,A,Math,Medium
+Q1141,Calculate: 8 × 4 = ?,34,36,28,32,D,Math,Medium
+Q1142,Calculate: 3 × 8 = ?,21,24,26,29,B,Math,Medium
+Q1143,Calculate: 31 - 23 = ?,11,8,7,10,B,Math,Medium
+Q1144,Calculate: 87 - 81 = ?,7,6,4,8,B,Math,Medium
+Q1145,Calculate: 37 + 26 = ?,53,69,67,63,D,Math,Medium
+Q1146,Calculate: 11 × 6 = ?,76,70,58,66,D,Math,Medium
+Q1147,Calculate: 39 + 34 = ?,66,72,76,73,D,Math,Medium
+Q1148,Calculate: 7 × 12 = ?,98,78,84,82,C,Math,Medium
+Q1149,Calculate: 68 - 41 = ?,27,28,31,22,A,Math,Medium
+Q1150,Calculate: 7 × 8 = ?,57,56,58,47,B,Math,Medium
+Q1151,Calculate: 90 + 26 = ?,110,125,116,128,C,Math,Medium
+Q1152,Calculate: 56 ÷ 8 = ?,9,6,10,7,D,Math,Medium
+Q1153,Calculate: 56 + 40 = ?,96,102,101,107,A,Math,Medium
+Q1154,Calculate: 88 ÷ 11 = ?,9,8,6,10,B,Math,Medium
+Q1155,Calculate: 19 + 21 = ?,36,40,45,47,B,Math,Easy
+Q1156,Calculate: 88 - 50 = ?,38,44,42,40,A,Math,Medium
+Q1157,Calculate: 12 + 28 = ?,37,42,40,45,C,Math,Easy
+Q1158,Calculate: 3 × 3 = ?,11,10,9,8,C,Math,Medium
+Q1159,Calculate: 5 × 5 = ?,30,29,25,21,C,Math,Medium
+Q1160,Calculate: 33 + 15 = ?,56,49,42,48,D,Math,Medium
+Q1161,Calculate: 20 + 31 = ?,51,58,54,44,A,Math,Medium
+Q1162,Calculate: 9 × 3 = ?,31,29,25,27,D,Math,Medium
+Q1163,Calculate: 32 - 20 = ?,15,10,14,12,D,Math,Medium
+Q1164,Calculate: 64 + 12 = ?,76,66,87,70,A,Math,Medium
+Q1165,Calculate: 24 ÷ 2 = ?,13,10,12,14,C,Math,Medium
+Q1166,Calculate: 99 ÷ 9 = ?,13,14,11,10,C,Math,Medium
+Q1167,Calculate: 2 × 6 = ?,13,14,12,15,C,Math,Medium
+Q1168,Calculate: 14 + 21 = ?,35,30,42,37,A,Math,Easy
+Q1169,Calculate: 80 + 15 = ?,83,93,111,95,D,Math,Medium
+Q1170,Calculate: 77 + 25 = ?,113,115,102,92,C,Math,Medium
+Q1171,Calculate: 8 × 12 = ?,86,109,85,96,D,Math,Medium
+Q1172,Calculate: 36 - 5 = ?,32,31,28,36,B,Math,Medium
+Q1173,Calculate: 17 + 28 = ?,39,47,42,45,D,Math,Easy
+Q1174,Calculate: 25 - 12 = ?,14,12,13,15,C,Math,Easy
+Q1175,Calculate: 27 ÷ 9 = ?,5,3,4,6,B,Math,Medium
+Q1176,Calculate: 9 ÷ 3 = ?,4,5,3,1,C,Math,Medium
+Q1177,Calculate: 76 + 8 = ?,84,94,92,81,A,Math,Medium
+Q1178,Calculate: 37 + 30 = ?,76,70,64,67,D,Math,Medium
+Q1179,Calculate: 96 ÷ 8 = ?,14,12,13,15,B,Math,Medium
+Q1180,Calculate: 29 + 18 = ?,47,43,39,42,A,Math,Easy
+Q1181,Calculate: 27 + 7 = ?,40,36,34,33,C,Math,Easy
+Q1182,Calculate: 7 × 6 = ?,45,49,42,44,C,Math,Medium
+Q1183,Calculate: 57 - 19 = ?,38,41,40,44,A,Math,Medium
+Q1184,Calculate: 65 + 18 = ?,97,79,83,80,C,Math,Medium
+Q1185,Calculate: 50 + 18 = ?,71,68,74,76,B,Math,Medium
+Q1186,Calculate: 49 - 23 = ?,31,26,30,24,B,Math,Medium
+Q1187,Calculate: 5 × 9 = ?,39,44,47,45,D,Math,Medium
+Q1188,Calculate: 40 ÷ 8 = ?,8,5,3,7,B,Math,Medium
+Q1189,Calculate: 17 + 29 = ?,51,53,42,46,D,Math,Easy
+Q1190,Calculate: 45 - 37 = ?,7,8,10,11,B,Math,Medium
+Q1191,Calculate: 85 + 32 = ?,119,113,125,117,D,Math,Medium
+Q1192,Calculate: 28 + 26 = ?,52,54,51,57,B,Math,Easy
+Q1193,Calculate: 20 ÷ 2 = ?,11,13,8,10,D,Math,Medium
+Q1194,Calculate: 21 - 14 = ?,6,5,10,7,D,Math,Easy
+Q1195,Calculate: 77 ÷ 11 = ?,7,8,10,9,A,Math,Medium
+Q1196,Calculate: 84 ÷ 7 = ?,14,13,12,15,C,Math,Medium
+Q1197,Calculate: 30 ÷ 6 = ?,3,8,5,7,C,Math,Medium
+Q1198,Calculate: 24 + 17 = ?,38,45,44,41,D,Math,Easy
+Q1199,Calculate: 90 + 35 = ?,128,129,125,132,C,Math,Medium
+Q1200,Calculate: 81 - 33 = ?,53,54,44,48,D,Math,Medium
+Q1201,"If Dog is heavier than Kangaroo and Kangaroo is heavier than Cat, which animal is the lightest?",Dog,Kangaroo,Cat,Wolf,C,Logic,Medium
+Q1202,"Which of the following does NOT belong: Trapezoid, Potato, Broccoli, Cabbage?",Trapezoid,Potato,Broccoli,Cabbage,A,Logic,Easy
+Q1203,"If Giraffe is heavier than Otter and Otter is heavier than Kangaroo, which animal is the lightest?",Giraffe,Giraffe,Kangaroo,Otter,C,Logic,Medium
+Q1204,"Which of the following does NOT belong: Plane, Tractor, Lion, Submarine?",Plane,Tractor,Lion,Submarine,C,Logic,Easy
+Q1205,"Which of the following does NOT belong: Octagon, Triangle, Cone, Carrot?",Octagon,Triangle,Cone,Carrot,D,Logic,Medium
+Q1206,"If Wolf is heavier than Kangaroo and Kangaroo is heavier than Bear, which animal is the lightest?",Rabbit,Wolf,Kangaroo,Bear,D,Logic,Medium
+Q1207,"Which of the following does NOT belong: Bear, Elephant, Rabbit, Lettuce?",Bear,Elephant,Rabbit,Lettuce,D,Logic,Medium
+Q1208,"Which of the following does NOT belong: Truck, Motorbike, Cart, Shelf?",Truck,Motorbike,Cart,Shelf,D,Logic,Easy
+Q1209,"Which of the following does NOT belong: Bench, Beetroot, Onion, Okra?",Bench,Beetroot,Onion,Okra,A,Logic,Easy
+Q1210,"If Rabbit is heavier than Elephant and Elephant is heavier than Kangaroo, which animal is the lightest?",Rabbit,Rabbit,Elephant,Kangaroo,D,Logic,Medium
+Q1211,"Which of the following does NOT belong: Tractor, Heart, Ship, Plane?",Tractor,Heart,Ship,Plane,B,Logic,Medium
+Q1212,"Which of the following does NOT belong: Motorbike, Grey, Bus, Truck?",Motorbike,Grey,Bus,Truck,B,Logic,Medium
+Q1213,"Which of the following does NOT belong: Couch, Tomato, Cabbage, Lettuce?",Couch,Tomato,Cabbage,Lettuce,A,Logic,Easy
+Q1214,"Which of the following does NOT belong: Triangle, Desk, Trapezoid, Square?",Triangle,Desk,Trapezoid,Square,B,Logic,Easy
+Q1215,"If Lion is heavier than Fox and Fox is heavier than Elephant, which animal is the lightest?",Fox,Lion,Elephant,Hippo,C,Logic,Medium
+Q1216,"If Cat is heavier than Hippo and Hippo is heavier than Zebra, which animal is the lightest?",Zebra,Cat,Hippo,Lion,A,Logic,Medium
+Q1217,"Which of the following does NOT belong: Apricot, Pear, Pineapple, Sofa?",Apricot,Pear,Pineapple,Sofa,D,Logic,Medium
+Q1218,"Which of the following does NOT belong: Shelf, Sofa, Wardrobe, Mango?",Shelf,Sofa,Wardrobe,Mango,D,Logic,Medium
+Q1219,"Which of the following does NOT belong: Car, Truck, Ship, Radish?",Car,Truck,Ship,Radish,D,Logic,Easy
+Q1220,"Which of the following does NOT belong: Apple, Apricot, Cart, Grapes?",Apple,Apricot,Cart,Grapes,C,Logic,Medium
+Q1221,"Which of the following does NOT belong: Boat, Cyan, Red, Brown?",Boat,Cyan,Red,Brown,A,Logic,Medium
+Q1222,"Which of the following does NOT belong: Triangle, Pear, Rectangle, Pentagon?",Triangle,Pear,Rectangle,Pentagon,B,Logic,Medium
+Q1223,"If Tiger is heavier than Wolf and Wolf is heavier than Elephant, which animal is the lightest?",Wolf,Giraffe,Elephant,Tiger,C,Logic,Medium
+Q1224,"Which of the following does NOT belong: Car, Ship, Couch, Plane?",Car,Ship,Couch,Plane,C,Logic,Easy
+Q1225,"If Giraffe is heavier than Elephant and Elephant is heavier than Kangaroo, which animal is the lightest?",Otter,Kangaroo,Elephant,Giraffe,B,Logic,Medium
+Q1226,"If Bear is heavier than Giraffe and Giraffe is heavier than Tiger, which animal is the lightest?",Dog,Bear,Tiger,Giraffe,C,Logic,Medium
+Q1227,"If Otter is heavier than Dog and Dog is heavier than Fox, which animal is the lightest?",Otter,Fox,Hippo,Dog,B,Logic,Medium
+Q1228,"Which of the following does NOT belong: Grapes, Banana, Elephant, Mango?",Grapes,Banana,Elephant,Mango,C,Logic,Medium
+Q1229,"Which of the following does NOT belong: Beetroot, Lettuce, Cabbage, Ship?",Beetroot,Lettuce,Cabbage,Ship,D,Logic,Easy
+Q1230,"Which of the following does NOT belong: Cyan, Bench, Grey, Purple?",Cyan,Bench,Grey,Purple,B,Logic,Medium
+Q1231,"Which of the following does NOT belong: Cabbage, Trapezoid, Tomato, Spinach?",Cabbage,Trapezoid,Tomato,Spinach,B,Logic,Medium
+Q1232,"Which of the following does NOT belong: Peach, Square, Pear, Pineapple?",Peach,Square,Pear,Pineapple,B,Logic,Medium
+Q1233,"Which of the following does NOT belong: Radish, Lettuce, Tomato, Diamond?",Radish,Lettuce,Tomato,Diamond,D,Logic,Medium
+Q1234,"Which of the following does NOT belong: Heart, Diamond, Octagon, Tractor?",Heart,Diamond,Octagon,Tractor,D,Logic,Medium
+Q1235,"Which of the following does NOT belong: Octagon, Boat, Bicycle, Tractor?",Octagon,Boat,Bicycle,Tractor,A,Logic,Medium
+Q1236,"Which of the following does NOT belong: Banana, Mango, Cherry, Cylinder?",Banana,Mango,Cherry,Cylinder,D,Logic,Medium
+Q1237,"Which of the following does NOT belong: Cabbage, Okra, Apricot, Onion?",Cabbage,Okra,Apricot,Onion,C,Logic,Medium
+Q1238,"Which of the following does NOT belong: Papaya, Banana, Table, Peach?",Papaya,Banana,Table,Peach,C,Logic,Easy
+Q1239,"Which of the following does NOT belong: Elephant, Scooter, Dog, Tiger?",Elephant,Scooter,Dog,Tiger,B,Logic,Easy
+Q1240,"If Cat is heavier than Zebra and Zebra is heavier than Otter, which animal is the lightest?",Zebra,Dog,Otter,Cat,C,Logic,Medium
+Q1241,"If Dog is heavier than Hippo and Hippo is heavier than Tiger, which animal is the lightest?",Kangaroo,Dog,Tiger,Hippo,C,Logic,Medium
+Q1242,"Which of the following does NOT belong: Otter, Triangle, Trapezoid, Octagon?",Otter,Triangle,Trapezoid,Octagon,A,Logic,Easy
+Q1243,"Which of the following does NOT belong: Grey, Cone, Pink, Blue?",Grey,Cone,Pink,Blue,B,Logic,Medium
+Q1244,"Which of the following does NOT belong: Grey, Wardrobe, Magenta, Cyan?",Grey,Wardrobe,Magenta,Cyan,B,Logic,Medium
+Q1245,"Which of the following does NOT belong: Pear, Red, Mango, Banana?",Pear,Red,Mango,Banana,B,Logic,Medium
+Q1246,"If Otter is heavier than Cat and Cat is heavier than Elephant, which animal is the lightest?",Elephant,Cat,Giraffe,Otter,A,Logic,Medium
+Q1247,"Which of the following does NOT belong: Diamond, Oval, Tomato, Hexagon?",Diamond,Oval,Tomato,Hexagon,C,Logic,Easy
+Q1248,"If Bear is heavier than Cat and Cat is heavier than Rabbit, which animal is the lightest?",Cat,Bear,Rabbit,Lion,C,Logic,Medium
+Q1249,"Which of the following does NOT belong: Circle, Kangaroo, Star, Hexagon?",Circle,Kangaroo,Star,Hexagon,B,Logic,Medium
+Q1250,"Which of the following does NOT belong: Pea, Beetroot, Fox, Carrot?",Pea,Beetroot,Fox,Carrot,C,Logic,Easy
+Q1251,"If Rabbit is heavier than Cat and Cat is heavier than Bear, which animal is the lightest?",Bear,Cat,Rabbit,Rabbit,A,Logic,Medium
+Q1252,"If Kangaroo is heavier than Elephant and Elephant is heavier than Tiger, which animal is the lightest?",Tiger,Kangaroo,Elephant,Wolf,A,Logic,Medium
+Q1253,"Which of the following does NOT belong: Grapes, Cherry, Plum, Helicopter?",Grapes,Cherry,Plum,Helicopter,D,Logic,Medium
+Q1254,"If Dog is heavier than Bear and Bear is heavier than Lion, which animal is the lightest?",Lion,Zebra,Dog,Bear,A,Logic,Medium
+Q1255,"Which of the following does NOT belong: Tiger, Cyan, Blue, Red?",Tiger,Cyan,Blue,Red,A,Logic,Easy
+Q1256,"Which of the following does NOT belong: Potato, Sofa, Spinach, Beetroot?",Potato,Sofa,Spinach,Beetroot,B,Logic,Medium
+Q1257,"Which of the following does NOT belong: Bench, Bed, Purple, Desk?",Bench,Bed,Purple,Desk,C,Logic,Easy
+Q1258,"Which of the following does NOT belong: Bear, Tractor, Plane, Car?",Bear,Tractor,Plane,Car,A,Logic,Medium
+Q1259,"Which of the following does NOT belong: Brown, Grey, Bed, Purple?",Brown,Grey,Bed,Purple,C,Logic,Medium
+Q1260,"Which of the following does NOT belong: Circle, Octagon, Motorbike, Heart?",Circle,Octagon,Motorbike,Heart,C,Logic,Easy
+Q1261,"If Tiger is heavier than Hippo and Hippo is heavier than Lion, which animal is the lightest?",Lion,Zebra,Hippo,Tiger,A,Logic,Medium
+Q1262,"Which of the following does NOT belong: Beetroot, Bus, Radish, Corn?",Beetroot,Bus,Radish,Corn,B,Logic,Easy
+Q1263,"Which of the following does NOT belong: Plane, Sofa, Helicopter, Car?",Plane,Sofa,Helicopter,Car,B,Logic,Easy
+Q1264,"Which of the following does NOT belong: Rectangle, Oval, Elephant, Diamond?",Rectangle,Oval,Elephant,Diamond,C,Logic,Easy
+Q1265,"Which of the following does NOT belong: Red, Green, Black, Grapes?",Red,Green,Black,Grapes,D,Logic,Medium
+Q1266,"Which of the following does NOT belong: Truck, Plane, Bicycle, Blue?",Truck,Plane,Bicycle,Blue,D,Logic,Easy
+Q1267,"If Elephant is heavier than Kangaroo and Kangaroo is heavier than Zebra, which animal is the lightest?",Rabbit,Zebra,Kangaroo,Elephant,B,Logic,Medium
+Q1268,"If Zebra is heavier than Hippo and Hippo is heavier than Rabbit, which animal is the lightest?",Rabbit,Hippo,Hippo,Zebra,A,Logic,Medium
+Q1269,"If Dog is heavier than Hippo and Hippo is heavier than Wolf, which animal is the lightest?",Wolf,Dog,Hippo,Giraffe,A,Logic,Medium
+Q1270,"If Hippo is heavier than Giraffe and Giraffe is heavier than Kangaroo, which animal is the lightest?",Hippo,Giraffe,Kangaroo,Wolf,C,Logic,Medium
+Q1271,"If Rabbit is heavier than Otter and Otter is heavier than Elephant, which animal is the lightest?",Rabbit,Bear,Elephant,Otter,C,Logic,Medium
+Q1272,"Which of the following does NOT belong: Stool, Bed, Mango, Bench?",Stool,Bed,Mango,Bench,C,Logic,Easy
+Q1273,"Which of the following does NOT belong: Cylinder, Pentagon, Cone, Okra?",Cylinder,Pentagon,Cone,Okra,D,Logic,Medium
+Q1274,"If Kangaroo is heavier than Lion and Lion is heavier than Hippo, which animal is the lightest?",Kangaroo,Elephant,Hippo,Lion,C,Logic,Medium
+Q1275,"Which of the following does NOT belong: Desk, Chair, Cabinet, Magenta?",Desk,Chair,Cabinet,Magenta,D,Logic,Easy
+Q1276,"If Kangaroo is heavier than Elephant and Elephant is heavier than Lion, which animal is the lightest?",Kangaroo,Wolf,Elephant,Lion,D,Logic,Medium
+Q1277,"Which of the following does NOT belong: Apricot, Cherry, Mango, Red?",Apricot,Cherry,Mango,Red,D,Logic,Easy
+Q1278,"Which of the following does NOT belong: Plane, Orange, Cart, Van?",Plane,Orange,Cart,Van,B,Logic,Medium
+Q1279,"Which of the following does NOT belong: Pink, Brown, Giraffe, Grey?",Pink,Brown,Giraffe,Grey,C,Logic,Medium
+Q1280,"Which of the following does NOT belong: Okra, Spinach, Pink, Radish?",Okra,Spinach,Pink,Radish,C,Logic,Easy
+Q1281,"Which of the following does NOT belong: Cabbage, Tiger, Dog, Zebra?",Cabbage,Tiger,Dog,Zebra,A,Logic,Easy
+Q1282,"If Giraffe is heavier than Tiger and Tiger is heavier than Kangaroo, which animal is the lightest?",Giraffe,Tiger,Tiger,Kangaroo,D,Logic,Medium
+Q1283,"Which of the following does NOT belong: Peach, Cart, Fig, Banana?",Peach,Cart,Fig,Banana,B,Logic,Medium
+Q1284,"Which of the following does NOT belong: Cherry, Peach, Bus, Fig?",Cherry,Peach,Bus,Fig,C,Logic,Easy
+Q1285,"Which of the following does NOT belong: Potato, Yellow, Radish, Broccoli?",Potato,Yellow,Radish,Broccoli,B,Logic,Easy
+Q1286,"Which of the following does NOT belong: Peach, Cyan, Orange, Pear?",Peach,Cyan,Orange,Pear,B,Logic,Medium
+Q1287,"Which of the following does NOT belong: Bed, Plum, Pear, Peach?",Bed,Plum,Pear,Peach,A,Logic,Easy
+Q1288,"Which of the following does NOT belong: Potato, Star, Square, Diamond?",Potato,Star,Square,Diamond,A,Logic,Medium
+Q1289,"If Otter is heavier than Lion and Lion is heavier than Giraffe, which animal is the lightest?",Otter,Lion,Giraffe,Giraffe,C,Logic,Medium
+Q1290,"If Otter is heavier than Dog and Dog is heavier than Tiger, which animal is the lightest?",Dog,Tiger,Wolf,Otter,B,Logic,Medium
+Q1291,"Which of the following does NOT belong: Truck, Rectangle, Star, Circle?",Truck,Rectangle,Star,Circle,A,Logic,Medium
+Q1292,"Which of the following does NOT belong: Onion, Carrot, Plum, Tomato?",Onion,Carrot,Plum,Tomato,C,Logic,Medium
+Q1293,"Which of the following does NOT belong: Ship, Pumpkin, Truck, Scooter?",Ship,Pumpkin,Truck,Scooter,B,Logic,Easy
+Q1294,"Which of the following does NOT belong: Truck, Cart, Van, Lime?",Truck,Cart,Van,Lime,D,Logic,Easy
+Q1295,"Which of the following does NOT belong: Broccoli, Lettuce, Carrot, Pentagon?",Broccoli,Lettuce,Carrot,Pentagon,D,Logic,Easy
+Q1296,"Which of the following does NOT belong: Pink, Bicycle, Van, Cart?",Pink,Bicycle,Van,Cart,A,Logic,Medium
+Q1297,"Which of the following does NOT belong: Couch, Shelf, Carrot, Table?",Couch,Shelf,Carrot,Table,C,Logic,Easy
+Q1298,"Which of the following does NOT belong: Giraffe, Pear, Mango, Banana?",Giraffe,Pear,Mango,Banana,A,Logic,Medium
+Q1299,"Which of the following does NOT belong: Trapezoid, Helicopter, Boat, Motorbike?",Trapezoid,Helicopter,Boat,Motorbike,A,Logic,Medium
+Q1300,"If Otter is heavier than Giraffe and Giraffe is heavier than Lion, which animal is the lightest?",Otter,Giraffe,Lion,Giraffe,C,Logic,Medium
+Q1301,"If Fox is heavier than Wolf and Wolf is heavier than Otter, which animal is the lightest?",Dog,Fox,Otter,Wolf,C,Logic,Medium
+Q1302,"Which of the following does NOT belong: Lion, Fox, Kangaroo, Onion?",Lion,Fox,Kangaroo,Onion,D,Logic,Easy
+Q1303,"Which of the following does NOT belong: Chair, Bear, Ottoman, Dresser?",Chair,Bear,Ottoman,Dresser,B,Logic,Easy
+Q1304,"Which of the following does NOT belong: Plum, Peach, Red, Cherry?",Plum,Peach,Red,Cherry,C,Logic,Medium
+Q1305,"Which of the following does NOT belong: Lettuce, Green, Cabbage, Spinach?",Lettuce,Green,Cabbage,Spinach,B,Logic,Easy
+Q1306,"Which of the following does NOT belong: Apricot, Apple, Peach, Motorbike?",Apricot,Apple,Peach,Motorbike,D,Logic,Medium
+Q1307,"Which of the following does NOT belong: Kangaroo, Yellow, Otter, Elephant?",Kangaroo,Yellow,Otter,Elephant,B,Logic,Medium
+Q1308,"If Lion is heavier than Zebra and Zebra is heavier than Giraffe, which animal is the lightest?",Zebra,Lion,Giraffe,Fox,C,Logic,Medium
+Q1309,"Which of the following does NOT belong: Diamond, Tomato, Circle, Trapezoid?",Diamond,Tomato,Circle,Trapezoid,B,Logic,Medium
+Q1310,"Which of the following does NOT belong: Cone, Heart, Trapezoid, Orange?",Cone,Heart,Trapezoid,Orange,D,Logic,Medium
+Q1311,"Which of the following does NOT belong: Sofa, Ottoman, Bed, Apple?",Sofa,Ottoman,Bed,Apple,D,Logic,Easy
+Q1312,"Which of the following does NOT belong: Potato, Bear, Wolf, Lion?",Potato,Bear,Wolf,Lion,A,Logic,Easy
+Q1313,"If Hippo is heavier than Zebra and Zebra is heavier than Wolf, which animal is the lightest?",Zebra,Wolf,Bear,Hippo,B,Logic,Medium
+Q1314,"Which of the following does NOT belong: Octagon, Bicycle, Cone, Pentagon?",Octagon,Bicycle,Cone,Pentagon,B,Logic,Medium
+Q1315,"Which of the following does NOT belong: Cyan, Red, Trapezoid, Green?",Cyan,Red,Trapezoid,Green,C,Logic,Medium
+Q1316,"If Giraffe is heavier than Dog and Dog is heavier than Rabbit, which animal is the lightest?",Lion,Giraffe,Dog,Rabbit,D,Logic,Medium
+Q1317,"Which of the following does NOT belong: Rabbit, Scooter, Car, Truck?",Rabbit,Scooter,Car,Truck,A,Logic,Easy
+Q1318,"If Dog is heavier than Elephant and Elephant is heavier than Fox, which animal is the lightest?",Elephant,Fox,Dog,Dog,B,Logic,Medium
+Q1319,"If Kangaroo is heavier than Wolf and Wolf is heavier than Elephant, which animal is the lightest?",Kangaroo,Wolf,Elephant,Tiger,C,Logic,Medium
+Q1320,"Which of the following does NOT belong: Carrot, Broccoli, Cabbage, Bicycle?",Carrot,Broccoli,Cabbage,Bicycle,D,Logic,Medium
+Q1321,"If Giraffe is heavier than Dog and Dog is heavier than Wolf, which animal is the lightest?",Dog,Wolf,Elephant,Giraffe,B,Logic,Medium
+Q1322,"Which of the following does NOT belong: Potato, Spinach, Onion, Triangle?",Potato,Spinach,Onion,Triangle,D,Logic,Easy
+Q1323,"If Cat is heavier than Fox and Fox is heavier than Zebra, which animal is the lightest?",Otter,Fox,Zebra,Cat,C,Logic,Medium
+Q1324,"If Cat is heavier than Otter and Otter is heavier than Lion, which animal is the lightest?",Lion,Hippo,Otter,Cat,A,Logic,Medium
+Q1325,"Which of the following does NOT belong: Green, Orange, Purple, Cupboard?",Green,Orange,Purple,Cupboard,D,Logic,Medium
+Q1326,"Which of the following does NOT belong: Kangaroo, Bench, Zebra, Tiger?",Kangaroo,Bench,Zebra,Tiger,B,Logic,Easy
+Q1327,"Which of the following does NOT belong: Truck, Broccoli, Onion, Spinach?",Truck,Broccoli,Onion,Spinach,A,Logic,Medium
+Q1328,"If Otter is heavier than Wolf and Wolf is heavier than Zebra, which animal is the lightest?",Wolf,Otter,Zebra,Bear,C,Logic,Medium
+Q1329,"If Otter is heavier than Rabbit and Rabbit is heavier than Cat, which animal is the lightest?",Rabbit,Otter,Dog,Cat,D,Logic,Medium
+Q1330,"If Otter is heavier than Hippo and Hippo is heavier than Cat, which animal is the lightest?",Hippo,Otter,Zebra,Cat,D,Logic,Medium
+Q1331,"Which of the following does NOT belong: Pentagon, Circle, Octagon, Ship?",Pentagon,Circle,Octagon,Ship,D,Logic,Medium
+Q1332,"If Lion is heavier than Cat and Cat is heavier than Hippo, which animal is the lightest?",Hippo,Lion,Cat,Dog,A,Logic,Medium
+Q1333,"Which of the following does NOT belong: Scooter, Rectangle, Hexagon, Star?",Scooter,Rectangle,Hexagon,Star,A,Logic,Easy
+Q1334,"Which of the following does NOT belong: Kiwi, Peach, Cabbage, Cherry?",Kiwi,Peach,Cabbage,Cherry,C,Logic,Medium
+Q1335,"Which of the following does NOT belong: Orange, Cone, Magenta, Green?",Orange,Cone,Magenta,Green,B,Logic,Easy
+Q1336,"If Otter is heavier than Rabbit and Rabbit is heavier than Lion, which animal is the lightest?",Giraffe,Lion,Rabbit,Otter,B,Logic,Medium
+Q1337,"If Dog is heavier than Zebra and Zebra is heavier than Otter, which animal is the lightest?",Zebra,Dog,Otter,Hippo,C,Logic,Medium
+Q1338,"Which of the following does NOT belong: Orange, Cyan, Cabbage, Yellow?",Orange,Cyan,Cabbage,Yellow,C,Logic,Easy
+Q1339,"Which of the following does NOT belong: Corn, Stool, Wardrobe, Bench?",Corn,Stool,Wardrobe,Bench,A,Logic,Medium
+Q1340,"Which of the following does NOT belong: Car, Boat, Shelf, Bus?",Car,Boat,Shelf,Bus,C,Logic,Easy
+Q1341,"If Lion is heavier than Kangaroo and Kangaroo is heavier than Elephant, which animal is the lightest?",Elephant,Kangaroo,Tiger,Lion,A,Logic,Medium
+Q1342,"If Wolf is heavier than Bear and Bear is heavier than Zebra, which animal is the lightest?",Zebra,Wolf,Bear,Fox,A,Logic,Medium
+Q1343,"Which of the following does NOT belong: Kiwi, Chair, Pineapple, Apricot?",Kiwi,Chair,Pineapple,Apricot,B,Logic,Medium
+Q1344,"Which of the following does NOT belong: Desk, Cabinet, Beetroot, Wardrobe?",Desk,Cabinet,Beetroot,Wardrobe,C,Logic,Medium
+Q1345,"If Rabbit is heavier than Zebra and Zebra is heavier than Giraffe, which animal is the lightest?",Zebra,Rabbit,Giraffe,Giraffe,C,Logic,Medium
+Q1346,"Which of the following does NOT belong: Plane, Cupboard, Bed, Wardrobe?",Plane,Cupboard,Bed,Wardrobe,A,Logic,Medium
+Q1347,"Which of the following does NOT belong: Cyan, Yellow, Green, Desk?",Cyan,Yellow,Green,Desk,D,Logic,Easy
+Q1348,"Which of the following does NOT belong: Ottoman, Heart, Cone, Diamond?",Ottoman,Heart,Cone,Diamond,A,Logic,Medium
+Q1349,"If Bear is heavier than Fox and Fox is heavier than Lion, which animal is the lightest?",Bear,Zebra,Fox,Lion,D,Logic,Medium
+Q1350,"Which of the following does NOT belong: Bear, Papaya, Peach, Orange?",Bear,Papaya,Peach,Orange,A,Logic,Easy
+Q1351,"Which of the following does NOT belong: Plane, Cherry, Ship, Van?",Plane,Cherry,Ship,Van,B,Logic,Easy
+Q1352,"If Cat is heavier than Otter and Otter is heavier than Zebra, which animal is the lightest?",Zebra,Otter,Bear,Cat,A,Logic,Medium
+Q1353,"If Hippo is heavier than Zebra and Zebra is heavier than Otter, which animal is the lightest?",Zebra,Otter,Giraffe,Hippo,B,Logic,Medium
+Q1354,"Which of the following does NOT belong: Elephant, Magenta, Yellow, Green?",Elephant,Magenta,Yellow,Green,A,Logic,Easy
+Q1355,"Which of the following does NOT belong: Trapezoid, Cart, Oval, Pentagon?",Trapezoid,Cart,Oval,Pentagon,B,Logic,Medium
+Q1356,"If Elephant is heavier than Fox and Fox is heavier than Kangaroo, which animal is the lightest?",Elephant,Kangaroo,Fox,Fox,B,Logic,Medium
+Q1357,"Which of the following does NOT belong: Bus, Orange, Pineapple, Fig?",Bus,Orange,Pineapple,Fig,A,Logic,Medium
+Q1358,"If Hippo is heavier than Fox and Fox is heavier than Lion, which animal is the lightest?",Fox,Lion,Hippo,Wolf,B,Logic,Medium
+Q1359,"If Lion is heavier than Wolf and Wolf is heavier than Giraffe, which animal is the lightest?",Lion,Elephant,Wolf,Giraffe,D,Logic,Medium
+Q1360,"If Rabbit is heavier than Lion and Lion is heavier than Hippo, which animal is the lightest?",Rabbit,Bear,Hippo,Lion,C,Logic,Medium
+Q1361,"If Cat is heavier than Dog and Dog is heavier than Zebra, which animal is the lightest?",Dog,Zebra,Cat,Cat,B,Logic,Medium
+Q1362,"If Elephant is heavier than Otter and Otter is heavier than Bear, which animal is the lightest?",Elephant,Otter,Bear,Elephant,C,Logic,Medium
+Q1363,"If Hippo is heavier than Dog and Dog is heavier than Kangaroo, which animal is the lightest?",Kangaroo,Hippo,Dog,Otter,A,Logic,Medium
+Q1364,"If Rabbit is heavier than Hippo and Hippo is heavier than Elephant, which animal is the lightest?",Elephant,Rabbit,Rabbit,Hippo,A,Logic,Medium
+Q1365,"Which of the following does NOT belong: Cupboard, Scooter, Chair, Table?",Cupboard,Scooter,Chair,Table,B,Logic,Medium
+Q1366,"Which of the following does NOT belong: Rabbit, Triangle, Giraffe, Cat?",Rabbit,Triangle,Giraffe,Cat,B,Logic,Easy
+Q1367,"Which of the following does NOT belong: Pentagon, Cabbage, Radish, Lettuce?",Pentagon,Cabbage,Radish,Lettuce,A,Logic,Easy
+Q1368,"Which of the following does NOT belong: Apricot, Pumpkin, Banana, Fig?",Apricot,Pumpkin,Banana,Fig,B,Logic,Medium
+Q1369,"If Fox is heavier than Kangaroo and Kangaroo is heavier than Elephant, which animal is the lightest?",Kangaroo,Fox,Elephant,Fox,C,Logic,Medium
+Q1370,"If Tiger is heavier than Dog and Dog is heavier than Fox, which animal is the lightest?",Tiger,Elephant,Fox,Dog,C,Logic,Medium
+Q1371,"If Dog is heavier than Fox and Fox is heavier than Bear, which animal is the lightest?",Fox,Dog,Cat,Bear,D,Logic,Medium
+Q1372,"Which of the following does NOT belong: Zebra, Hippo, Cabinet, Elephant?",Zebra,Hippo,Cabinet,Elephant,C,Logic,Medium
+Q1373,"Which of the following does NOT belong: Heart, Triangle, Trapezoid, Wardrobe?",Heart,Triangle,Trapezoid,Wardrobe,D,Logic,Easy
+Q1374,"Which of the following does NOT belong: Lion, Apple, Dog, Kangaroo?",Lion,Apple,Dog,Kangaroo,B,Logic,Easy
+Q1375,"Which of the following does NOT belong: Diamond, Yellow, Circle, Hexagon?",Diamond,Yellow,Circle,Hexagon,B,Logic,Medium
+Q1376,"Which of the following does NOT belong: Orange, Banana, Pineapple, Apple?",Orange,Banana,Pineapple,Apple,A,Logic,Medium
+Q1377,"If Hippo is heavier than Elephant and Elephant is heavier than Zebra, which animal is the lightest?",Hippo,Elephant,Zebra,Zebra,C,Logic,Medium
+Q1378,"Which of the following does NOT belong: Cylinder, Table, Hexagon, Pentagon?",Cylinder,Table,Hexagon,Pentagon,B,Logic,Medium
+Q1379,"Which of the following does NOT belong: Bear, Tomato, Cabbage, Spinach?",Bear,Tomato,Cabbage,Spinach,A,Logic,Medium
+Q1380,"Which of the following does NOT belong: Pea, Helicopter, Motorbike, Truck?",Pea,Helicopter,Motorbike,Truck,A,Logic,Medium
+Q1381,"If Kangaroo is heavier than Wolf and Wolf is heavier than Otter, which animal is the lightest?",Otter,Fox,Kangaroo,Wolf,A,Logic,Medium
+Q1382,"Which of the following does NOT belong: Cyan, Blue, Purple, Dresser?",Cyan,Blue,Purple,Dresser,D,Logic,Easy
+Q1383,"Which of the following does NOT belong: Shelf, Octagon, Square, Star?",Shelf,Octagon,Square,Star,A,Logic,Easy
+Q1384,"If Fox is heavier than Lion and Lion is heavier than Rabbit, which animal is the lightest?",Lion,Fox,Lion,Rabbit,D,Logic,Medium
+Q1385,"Which of the following does NOT belong: Cone, Onion, Cylinder, Square?",Cone,Onion,Cylinder,Square,B,Logic,Easy
+Q1386,"Which of the following does NOT belong: Square, Pentagon, Cone, Plane?",Square,Pentagon,Cone,Plane,D,Logic,Easy
+Q1387,"Which of the following does NOT belong: Ship, Bicycle, Helicopter, Sofa?",Ship,Bicycle,Helicopter,Sofa,D,Logic,Medium
+Q1388,"Which of the following does NOT belong: Fig, Circle, Octagon, Square?",Fig,Circle,Octagon,Square,A,Logic,Medium
+Q1389,"If Fox is heavier than Kangaroo and Kangaroo is heavier than Zebra, which animal is the lightest?",Fox,Zebra,Rabbit,Kangaroo,B,Logic,Medium
+Q1390,"If Otter is heavier than Zebra and Zebra is heavier than Dog, which animal is the lightest?",Zebra,Dog,Otter,Bear,B,Logic,Medium
+Q1391,"Which of the following does NOT belong: Blue, Pineapple, Grey, Red?",Blue,Pineapple,Grey,Red,B,Logic,Easy
+Q1392,"Which of the following does NOT belong: Apricot, Plum, Kangaroo, Apple?",Apricot,Plum,Kangaroo,Apple,C,Logic,Easy
+Q1393,"Which of the following does NOT belong: Apricot, Orange, Car, Apple?",Apricot,Orange,Car,Apple,C,Logic,Easy
+Q1394,"If Otter is heavier than Rabbit and Rabbit is heavier than Tiger, which animal is the lightest?",Rabbit,Tiger,Tiger,Otter,B,Logic,Medium
+Q1395,"Which of the following does NOT belong: Octagon, Green, Heart, Hexagon?",Octagon,Green,Heart,Hexagon,B,Logic,Easy
+Q1396,"Which of the following does NOT belong: Elephant, Helicopter, Truck, Boat?",Elephant,Helicopter,Truck,Boat,A,Logic,Medium
+Q1397,"Which of the following does NOT belong: Couch, Tomato, Carrot, Lettuce?",Couch,Tomato,Carrot,Lettuce,A,Logic,Medium
+Q1398,"Which of the following does NOT belong: Brown, Otter, Grey, Purple?",Brown,Otter,Grey,Purple,B,Logic,Medium
+Q1399,"Which of the following does NOT belong: Pea, Trapezoid, Corn, Tomato?",Pea,Trapezoid,Corn,Tomato,B,Logic,Medium
+Q1400,"Which of the following does NOT belong: White, Grey, Mango, Purple?",White,Grey,Mango,Purple,C,Logic,Easy
+Q1401,Choose the word closest in meaning to 'honest'.,thin,idle,eager,truthful,D,Verbal,Easy
+Q1402,Pick the word that rhymes with 'mile'.,style,stone,book,moon,A,Verbal,Easy
+Q1403,Choose the word closest in meaning to 'silent'.,quiet,contemporary,peaceful,compliant,A,Verbal,Easy
+Q1404,Choose the word opposite in meaning to 'awake'.,leave,exclude,destroy,asleep,D,Verbal,Easy
+Q1405,The sun is ___ in the sky.,book,cold,high,blue,C,Verbal,Medium
+Q1406,Choose the word opposite in meaning to 'increase'.,forget,separate,decrease,leave,C,Verbal,Easy
+Q1407,Choose the word closest in meaning to 'brave'.,renowned,envious,courageous,old,C,Verbal,Easy
+Q1408,I have a ___ dog.,red,toy,tree,pet,D,Verbal,Medium
+Q1409,Pick the word that rhymes with 'stone'.,bone,book,rain,table,A,Verbal,Easy
+Q1410,Choose the word closest in meaning to 'keen'.,courteous,compliant,thin,eager,D,Verbal,Easy
+Q1411,We eat with a ___ (spoon).,glass,book,chair,spoon,D,Verbal,Medium
+Q1412,Choose the word opposite in meaning to 'create'.,destroy,separate,reject,pull,A,Verbal,Easy
+Q1413,Pick the word that rhymes with 'boat'.,leaf,coat,car,dog,B,Verbal,Easy
+Q1414,Pick the word that rhymes with 'cake'.,rain,moon,table,bake,D,Verbal,Easy
+Q1415,She is very ___ (calm).,bright,calm,car,noisy,B,Verbal,Medium
+Q1416,Choose the word opposite in meaning to 'connect'.,destroy,exclude,enemy,separate,D,Verbal,Easy
+Q1417,Pick the word that rhymes with 'sand'.,leaf,pen,moon,hand,D,Verbal,Easy
+Q1418,Choose the word closest in meaning to 'lazy'.,thin,courteous,idle,inexpensive,C,Verbal,Easy
+Q1419,Choose the word closest in meaning to 'difficult'.,vacant,thin,inactive,hard,D,Verbal,Easy
+Q1420,Choose the word closest in meaning to 'narrow'.,compliant,thin,quiet,peaceful,B,Verbal,Easy
+Q1421,Choose the word opposite in meaning to 'build'.,enemy,take,forget,destroy,D,Verbal,Easy
+Q1422,Choose the word opposite in meaning to 'learn'.,take,forget,easy,reject,B,Verbal,Easy
+Q1423,Choose the word opposite in meaning to 'friend'.,enemy,separate,reject,exclude,A,Verbal,Easy
+Q1424,Choose the word closest in meaning to 'rapid'.,quick,smart,eager,idle,A,Verbal,Easy
+Q1425,Pick the word that rhymes with 'light'.,night,pen,car,moon,A,Verbal,Easy
+Q1426,Choose the word closest in meaning to 'calm'.,peaceful,quick,truthful,renowned,A,Verbal,Easy
+Q1427,Pick the word that rhymes with 'star'.,moon,car,book,pen,B,Verbal,Easy
+Q1428,Choose the word opposite in meaning to 'give'.,reject,easy,take,decrease,C,Verbal,Easy
+Q1429,Pick the word that rhymes with 'green'.,leaf,car,moon,seen,D,Verbal,Easy
+Q1430,My shirt is ___ (blue).,green,car,red,blue,D,Verbal,Medium
+Q1431,Choose the word opposite in meaning to 'arrive'.,asleep,enemy,leave,pull,C,Verbal,Easy
+Q1432,Choose the word closest in meaning to 'bright'.,truthful,vacant,smart,contemporary,C,Verbal,Easy
+Q1433,Pick the word that rhymes with 'bell'.,car,stone,sell,king,C,Verbal,Easy
+Q1434,Choose the word opposite in meaning to 'accept'.,full,pull,enemy,reject,D,Verbal,Easy
+Q1435,Choose the word closest in meaning to 'ancient'.,inactive,old,contemporary,peaceful,B,Verbal,Easy
+Q1436,Choose the word closest in meaning to 'famous'.,compliant,hard,kind,renowned,D,Verbal,Easy
+Q1437,Choose the word opposite in meaning to 'include'.,decrease,easy,exclude,destroy,C,Verbal,Easy
+Q1438,Choose the word closest in meaning to 'empty'.,peaceful,compliant,contemporary,vacant,D,Verbal,Easy
+Q1439,Choose the word closest in meaning to 'idle'.,inactive,vacant,hard,thin,A,Verbal,Easy
+Q1440,Choose the word closest in meaning to 'jealous'.,peaceful,old,truthful,envious,D,Verbal,Easy
+Q1441,Choose the word opposite in meaning to 'push'.,leave,destroy,reject,pull,D,Verbal,Easy
+Q1442,Choose the word closest in meaning to 'gentle'.,truthful,eager,quiet,kind,D,Verbal,Easy
+Q1443,Choose the word closest in meaning to 'polite'.,courageous,contemporary,inactive,courteous,D,Verbal,Easy
+Q1444,Pick the word that rhymes with 'rain'.,king,leaf,train,stone,C,Verbal,Easy
+Q1445,Choose the word opposite in meaning to 'borrow'.,forget,reject,destroy,lend,D,Verbal,Easy
+Q1446,Choose the word opposite in meaning to 'empty'.,pull,exclude,forget,full,D,Verbal,Easy
+Q1447,Choose the word closest in meaning to 'modern'.,quick,old,contemporary,truthful,C,Verbal,Easy
+Q1448,Choose the word closest in meaning to 'empty'. (variant 61),contemporary,eager,inactive,vacant,D,Verbal,Easy
+Q1449,Choose the word closest in meaning to 'cheap'.,quick,thin,contemporary,inexpensive,D,Verbal,Easy
+Q1450,Choose the word closest in meaning to 'obedient'.,compliant,kind,inexpensive,vacant,A,Verbal,Easy
+Q1451,Choose the word opposite in meaning to 'difficult'.,forget,easy,asleep,take,B,Verbal,Easy
+Q1452,Pick the word that rhymes with 'stone'. (variant 61),car,moon,bone,book,C,Verbal,Easy
+Q1453,Pick the word that rhymes with 'bell'. (variant 61),stone,king,sell,moon,C,Verbal,Easy
+Q1454,Choose the word opposite in meaning to 'create'. (variant 61),pull,reject,destroy,decrease,C,Verbal,Easy
+Q1455,Pick the word that rhymes with 'mile'. (variant 61),style,car,rain,king,A,Verbal,Easy
+Q1456,Choose the word closest in meaning to 'obedient'. (variant 61),quiet,inactive,compliant,eager,C,Verbal,Easy
+Q1457,Pick the word that rhymes with 'boat'. (variant 61),rain,coat,pen,book,B,Verbal,Easy
+Q1458,I have a ___ dog. (variant 61),toy,tree,red,pet,D,Verbal,Medium
+Q1459,Pick the word that rhymes with 'bell'. (variant 61),book,rain,sell,dog,C,Verbal,Easy
+Q1460,Choose the word closest in meaning to 'gentle'. (variant 61),compliant,inexpensive,hard,kind,D,Verbal,Easy
+Q1461,Choose the word opposite in meaning to 'create'. (variant 61),leave,destroy,pull,reject,B,Verbal,Easy
+Q1462,Choose the word opposite in meaning to 'difficult'. (variant 61),destroy,leave,separate,easy,D,Verbal,Easy
+Q1463,Choose the word closest in meaning to 'jealous'. (variant 61),envious,courteous,compliant,old,A,Verbal,Easy
+Q1464,Pick the word that rhymes with 'rain'. (variant 61),train,book,table,pen,A,Verbal,Easy
+Q1465,Choose the word closest in meaning to 'honest'. (variant 61),envious,smart,hard,truthful,D,Verbal,Easy
+Q1466,Choose the word opposite in meaning to 'include'. (variant 61),asleep,exclude,pull,leave,B,Verbal,Easy
+Q1467,Choose the word closest in meaning to 'gentle'. (variant 61),peaceful,kind,envious,inexpensive,B,Verbal,Easy
+Q1468,I have a ___ dog. (variant 61),toy,red,book,pet,D,Verbal,Medium
+Q1469,Choose the word closest in meaning to 'obedient'. (variant 61),compliant,renowned,old,contemporary,A,Verbal,Easy
+Q1470,Choose the word closest in meaning to 'obedient'. (variant 61),compliant,old,inactive,hard,A,Verbal,Easy
+Q1471,Choose the word opposite in meaning to 'connect'. (variant 61),separate,lend,pull,asleep,A,Verbal,Easy
+Q1472,We eat with a ___ (spoon). (variant 61),book,chair,spoon,glass,C,Verbal,Medium
+Q1473,I have a ___ dog. (variant 61),toy,pet,red,book,B,Verbal,Medium
+Q1474,My shirt is ___ (blue). (variant 61),blue,red,green,tree,A,Verbal,Medium
+Q1475,Choose the word closest in meaning to 'brave'. (variant 61),courageous,quiet,compliant,old,A,Verbal,Easy
+Q1476,Choose the word closest in meaning to 'idle'. (variant 61),inactive,peaceful,eager,old,A,Verbal,Easy
+Q1477,My shirt is ___ (blue). (variant 61),green,red,blue,tree,C,Verbal,Medium
+Q1478,She is very ___ (calm). (variant 61),calm,tree,bright,noisy,A,Verbal,Medium
+Q1479,Choose the word closest in meaning to 'modern'. (variant 61),quiet,thin,contemporary,idle,C,Verbal,Easy
+Q1480,The sun is ___ in the sky. (variant 61),cold,high,car,blue,B,Verbal,Medium
+Q1481,Choose the word closest in meaning to 'modern'. (variant 61),eager,smart,old,contemporary,D,Verbal,Easy
+Q1482,Choose the word closest in meaning to 'polite'. (variant 61),eager,idle,old,courteous,D,Verbal,Easy
+Q1483,Choose the word opposite in meaning to 'connect'. (variant 61),destroy,separate,asleep,reject,B,Verbal,Easy
+Q1484,My shirt is ___ (blue). (variant 61),book,blue,red,green,B,Verbal,Medium
+Q1485,Choose the word closest in meaning to 'narrow'. (variant 61),thin,inactive,kind,peaceful,A,Verbal,Easy
+Q1486,Pick the word that rhymes with 'stone'. (variant 61),pen,rain,bone,book,C,Verbal,Easy
+Q1487,Choose the word opposite in meaning to 'build'. (variant 61),enemy,separate,lend,destroy,D,Verbal,Easy
+Q1488,Pick the word that rhymes with 'mile'. (variant 61),style,car,book,rain,A,Verbal,Easy
+Q1489,My shirt is ___ (blue). (variant 61),red,car,green,blue,D,Verbal,Medium
+Q1490,Choose the word opposite in meaning to 'include'. (variant 61),destroy,forget,easy,exclude,D,Verbal,Easy
+Q1491,She is very ___ (calm). (variant 61),book,bright,noisy,calm,D,Verbal,Medium
+Q1492,Pick the word that rhymes with 'sand'. (variant 61),book,rain,leaf,hand,D,Verbal,Easy
+Q1493,Choose the word closest in meaning to 'polite'. (variant 61),thin,courteous,peaceful,quick,B,Verbal,Easy
+Q1494,Choose the word closest in meaning to 'calm'. (variant 61),courageous,quiet,peaceful,renowned,C,Verbal,Easy
+Q1495,The sun is ___ in the sky. (variant 61),book,blue,high,cold,C,Verbal,Medium
+Q1496,I have a ___ dog. (variant 61),pet,book,red,toy,A,Verbal,Medium
+Q1497,Choose the word opposite in meaning to 'difficult'. (variant 61),pull,leave,separate,easy,D,Verbal,Easy
+Q1498,My shirt is ___ (blue). (variant 61),red,green,tree,blue,D,Verbal,Medium
+Q1499,Pick the word that rhymes with 'mile'. (variant 61),king,moon,style,car,C,Verbal,Easy
+Q1500,Choose the word opposite in meaning to 'awake'. (variant 61),reject,asleep,enemy,full,B,Verbal,Easy
+Q1501,Pick the word that rhymes with 'bell'. (variant 61),book,king,pen,sell,D,Verbal,Easy
+Q1502,Choose the word opposite in meaning to 'build'. (variant 61),reject,exclude,destroy,forget,C,Verbal,Easy
+Q1503,She is very ___ (calm). (variant 61),bright,noisy,car,calm,D,Verbal,Medium
+Q1504,She is very ___ (calm). (variant 61),calm,bright,book,noisy,A,Verbal,Medium
+Q1505,Pick the word that rhymes with 'bell'. (variant 61),sell,king,moon,rain,A,Verbal,Easy
+Q1506,She is very ___ (calm). (variant 61),tree,calm,noisy,bright,B,Verbal,Medium
+Q1507,Pick the word that rhymes with 'sand'. (variant 61),car,book,hand,pen,C,Verbal,Easy
+Q1508,She is very ___ (calm). (variant 61),calm,car,bright,noisy,A,Verbal,Medium
+Q1509,Choose the word opposite in meaning to 'give'. (variant 61),lend,take,destroy,full,B,Verbal,Easy
+Q1510,Choose the word closest in meaning to 'narrow'. (variant 61),idle,hard,thin,eager,C,Verbal,Easy
+Q1511,Choose the word opposite in meaning to 'learn'. (variant 61),pull,full,forget,destroy,C,Verbal,Easy
+Q1512,Pick the word that rhymes with 'stone'. (variant 61),moon,car,book,bone,D,Verbal,Easy
+Q1513,Pick the word that rhymes with 'sand'. (variant 61),hand,king,rain,car,A,Verbal,Easy
+Q1514,My shirt is ___ (blue). (variant 61),green,car,blue,red,C,Verbal,Medium
+Q1515,Pick the word that rhymes with 'bell'. (variant 61),king,table,moon,sell,D,Verbal,Easy
+Q1516,The sun is ___ in the sky. (variant 61),cold,book,high,blue,C,Verbal,Medium
+Q1517,Pick the word that rhymes with 'rain'. (variant 61),train,book,moon,stone,A,Verbal,Easy
+Q1518,Choose the word closest in meaning to 'difficult'. (variant 61),hard,renowned,courageous,old,A,Verbal,Easy
+Q1519,Pick the word that rhymes with 'rain'. (variant 61),moon,dog,train,pen,C,Verbal,Easy
+Q1520,I have a ___ dog. (variant 61),pet,toy,red,tree,A,Verbal,Medium
+Q1521,Choose the word closest in meaning to 'difficult'. (variant 61),quick,peaceful,contemporary,hard,D,Verbal,Easy
+Q1522,My shirt is ___ (blue). (variant 61),green,blue,book,red,B,Verbal,Medium
+Q1523,Choose the word closest in meaning to 'gentle'. (variant 61),kind,envious,old,inexpensive,A,Verbal,Easy
+Q1524,I have a ___ dog. (variant 61),car,red,toy,pet,D,Verbal,Medium
+Q1525,Choose the word closest in meaning to 'silent'. (variant 61),quiet,inactive,kind,peaceful,A,Verbal,Easy
+Q1526,Choose the word opposite in meaning to 'increase'. (variant 61),asleep,leave,easy,decrease,D,Verbal,Easy
+Q1527,Pick the word that rhymes with 'bell'. (variant 61),book,king,rain,sell,D,Verbal,Easy
+Q1528,Pick the word that rhymes with 'star'. (variant 61),car,book,leaf,dog,A,Verbal,Easy
+Q1529,Choose the word closest in meaning to 'obedient'. (variant 61),envious,kind,compliant,eager,C,Verbal,Easy
+Q1530,Pick the word that rhymes with 'sand'. (variant 61),dog,hand,pen,moon,B,Verbal,Easy
+Q1531,Choose the word closest in meaning to 'ancient'. (variant 61),envious,courageous,old,idle,C,Verbal,Easy
+Q1532,Choose the word opposite in meaning to 'include'. (variant 61),easy,exclude,take,enemy,B,Verbal,Easy
+Q1533,We eat with a ___ (spoon). (variant 61),car,glass,chair,spoon,D,Verbal,Medium
+Q1534,We eat with a ___ (spoon). (variant 61),spoon,car,chair,glass,A,Verbal,Medium
+Q1535,Choose the word opposite in meaning to 'empty'. (variant 61),exclude,full,easy,leave,B,Verbal,Easy
+Q1536,Pick the word that rhymes with 'light'. (variant 61),car,moon,table,night,D,Verbal,Easy
+Q1537,Pick the word that rhymes with 'boat'. (variant 61),book,dog,pen,coat,D,Verbal,Easy
+Q1538,My shirt is ___ (blue). (variant 61),red,green,car,blue,D,Verbal,Medium
+Q1539,Choose the word opposite in meaning to 'increase'. (variant 61),decrease,asleep,take,enemy,A,Verbal,Easy
+Q1540,My shirt is ___ (blue). (variant 61),red,green,tree,blue,D,Verbal,Medium
+Q1541,Pick the word that rhymes with 'light'. (variant 61),rain,night,pen,table,B,Verbal,Easy
+Q1542,Choose the word closest in meaning to 'difficult'. (variant 61),inactive,hard,kind,eager,B,Verbal,Easy
+Q1543,We eat with a ___ (spoon). (variant 61),glass,chair,spoon,tree,C,Verbal,Medium
+Q1544,We eat with a ___ (spoon). (variant 61),book,spoon,chair,glass,B,Verbal,Medium
+Q1545,Choose the word opposite in meaning to 'arrive'. (variant 61),asleep,destroy,leave,pull,C,Verbal,Easy
+Q1546,Pick the word that rhymes with 'rain'. (variant 61),dog,leaf,pen,train,D,Verbal,Easy
+Q1547,Pick the word that rhymes with 'bell'. (variant 61),car,pen,sell,dog,C,Verbal,Easy
+Q1548,Choose the word closest in meaning to 'famous'. (variant 61),vacant,renowned,idle,inactive,B,Verbal,Easy
+Q1549,The sun is ___ in the sky. (variant 61),car,blue,cold,high,D,Verbal,Medium
+Q1550,Choose the word opposite in meaning to 'empty'. (variant 61),asleep,full,destroy,lend,B,Verbal,Easy
+Q1551,Choose the word closest in meaning to 'idle'. (variant 61),inactive,compliant,quick,vacant,A,Verbal,Easy
+Q1552,Choose the word closest in meaning to 'rapid'. (variant 61),quick,truthful,courageous,old,A,Verbal,Easy
+Q1553,Choose the word opposite in meaning to 'difficult'. (variant 61),easy,separate,leave,full,A,Verbal,Easy
+Q1554,Choose the word closest in meaning to 'modern'. (variant 61),quiet,truthful,inactive,contemporary,D,Verbal,Easy
+Q1555,Choose the word closest in meaning to 'obedient'. (variant 61),smart,hard,compliant,inexpensive,C,Verbal,Easy
+Q1556,I have a ___ dog. (variant 61),pet,toy,red,book,A,Verbal,Medium
+Q1557,The sun is ___ in the sky. (variant 61),book,high,blue,cold,B,Verbal,Medium
+Q1558,Choose the word closest in meaning to 'idle'. (variant 61),compliant,courteous,idle,inactive,D,Verbal,Easy
+Q1559,The sun is ___ in the sky. (variant 61),cold,book,blue,high,D,Verbal,Medium
+Q1560,Choose the word opposite in meaning to 'give'. (variant 61),forget,destroy,take,leave,C,Verbal,Easy
+Q1561,The sun is ___ in the sky. (variant 61),blue,cold,tree,high,D,Verbal,Medium
+Q1562,Pick the word that rhymes with 'star'. (variant 61),pen,king,car,stone,C,Verbal,Easy
+Q1563,Choose the word closest in meaning to 'ancient'. (variant 61),envious,old,quiet,quick,B,Verbal,Easy
+Q1564,Pick the word that rhymes with 'cake'. (variant 61),bake,book,car,rain,A,Verbal,Easy
+Q1565,Pick the word that rhymes with 'sand'. (variant 61),rain,stone,hand,dog,C,Verbal,Easy
+Q1566,Pick the word that rhymes with 'green'. (variant 61),moon,dog,table,seen,D,Verbal,Easy
+Q1567,Choose the word closest in meaning to 'gentle'. (variant 61),courteous,smart,peaceful,kind,D,Verbal,Easy
+Q1568,Choose the word closest in meaning to 'empty'. (variant 61),vacant,renowned,thin,inactive,A,Verbal,Easy
+Q1569,Pick the word that rhymes with 'boat'. (variant 61),car,rain,dog,coat,D,Verbal,Easy
+Q1570,Choose the word opposite in meaning to 'arrive'. (variant 61),pull,easy,leave,decrease,C,Verbal,Easy
+Q1571,The sun is ___ in the sky. (variant 61),tree,cold,blue,high,D,Verbal,Medium
+Q1572,We eat with a ___ (spoon). (variant 61),book,chair,glass,spoon,D,Verbal,Medium
+Q1573,Choose the word opposite in meaning to 'friend'. (variant 61),enemy,decrease,take,full,A,Verbal,Easy
+Q1574,Choose the word closest in meaning to 'brave'. (variant 61),courageous,smart,contemporary,courteous,A,Verbal,Easy
+Q1575,Choose the word closest in meaning to 'honest'. (variant 61),courageous,old,peaceful,truthful,D,Verbal,Easy
+Q1576,Choose the word opposite in meaning to 'connect'. (variant 61),decrease,forget,separate,enemy,C,Verbal,Easy
+Q1577,Choose the word opposite in meaning to 'build'. (variant 61),separate,exclude,destroy,enemy,C,Verbal,Easy
+Q1578,My shirt is ___ (blue). (variant 61),blue,red,green,car,A,Verbal,Medium
+Q1579,Choose the word opposite in meaning to 'arrive'. (variant 61),easy,leave,destroy,separate,B,Verbal,Easy
+Q1580,Pick the word that rhymes with 'boat'. (variant 61),rain,table,car,coat,D,Verbal,Easy
+Q1581,Choose the word closest in meaning to 'gentle'. (variant 61),eager,thin,kind,compliant,C,Verbal,Easy
+Q1582,Choose the word opposite in meaning to 'create'. (variant 61),leave,exclude,easy,destroy,D,Verbal,Easy
+Q1583,Pick the word that rhymes with 'green'. (variant 61),rain,seen,leaf,dog,B,Verbal,Easy
+Q1584,We eat with a ___ (spoon). (variant 61),book,chair,spoon,glass,C,Verbal,Medium
+Q1585,I have a ___ dog. (variant 61),red,car,pet,toy,C,Verbal,Medium
+Q1586,Choose the word closest in meaning to 'keen'. (variant 61),contemporary,truthful,courteous,eager,D,Verbal,Easy
+Q1587,The sun is ___ in the sky. (variant 61),high,blue,cold,book,A,Verbal,Medium
+Q1588,Pick the word that rhymes with 'light'. (variant 61),dog,leaf,king,night,D,Verbal,Easy
+Q1589,My shirt is ___ (blue). (variant 61),blue,car,red,green,A,Verbal,Medium
+Q1590,Pick the word that rhymes with 'cake'. (variant 61),book,stone,leaf,bake,D,Verbal,Easy
+Q1591,Choose the word closest in meaning to 'gentle'. (variant 61),eager,kind,courteous,envious,B,Verbal,Easy
+Q1592,Pick the word that rhymes with 'bell'. (variant 61),moon,king,sell,stone,C,Verbal,Easy
+Q1593,I have a ___ dog. (variant 61),pet,tree,toy,red,A,Verbal,Medium
+Q1594,Choose the word opposite in meaning to 'friend'. (variant 61),enemy,decrease,full,pull,A,Verbal,Easy
+Q1595,Choose the word opposite in meaning to 'awake'. (variant 61),leave,destroy,asleep,enemy,C,Verbal,Easy
+Q1596,Pick the word that rhymes with 'bell'. (variant 61),car,rain,sell,book,C,Verbal,Easy
+Q1597,Choose the word opposite in meaning to 'accept'. (variant 61),forget,reject,enemy,asleep,B,Verbal,Easy
+Q1598,Choose the word closest in meaning to 'obedient'. (variant 61),thin,hard,kind,compliant,D,Verbal,Easy
+Q1599,Choose the word opposite in meaning to 'accept'. (variant 61),reject,enemy,leave,full,A,Verbal,Easy
+Q1600,Choose the word opposite in meaning to 'create'. (variant 61),lend,reject,asleep,destroy,D,Verbal,Easy
+Q1601,"Memorize: 9, 30, 20, 2. Which number was at position 4?",9,2,60,20,B,Memory,Medium
+Q1602,"Remember: Magenta, Brown, Orange, Grey. Which was number 4?",Pink,Orange,Brown,Grey,D,Memory,Medium
+Q1603,"Remember the sequence: Triangle, Oval, Trapezoid, Rectangle. Which was first?",Trapezoid,Triangle,Rectangle,Hexagon,B,Memory,Medium
+Q1604,"Remember: Pineapple, Grapes, Papaya, Orange. Which fruit was number 4?",Papaya,Orange,Cherry,Pineapple,B,Memory,Medium
+Q1605,"Remember the sequence: Diamond, Cylinder, Rectangle, Hexagon. Which was fourth?",Circle,Cylinder,Hexagon,Diamond,C,Memory,Medium
+Q1606,"Memorize: 4, 7, 23, 43. Which number was at position 1?",43,4,76,7,B,Memory,Medium
+Q1607,"Remember the sequence: Octagon, Cylinder, Cone, Triangle. Which was third?",Cone,Star,Octagon,Cylinder,A,Memory,Medium
+Q1608,"Remember: Grey, Pink, Purple, Orange. Which was number 2?",Magenta,Grey,Orange,Pink,D,Memory,Medium
+Q1609,"Remember: Grey, Brown, Cyan, Purple. Which was number 3?",Grey,Purple,Black,Brown,A,Memory,Medium
+Q1610,"Remember: Kiwi, Orange, Mango, Papaya. Which fruit was number 4?",Orange,Peach,Mango,Papaya,D,Memory,Medium
+Q1611,"Remember the sequence: Circle, Triangle, Star, Diamond. Which was fourth?",Diamond,Cylinder,Triangle,Circle,A,Memory,Medium
+Q1612,"Memorize: 39, 50, 34, 40. Which number was at position 4?",50,34,40,78,C,Memory,Medium
+Q1613,"Remember the sequence: Rectangle, Trapezoid, Star, Oval. Which was third?",Trapezoid,Rectangle,Hexagon,Oval,A,Memory,Medium
+Q1614,"Remember: Fig, Orange, Pear, Apricot. Which fruit was number 1?",Orange,Pear,Cherry,Apricot,A,Memory,Medium
+Q1615,"Remember: Cherry, Kiwi, Papaya, Pear. Which fruit was number 2?",Kiwi,Papaya,Cherry,Mango,A,Memory,Medium
+Q1616,"Remember the sequence: Cone, Oval, Octagon, Pentagon. Which was fourth?",Diamond,Pentagon,Oval,Cone,B,Memory,Medium
+Q1617,"Memorize: 30, 2, 2, 22. Which number was at position 2?",2,64,22,30,A,Memory,Medium
+Q1618,"Remember the sequence: Trapezoid, Star, Hexagon, Diamond. Which was first?",Diamond,Hexagon,Star,Cone,A,Memory,Medium
+Q1619,"Remember the sequence: Cylinder, Cone, Octagon, Circle. Which was first?",Diamond,Circle,Cylinder,Cone,C,Memory,Medium
+Q1620,"Remember: Yellow, Magenta, Black, Green. Which was number 4?",Blue,Black,Magenta,Yellow,A,Memory,Medium
+Q1621,"Remember: Brown, Lime, Orange, Cyan. Which was number 3?",Lime,Orange,Brown,Black,B,Memory,Medium
+Q1622,"Remember the sequence: Trapezoid, Cylinder, Octagon, Pentagon. Which was third?",Rectangle,Cylinder,Pentagon,Octagon,D,Memory,Medium
+Q1623,"Memorize: 8, 47, 43, 15. Which number was at position 2?",43,15,8,79,A,Memory,Medium
+Q1624,"Remember the sequence: Triangle, Oval, Star, Circle. Which was third?",Cone,Oval,Star,Triangle,C,Memory,Medium
+Q1625,"Remember: Red, Yellow, Cyan, Green. Which was number 2?",Yellow,Red,Cyan,White,A,Memory,Medium
+Q1626,"Remember: Black, Red, White, Yellow. Which was number 4?",Yellow,Pink,Black,White,A,Memory,Medium
+Q1627,"Memorize: 43, 24, 22, 33. Which number was at position 4?",43,33,80,24,B,Memory,Medium
+Q1628,"Remember: Yellow, Blue, Purple, White. Which was number 1?",Brown,Yellow,White,Blue,B,Memory,Medium
+Q1629,"Remember: Papaya, Grapes, Fig, Banana. Which fruit was number 1?",Banana,Mango,Papaya,Fig,C,Memory,Medium
+Q1630,"Remember the sequence: Cone, Cylinder, Octagon, Diamond. Which was third?",Cone,Octagon,Diamond,Pentagon,B,Memory,Medium
+Q1631,"Remember the sequence: Heart, Octagon, Square, Rectangle. Which was third?",Rectangle,Pentagon,Octagon,Square,D,Memory,Medium
+Q1632,"Remember the sequence: Rectangle, Star, Hexagon, Trapezoid. Which was second?",Rectangle,Circle,Hexagon,Star,D,Memory,Medium
+Q1633,"Remember the sequence: Square, Heart, Cylinder, Trapezoid. Which was fourth?",Square,Trapezoid,Diamond,Cylinder,B,Memory,Medium
+Q1634,"Remember the sequence: Pentagon, Trapezoid, Cylinder, Cone. Which was second?",Trapezoid,Pentagon,Diamond,Cone,A,Memory,Medium
+Q1635,"Remember: Fig, Peach, Plum, Grapes. Which fruit was number 2?",Banana,Fig,Grapes,Peach,D,Memory,Medium
+Q1636,"Remember the sequence: Rectangle, Octagon, Pentagon, Trapezoid. Which was third?",Trapezoid,Pentagon,Rectangle,Cone,B,Memory,Medium
+Q1637,"Memorize: 10, 35, 40, 17. Which number was at position 4?",40,56,10,35,A,Memory,Medium
+Q1638,"Remember the sequence: Triangle, Cylinder, Trapezoid, Star. Which was first?",Cone,Cylinder,Triangle,Star,C,Memory,Medium
+Q1639,"Remember the sequence: Hexagon, Star, Square, Cylinder. Which was third?",Triangle,Hexagon,Cylinder,Square,D,Memory,Medium
+Q1640,"Remember the sequence: Trapezoid, Circle, Octagon, Cylinder. Which was fourth?",Diamond,Circle,Trapezoid,Octagon,A,Memory,Medium
+Q1641,"Remember the sequence: Cone, Star, Heart, Triangle. Which was first?",Triangle,Heart,Pentagon,Cone,D,Memory,Medium
+Q1642,"Remember the sequence: Pentagon, Rectangle, Trapezoid, Cone. Which was fourth?",Rectangle,Octagon,Trapezoid,Pentagon,A,Memory,Medium
+Q1643,"Memorize: 7, 35, 7, 22. Which number was at position 3?",59,22,7,7,C,Memory,Medium
+Q1644,"Remember the sequence: Triangle, Trapezoid, Cylinder, Rectangle. Which was third?",Trapezoid,Rectangle,Triangle,Pentagon,A,Memory,Medium
+Q1645,"Remember the sequence: Oval, Octagon, Circle, Pentagon. Which was first?",Cone,Oval,Circle,Pentagon,B,Memory,Medium
+Q1646,"Remember the sequence: Triangle, Octagon, Pentagon, Rectangle. Which was first?",Octagon,Rectangle,Star,Pentagon,A,Memory,Medium
+Q1647,"Remember the sequence: Heart, Cone, Octagon, Cylinder. Which was third?",Cone,Rectangle,Cylinder,Octagon,D,Memory,Medium
+Q1648,"Remember: Peach, Apple, Pear, Cherry. Which fruit was number 2?",Cherry,Apple,Pear,Orange,B,Memory,Medium
+Q1649,"Remember: Apricot, Cherry, Pineapple, Pear. Which fruit was number 3?",Banana,Cherry,Pear,Apricot,A,Memory,Medium
+Q1650,"Memorize: 2, 7, 42, 24. Which number was at position 2?",24,2,51,42,A,Memory,Medium
+Q1651,"Memorize: 6, 13, 31, 13. Which number was at position 2?",52,13,31,6,B,Memory,Medium
+Q1652,"Remember the sequence: Star, Heart, Triangle, Rectangle. Which was third?",Diamond,Star,Heart,Rectangle,A,Memory,Medium
+Q1653,"Remember the sequence: Trapezoid, Oval, Triangle, Cone. Which was third?",Cylinder,Trapezoid,Cone,Triangle,D,Memory,Medium
+Q1654,"Remember: Grey, Lime, Red, Yellow. Which was number 2?",Red,Purple,Grey,Yellow,A,Memory,Medium
+Q1655,"Remember: Purple, Blue, Magenta, Yellow. Which was number 3?",Purple,Magenta,Pink,Yellow,B,Memory,Medium
+Q1656,"Remember: Pear, Papaya, Apricot, Mango. Which fruit was number 1?",Mango,Papaya,Apricot,Grapes,A,Memory,Medium
+Q1657,"Remember the sequence: Trapezoid, Triangle, Square, Octagon. Which was third?",Octagon,Square,Circle,Trapezoid,B,Memory,Medium
+Q1658,"Remember: Apricot, Kiwi, Papaya, Peach. Which fruit was number 4?",Papaya,Apricot,Kiwi,Plum,A,Memory,Medium
+Q1659,"Remember the sequence: Cone, Star, Triangle, Heart. Which was third?",Heart,Trapezoid,Triangle,Star,C,Memory,Medium
+Q1660,"Remember the sequence: Star, Trapezoid, Rectangle, Circle. Which was third?",Trapezoid,Pentagon,Rectangle,Circle,C,Memory,Medium
+Q1661,"Remember the sequence: Circle, Cylinder, Cone, Oval. Which was first?",Cone,Circle,Cylinder,Diamond,B,Memory,Medium
+Q1662,"Remember: White, Grey, Magenta, Pink. Which was number 4?",Pink,Grey,White,Green,A,Memory,Medium
+Q1663,"Remember the sequence: Circle, Triangle, Octagon, Rectangle. Which was third?",Diamond,Triangle,Octagon,Circle,C,Memory,Medium
+Q1664,"Remember the sequence: Octagon, Triangle, Rectangle, Heart. Which was third?",Rectangle,Octagon,Circle,Heart,A,Memory,Medium
+Q1665,"Remember the sequence: Rectangle, Cylinder, Square, Triangle. Which was third?",Triangle,Rectangle,Star,Cylinder,A,Memory,Medium
+Q1666,"Remember the sequence: Cone, Rectangle, Heart, Cylinder. Which was second?",Heart,Cylinder,Cone,Pentagon,A,Memory,Medium
+Q1667,"Remember: Mango, Apple, Banana, Papaya. Which fruit was number 1?",Banana,Papaya,Apple,Fig,A,Memory,Medium
+Q1668,"Memorize: 28, 10, 41, 7. Which number was at position 3?",7,41,10,72,B,Memory,Medium
+Q1669,"Remember the sequence: Hexagon, Triangle, Rectangle, Diamond. Which was first?",Rectangle,Octagon,Diamond,Triangle,A,Memory,Medium
+Q1670,"Remember: Papaya, Kiwi, Cherry, Fig. Which fruit was number 1?",Fig,Cherry,Kiwi,Apricot,A,Memory,Medium
+Q1671,"Remember: Orange, Yellow, Lime, Green. Which was number 3?",Yellow,Lime,White,Green,B,Memory,Medium
+Q1672,"Remember the sequence: Cone, Heart, Star, Octagon. Which was third?",Heart,Star,Circle,Octagon,B,Memory,Medium
+Q1673,"Memorize: 20, 11, 42, 45. Which number was at position 1?",45,20,42,58,B,Memory,Medium
+Q1674,"Remember: Blue, Yellow, Purple, Black. Which was number 4?",Red,Blue,Black,Yellow,C,Memory,Medium
+Q1675,"Memorize: 3, 11, 48, 34. Which number was at position 3?",48,11,52,3,A,Memory,Medium
+Q1676,"Remember: Grapes, Plum, Banana, Papaya. Which fruit was number 1?",Papaya,Pineapple,Banana,Plum,A,Memory,Medium
+Q1677,"Memorize: 45, 29, 29, 31. Which number was at position 3?",29,70,29,31,A,Memory,Medium
+Q1678,"Remember the sequence: Square, Trapezoid, Diamond, Pentagon. Which was fourth?",Trapezoid,Pentagon,Square,Cylinder,B,Memory,Medium
+Q1679,"Memorize: 17, 34, 29, 30. Which number was at position 4?",34,29,17,73,A,Memory,Medium
+Q1680,"Remember the sequence: Rectangle, Heart, Cone, Octagon. Which was third?",Square,Heart,Rectangle,Cone,D,Memory,Medium
+Q1681,"Remember: Grey, Orange, Blue, Red. Which was number 4?",Grey,Blue,Orange,Brown,A,Memory,Medium
+Q1682,"Remember the sequence: Oval, Hexagon, Pentagon, Trapezoid. Which was fourth?",Octagon,Hexagon,Oval,Pentagon,A,Memory,Medium
+Q1683,"Remember: Black, Orange, Yellow, Purple. Which was number 1?",Purple,Brown,Orange,Yellow,A,Memory,Medium
+Q1684,"Remember the sequence: Diamond, Cone, Oval, Circle. Which was fourth?",Square,Oval,Cone,Circle,D,Memory,Medium
+Q1685,"Remember: Yellow, Magenta, Lime, Blue. Which was number 1?",Yellow,Magenta,Lime,Purple,A,Memory,Medium
+Q1686,"Remember: Pear, Pineapple, Papaya, Banana. Which fruit was number 1?",Cherry,Pear,Papaya,Pineapple,B,Memory,Medium
+Q1687,"Remember: Orange, Pear, Plum, Grapes. Which fruit was number 4?",Plum,Kiwi,Orange,Grapes,D,Memory,Medium
+Q1688,"Memorize: 40, 41, 31, 4. Which number was at position 3?",4,31,78,41,B,Memory,Medium
+Q1689,"Memorize: 35, 38, 21, 18. Which number was at position 1?",55,38,21,35,D,Memory,Medium
+Q1690,"Remember: Grey, Pink, Green, Purple. Which was number 2?",Purple,Lime,Pink,Grey,C,Memory,Medium
+Q1691,"Remember the sequence: Circle, Cylinder, Diamond, Trapezoid. Which was first?",Trapezoid,Circle,Octagon,Diamond,B,Memory,Medium
+Q1692,"Remember the sequence: Octagon, Trapezoid, Hexagon, Cone. Which was third?",Cylinder,Hexagon,Cone,Octagon,B,Memory,Medium
+Q1693,"Remember: Purple, Magenta, Cyan, Blue. Which was number 2?",Blue,Cyan,Lime,Purple,A,Memory,Medium
+Q1694,"Remember: Cherry, Apple, Grapes, Orange. Which fruit was number 1?",Cherry,Apple,Peach,Grapes,A,Memory,Medium
+Q1695,"Remember the sequence: Oval, Trapezoid, Circle, Hexagon. Which was second?",Circle,Hexagon,Cone,Oval,A,Memory,Medium
+Q1696,"Remember the sequence: Heart, Oval, Triangle, Pentagon. Which was third?",Oval,Heart,Square,Pentagon,A,Memory,Medium
+Q1697,"Remember: White, Red, Pink, Brown. Which was number 4?",Red,Black,White,Brown,D,Memory,Medium
+Q1698,"Remember: Pink, Black, White, Purple. Which was number 3?",Red,White,Black,Purple,B,Memory,Medium
+Q1699,"Memorize: 46, 4, 12, 47. Which number was at position 1?",54,47,4,12,A,Memory,Medium
+Q1700,"Remember the sequence: Cylinder, Trapezoid, Square, Octagon. Which was fourth?",Oval,Octagon,Trapezoid,Cylinder,B,Memory,Medium
+Q1701,"Memorize: 48, 20, 37, 33. Which number was at position 1?",48,77,33,37,A,Memory,Medium
+Q1702,"Remember: Green, Magenta, Lime, White. Which was number 2?",Magenta,Yellow,White,Green,A,Memory,Medium
+Q1703,"Remember: Pineapple, Mango, Kiwi, Plum. Which fruit was number 1?",Apple,Plum,Pineapple,Kiwi,C,Memory,Medium
+Q1704,"Remember the sequence: Trapezoid, Rectangle, Cone, Square. Which was third?",Rectangle,Cylinder,Cone,Square,C,Memory,Medium
+Q1705,"Remember: Pear, Apple, Mango, Pineapple. Which fruit was number 1?",Mango,Papaya,Pineapple,Pear,D,Memory,Medium
+Q1706,"Remember the sequence: Hexagon, Triangle, Heart, Cone. Which was fourth?",Triangle,Heart,Rectangle,Hexagon,A,Memory,Medium
+Q1707,"Remember the sequence: Hexagon, Heart, Star, Square. Which was first?",Star,Hexagon,Octagon,Heart,B,Memory,Medium
+Q1708,"Memorize: 3, 29, 1, 40. Which number was at position 3?",3,80,40,1,D,Memory,Medium
+Q1709,"Remember the sequence: Square, Cylinder, Circle, Octagon. Which was fourth?",Hexagon,Cylinder,Square,Circle,A,Memory,Medium
+Q1710,"Remember: Brown, Purple, Pink, Cyan. Which was number 2?",Cyan,Purple,Brown,Orange,B,Memory,Medium
+Q1711,"Remember: Magenta, Blue, Pink, Black. Which was number 4?",Magenta,Black,Blue,Red,B,Memory,Medium
+Q1712,"Remember the sequence: Triangle, Diamond, Star, Octagon. Which was second?",Diamond,Trapezoid,Octagon,Star,A,Memory,Medium
+Q1713,"Remember: Papaya, Orange, Plum, Mango. Which fruit was number 3?",Orange,Mango,Plum,Grapes,C,Memory,Medium
+Q1714,"Remember: Pineapple, Orange, Cherry, Kiwi. Which fruit was number 3?",Pineapple,Kiwi,Grapes,Orange,A,Memory,Medium
+Q1715,"Remember the sequence: Oval, Diamond, Cylinder, Triangle. Which was second?",Cylinder,Hexagon,Triangle,Oval,A,Memory,Medium
+Q1716,"Remember: Pineapple, Papaya, Fig, Peach. Which fruit was number 3?",Papaya,Plum,Fig,Pineapple,C,Memory,Medium
+Q1717,"Remember: Orange, Green, Blue, Pink. Which was number 3?",Green,Blue,Pink,White,B,Memory,Medium
+Q1718,"Remember: Lime, Magenta, Cyan, White. Which was number 3?",White,Pink,Magenta,Lime,A,Memory,Medium
+Q1719,"Remember: Brown, Blue, Magenta, Cyan. Which was number 3?",Lime,Blue,Magenta,Cyan,C,Memory,Medium
+Q1720,"Remember the sequence: Cylinder, Heart, Cone, Oval. Which was fourth?",Heart,Oval,Cone,Hexagon,B,Memory,Medium
+Q1721,"Remember the sequence: Pentagon, Circle, Heart, Cylinder. Which was first?",Cylinder,Triangle,Pentagon,Circle,C,Memory,Medium
+Q1722,"Remember the sequence: Triangle, Oval, Cylinder, Heart. Which was fourth?",Oval,Trapezoid,Heart,Triangle,C,Memory,Medium
+Q1723,"Remember the sequence: Cylinder, Diamond, Triangle, Circle. Which was fourth?",Triangle,Circle,Diamond,Octagon,B,Memory,Medium
+Q1724,"Remember: Black, Pink, Orange, Purple. Which was number 3?",White,Purple,Orange,Black,C,Memory,Medium
+Q1725,"Remember: Black, Blue, Red, Orange. Which was number 1?",Orange,Red,Black,Magenta,C,Memory,Medium
+Q1726,"Remember the sequence: Rectangle, Cone, Star, Oval. Which was fourth?",Rectangle,Pentagon,Cone,Oval,D,Memory,Medium
+Q1727,"Remember: Orange, Kiwi, Cherry, Papaya. Which fruit was number 2?",Papaya,Fig,Orange,Kiwi,D,Memory,Medium
+Q1728,"Remember the sequence: Octagon, Heart, Circle, Hexagon. Which was second?",Heart,Hexagon,Circle,Rectangle,A,Memory,Medium
+Q1729,"Remember: Cherry, Pineapple, Papaya, Orange. Which fruit was number 4?",Orange,Pineapple,Papaya,Apple,A,Memory,Medium
+Q1730,"Memorize: 23, 27, 6, 40. Which number was at position 1?",6,40,27,53,A,Memory,Medium
+Q1731,"Remember the sequence: Pentagon, Cylinder, Square, Triangle. Which was second?",Cone,Square,Triangle,Pentagon,A,Memory,Medium
+Q1732,"Remember: Black, Pink, Magenta, Blue. Which was number 3?",Pink,Purple,Black,Blue,A,Memory,Medium
+Q1733,"Remember the sequence: Trapezoid, Oval, Triangle, Heart. Which was second?",Trapezoid,Heart,Hexagon,Triangle,A,Memory,Medium
+Q1734,"Remember the sequence: Diamond, Trapezoid, Octagon, Pentagon. Which was first?",Trapezoid,Pentagon,Diamond,Circle,C,Memory,Medium
+Q1735,"Memorize: 5, 42, 3, 35. Which number was at position 1?",42,5,35,71,B,Memory,Medium
+Q1736,"Remember: Blue, Lime, Green, Purple. Which was number 3?",Lime,Red,Blue,Green,D,Memory,Medium
+Q1737,"Remember the sequence: Circle, Octagon, Cylinder, Pentagon. Which was third?",Cylinder,Diamond,Pentagon,Octagon,A,Memory,Medium
+Q1738,"Remember: Pink, Yellow, Brown, Cyan. Which was number 2?",Pink,Cyan,Brown,Magenta,A,Memory,Medium
+Q1739,"Remember the sequence: Oval, Triangle, Circle, Cylinder. Which was second?",Trapezoid,Circle,Cylinder,Oval,A,Memory,Medium
+Q1740,"Remember the sequence: Rectangle, Diamond, Triangle, Cone. Which was second?",Rectangle,Diamond,Triangle,Oval,B,Memory,Medium
+Q1741,"Memorize: 14, 39, 38, 19. Which number was at position 3?",19,39,38,68,C,Memory,Medium
+Q1742,"Remember: Fig, Orange, Peach, Apple. Which fruit was number 2?",Peach,Pear,Orange,Apple,C,Memory,Medium
+Q1743,"Remember: Pineapple, Apple, Pear, Papaya. Which fruit was number 1?",Pear,Kiwi,Pineapple,Papaya,C,Memory,Medium
+Q1744,"Remember: Papaya, Peach, Apricot, Kiwi. Which fruit was number 1?",Peach,Papaya,Apricot,Plum,B,Memory,Medium
+Q1745,"Remember the sequence: Square, Octagon, Star, Rectangle. Which was second?",Star,Oval,Rectangle,Octagon,D,Memory,Medium
+Q1746,"Remember: Orange, Cyan, Black, Yellow. Which was number 3?",Red,Black,Orange,Cyan,B,Memory,Medium
+Q1747,"Remember: Purple, Pink, Lime, Yellow. Which was number 1?",Yellow,Lime,Green,Pink,A,Memory,Medium
+Q1748,"Remember: Kiwi, Mango, Peach, Cherry. Which fruit was number 1?",Peach,Cherry,Plum,Mango,A,Memory,Medium
+Q1749,"Remember: Lime, Cyan, Black, Orange. Which was number 4?",Cyan,Orange,Lime,Blue,B,Memory,Medium
+Q1750,"Remember the sequence: Octagon, Hexagon, Diamond, Trapezoid. Which was fourth?",Octagon,Diamond,Hexagon,Rectangle,A,Memory,Medium
+Q1751,"Memorize: 38, 9, 40, 46. Which number was at position 1?",72,40,9,46,A,Memory,Medium
+Q1752,"Remember the sequence: Heart, Oval, Octagon, Rectangle. Which was third?",Oval,Heart,Cylinder,Rectangle,A,Memory,Medium
+Q1753,"Remember the sequence: Hexagon, Heart, Triangle, Circle. Which was second?",Heart,Star,Triangle,Hexagon,A,Memory,Medium
+Q1754,"Memorize: 47, 14, 42, 50. Which number was at position 3?",52,42,14,50,B,Memory,Medium
+Q1755,"Remember: Blue, Orange, Yellow, Magenta. Which was number 4?",Yellow,Purple,Orange,Magenta,D,Memory,Medium
+Q1756,"Remember: White, Magenta, Lime, Blue. Which was number 4?",White,Lime,Red,Magenta,A,Memory,Medium
+Q1757,"Memorize: 46, 2, 1, 30. Which number was at position 1?",30,2,79,46,D,Memory,Medium
+Q1758,"Remember the sequence: Square, Oval, Hexagon, Circle. Which was fourth?",Square,Hexagon,Circle,Trapezoid,C,Memory,Medium
+Q1759,"Remember the sequence: Oval, Circle, Hexagon, Triangle. Which was first?",Circle,Oval,Hexagon,Diamond,B,Memory,Medium
+Q1760,"Memorize: 21, 19, 6, 3. Which number was at position 2?",21,6,77,19,D,Memory,Medium
+Q1761,"Memorize: 38, 3, 5, 36. Which number was at position 3?",64,36,3,5,D,Memory,Medium
+Q1762,"Remember the sequence: Hexagon, Circle, Cone, Trapezoid. Which was first?",Trapezoid,Rectangle,Cone,Hexagon,D,Memory,Medium
+Q1763,"Remember: Brown, Purple, Black, Red. Which was number 3?",Black,Purple,Lime,Brown,A,Memory,Medium
+Q1764,"Remember: Red, Magenta, Brown, Purple. Which was number 1?",Purple,Grey,Red,Magenta,C,Memory,Medium
+Q1765,"Remember: Fig, Mango, Grapes, Papaya. Which fruit was number 2?",Fig,Mango,Papaya,Cherry,B,Memory,Medium
+Q1766,"Remember: Grapes, Banana, Mango, Papaya. Which fruit was number 3?",Banana,Fig,Grapes,Mango,D,Memory,Medium
+Q1767,"Remember the sequence: Cylinder, Square, Trapezoid, Oval. Which was second?",Octagon,Cylinder,Trapezoid,Square,D,Memory,Medium
+Q1768,"Remember the sequence: Hexagon, Star, Square, Oval. Which was fourth?",Square,Hexagon,Star,Cone,A,Memory,Medium
+Q1769,"Remember: Orange, Pear, Apricot, Plum. Which fruit was number 3?",Apricot,Mango,Orange,Plum,A,Memory,Medium
+Q1770,"Remember: Orange, Apricot, Peach, Kiwi. Which fruit was number 4?",Orange,Kiwi,Apricot,Plum,B,Memory,Medium
+Q1771,"Remember: Cyan, Black, Lime, Magenta. Which was number 2?",Magenta,Orange,Cyan,Black,D,Memory,Medium
+Q1772,"Remember the sequence: Oval, Octagon, Circle, Diamond. Which was fourth?",Circle,Oval,Diamond,Star,C,Memory,Medium
+Q1773,"Remember: Red, Magenta, Blue, Orange. Which was number 1?",Magenta,Orange,Brown,Red,D,Memory,Medium
+Q1774,"Remember: Plum, Peach, Banana, Pineapple. Which fruit was number 3?",Pineapple,Banana,Peach,Kiwi,B,Memory,Medium
+Q1775,"Remember the sequence: Hexagon, Heart, Star, Trapezoid. Which was first?",Triangle,Heart,Star,Hexagon,D,Memory,Medium
+Q1776,"Remember: Cyan, Yellow, Red, Orange. Which was number 1?",Orange,Red,Yellow,Lime,A,Memory,Medium
+Q1777,"Remember the sequence: Trapezoid, Oval, Star, Triangle. Which was first?",Oval,Circle,Trapezoid,Triangle,C,Memory,Medium
+Q1778,"Remember: Yellow, Green, Brown, Magenta. Which was number 3?",Grey,Green,Yellow,Magenta,A,Memory,Medium
+Q1779,"Remember: Yellow, White, Purple, Orange. Which was number 2?",Purple,Pink,White,Orange,C,Memory,Medium
+Q1780,"Remember: Red, Cyan, Purple, Black. Which was number 1?",Purple,Blue,Black,Red,D,Memory,Medium
+Q1781,"Remember: Pear, Fig, Peach, Mango. Which fruit was number 3?",Peach,Fig,Pineapple,Mango,A,Memory,Medium
+Q1782,"Remember the sequence: Circle, Rectangle, Cylinder, Heart. Which was fourth?",Rectangle,Star,Circle,Heart,D,Memory,Medium
+Q1783,"Remember the sequence: Pentagon, Triangle, Star, Diamond. Which was fourth?",Star,Cone,Pentagon,Triangle,A,Memory,Medium
+Q1784,"Remember the sequence: Cone, Pentagon, Cylinder, Octagon. Which was third?",Cylinder,Circle,Pentagon,Cone,A,Memory,Medium
+Q1785,"Memorize: 50, 26, 49, 13. Which number was at position 2?",49,13,50,74,A,Memory,Medium
+Q1786,"Remember the sequence: Circle, Heart, Star, Octagon. Which was third?",Star,Circle,Hexagon,Heart,A,Memory,Medium
+Q1787,"Remember: Pear, Orange, Banana, Cherry. Which fruit was number 4?",Papaya,Cherry,Pear,Orange,B,Memory,Medium
+Q1788,"Remember the sequence: Oval, Triangle, Cone, Pentagon. Which was second?",Pentagon,Triangle,Cone,Rectangle,B,Memory,Medium
+Q1789,"Remember: Grapes, Apple, Banana, Peach. Which fruit was number 2?",Peach,Fig,Grapes,Banana,A,Memory,Medium
+Q1790,"Memorize: 35, 47, 20, 24. Which number was at position 4?",20,64,47,24,D,Memory,Medium
+Q1791,"Memorize: 43, 7, 48, 41. Which number was at position 4?",43,7,68,48,A,Memory,Medium
+Q1792,"Remember the sequence: Triangle, Diamond, Rectangle, Star. Which was fourth?",Rectangle,Star,Triangle,Oval,B,Memory,Medium
+Q1793,"Memorize: 16, 9, 13, 50. Which number was at position 1?",68,9,13,16,D,Memory,Medium
+Q1794,"Remember the sequence: Rectangle, Cone, Hexagon, Oval. Which was second?",Cone,Square,Oval,Rectangle,A,Memory,Medium
+Q1795,"Remember: Apricot, Pear, Papaya, Plum. Which fruit was number 4?",Pear,Apricot,Apple,Plum,D,Memory,Medium
+Q1796,"Remember the sequence: Hexagon, Oval, Pentagon, Star. Which was first?",Star,Oval,Pentagon,Circle,A,Memory,Medium
+Q1797,"Remember: Orange, Black, Pink, Lime. Which was number 3?",Lime,Purple,Black,Orange,A,Memory,Medium
+Q1798,"Remember: Black, Orange, White, Yellow. Which was number 2?",Black,Orange,Brown,White,B,Memory,Medium
+Q1799,"Memorize: 11, 32, 32, 9. Which number was at position 2?",72,32,9,11,B,Memory,Medium
+Q1800,"Remember: Green, Magenta, Purple, Orange. Which was number 2?",Magenta,Orange,Yellow,Green,A,Memory,Medium
+Q1801,"Find the missing: 7, 2, 9, ?",6,5,4,2,C,Pattern Recognition,Medium
+Q1802,"Find the next number: 17, 22, 27, ?",28,35,32,31,C,Pattern Recognition,Easy
+Q1803,"Find the next number: 11, 13, 15, ?",21,17,19,18,B,Pattern Recognition,Easy
+Q1804,"Find the missing: 7, 3, 12, ?",11,10,9,8,D,Pattern Recognition,Medium
+Q1805,"Complete: 5, 15, 45, ?",138,145,122,135,D,Pattern Recognition,Medium
+Q1806,"Complete: 5, 10, 20, ?",38,40,41,44,B,Pattern Recognition,Medium
+Q1807,"Next number: 6, 12, 24, ?",48,57,40,53,A,Pattern Recognition,Easy
+Q1808,"Find the missing: 7, 5, 10, ?",7,6,8,11,C,Pattern Recognition,Medium
+Q1809,"Next number: 2, 4, 8, ?",18,13,17,16,D,Pattern Recognition,Easy
+Q1810,"Continue the pattern: 3, 5, 7, ?",8,12,9,11,C,Pattern Recognition,Medium
+Q1811,"Find the next number: 9, 11, 13, ?",19,14,15,16,C,Pattern Recognition,Easy
+Q1812,"Complete: 3, 12, 48, ?",209,220,192,169,C,Pattern Recognition,Medium
+Q1813,"Find the missing: 7, 4, 10, ?",10,7,8,9,B,Pattern Recognition,Medium
+Q1814,"Next number: 8, 16, 32, ?",72,75,64,70,C,Pattern Recognition,Easy
+Q1815,"Find the missing: 4, 4, 6, ?",5,6,9,7,B,Pattern Recognition,Medium
+Q1816,"Find the next number: 10, 16, 22, ?",33,27,28,34,C,Pattern Recognition,Easy
+Q1817,"Find the missing: 6, 1, 10, ?",3,4,5,6,C,Pattern Recognition,Medium
+Q1818,"Complete: 6, 24, 96, ?",439,357,361,384,D,Pattern Recognition,Medium
+Q1819,"Continue the pattern: 2, 4, 6, ?",11,10,8,6,C,Pattern Recognition,Medium
+Q1820,"Complete: 5, 20, 80, ?",273,351,320,310,C,Pattern Recognition,Medium
+Q1821,"Complete: 2, 8, 32, ?",128,139,138,120,A,Pattern Recognition,Medium
+Q1822,"Find the next number: 6, 8, 10, ?",11,14,12,10,C,Pattern Recognition,Easy
+Q1823,"Continue the pattern: 4, 6, 8, ?",11,12,10,8,C,Pattern Recognition,Medium
+Q1824,"Complete: 4, 16, 64, ?",288,267,217,256,D,Pattern Recognition,Medium
+Q1825,"Find the next number: 3, 10, 17, ?",28,24,29,27,B,Pattern Recognition,Easy
+Q1826,"Complete: 3, 6, 12, ?",20,26,24,23,C,Pattern Recognition,Medium
+Q1827,"Find the missing: 8, 2, 9, ?",1,3,4,5,B,Pattern Recognition,Medium
+Q1828,"Find the missing: 2, 3, 5, ?",4,8,6,5,C,Pattern Recognition,Medium
+Q1829,"Find the missing: 5, 6, 6, ?",7,6,10,5,A,Pattern Recognition,Medium
+Q1830,"Next number: 4, 8, 16, ?",36,38,28,32,D,Pattern Recognition,Easy
+Q1831,"Find the next number: 14, 16, 18, ?",22,20,23,16,B,Pattern Recognition,Easy
+Q1832,"Complete: 4, 8, 16, ?",27,28,32,37,C,Pattern Recognition,Medium
+Q1833,"Find the missing: 5, 7, 6, ?",8,11,10,7,A,Pattern Recognition,Medium
+Q1834,"Next number: 5, 10, 20, ?",40,46,47,38,A,Pattern Recognition,Easy
+Q1835,"Find the missing: 8, 3, 10, ?",3,5,6,7,B,Pattern Recognition,Medium
+Q1836,"Find the missing: 3, 5, 4, ?",4,6,7,9,B,Pattern Recognition,Medium
+Q1837,"Complete: 2, 6, 18, ?",60,58,56,54,D,Pattern Recognition,Medium
+Q1838,"Next number: 3, 6, 12, ?",24,20,26,28,A,Pattern Recognition,Easy
+Q1839,"Find the next number: 5, 7, 9, ?",9,11,13,14,B,Pattern Recognition,Easy
+Q1840,"Find the missing: 6, 4, 9, ?",6,9,7,10,C,Pattern Recognition,Medium
+Q1841,"Find the missing: 3, 2, 7, ?",6,9,8,7,A,Pattern Recognition,Medium
+Q1842,"Next number: 1, 2, 4, ?",8,9,7,10,A,Pattern Recognition,Easy
+Q1843,"Find the next number: 7, 10, 13, ?",20,19,13,16,D,Pattern Recognition,Easy
+Q1844,"Find the next number: 9, 16, 23, ?",30,25,32,29,A,Pattern Recognition,Easy
+Q1845,"Complete: 2, 4, 8, ?",19,18,15,16,D,Pattern Recognition,Medium
+Q1846,"Find the next number: 18, 20, 22, ?",22,27,24,21,C,Pattern Recognition,Easy
+Q1847,"Find the next number: 10, 14, 18, ?",27,23,22,25,C,Pattern Recognition,Easy
+Q1848,"Find the missing: 6, 3, 9, ?",8,7,5,6,D,Pattern Recognition,Medium
+Q1849,"Find the missing: 8, 6, 11, ?",10,11,9,12,C,Pattern Recognition,Medium
+Q1850,"Find the missing: 1, 8, 6, ?",16,13,11,12,B,Pattern Recognition,Medium
+Q1851,"Find the missing: 3, 3, 8, ?",10,6,8,7,C,Pattern Recognition,Medium
+Q1852,"Find the next number: 2, 6, 10, ?",14,16,12,17,A,Pattern Recognition,Easy
+Q1853,"Find the next number: 4, 9, 14, ?",23,19,16,22,B,Pattern Recognition,Easy
+Q1854,"Find the next number: 20, 26, 32, ?",38,43,42,37,A,Pattern Recognition,Easy
+Q1855,"Find the missing: 1, 2, 5, ?",6,5,9,8,A,Pattern Recognition,Medium
+Q1856,"Complete: 6, 12, 24, ?",48,43,46,51,A,Pattern Recognition,Medium
+Q1857,"Find the missing: 3, 2, 8, ?",6,9,5,7,D,Pattern Recognition,Medium
+Q1858,"Find the next number: 8, 13, 18, ?",19,27,28,23,D,Pattern Recognition,Easy
+Q1859,"Find the missing: 2, 7, 6, ?",9,12,13,11,D,Pattern Recognition,Medium
+Q1860,"Complete: 4, 12, 36, ?",108,105,112,110,A,Pattern Recognition,Medium
+Q1861,"Find the next number: 12, 18, 24, ?",30,32,33,28,A,Pattern Recognition,Easy
+Q1862,"Find the missing: 6, 7, 7, ?",10,7,8,9,C,Pattern Recognition,Medium
+Q1863,"Find the missing: 8, 3, 11, ?",4,6,9,7,B,Pattern Recognition,Medium
+Q1864,"Find the missing: 1, 7, 6, ?",12,15,13,14,A,Pattern Recognition,Medium
+Q1865,"Find the next number: 19, 25, 31, ?",41,31,37,36,C,Pattern Recognition,Easy
+Q1866,"Find the missing: 1, 7, 4, ?",8,13,12,10,D,Pattern Recognition,Medium
+Q1867,"Find the next number: 9, 13, 17, ?",24,21,26,23,B,Pattern Recognition,Easy
+Q1868,"Find the next number: 16, 19, 22, ?",30,25,23,22,B,Pattern Recognition,Easy
+Q1869,"Find the missing: 5, 1, 9, ?",4,5,7,6,B,Pattern Recognition,Medium
+Q1870,"Find the missing: 5, 2, 8, ?",7,3,5,6,C,Pattern Recognition,Medium
+Q1871,"Find the next number: 20, 25, 30, ?",34,35,42,40,B,Pattern Recognition,Easy
+Q1872,"Find the next number: 8, 14, 20, ?",30,29,26,27,C,Pattern Recognition,Easy
+Q1873,"Find the next number: 14, 17, 20, ?",23,26,28,22,A,Pattern Recognition,Easy
+Q1874,"Find the next number: 13, 19, 25, ?",33,29,35,31,D,Pattern Recognition,Easy
+Q1875,"Find the missing: 2, 8, 7, ?",12,14,16,13,D,Pattern Recognition,Medium
+Q1876,"Find the missing: 8, 4, 10, ?",7,5,6,9,C,Pattern Recognition,Medium
+Q1877,"Find the missing: 5, 8, 10, ?",11,15,13,12,C,Pattern Recognition,Medium
+Q1878,"Find the missing: 6, 7, 8, ?",9,12,10,8,A,Pattern Recognition,Medium
+Q1879,"Find the next number: 6, 9, 12, ?",19,15,17,18,B,Pattern Recognition,Easy
+Q1880,"Find the missing: 8, 4, 13, ?",11,9,12,8,B,Pattern Recognition,Medium
+Q1881,"Complete: 6, 18, 54, ?",166,175,182,162,D,Pattern Recognition,Medium
+Q1882,"Find the missing: 7, 5, 11, ?",9,7,11,10,A,Pattern Recognition,Medium
+Q1883,"Find the next number: 11, 17, 23, ?",34,30,32,29,D,Pattern Recognition,Easy
+Q1884,"Find the next number: 5, 11, 17, ?",24,22,23,25,C,Pattern Recognition,Easy
+Q1885,"Find the next number: 15, 20, 25, ?",27,35,28,30,D,Pattern Recognition,Easy
+Q1886,"Next number: 7, 14, 28, ?",62,47,56,53,C,Pattern Recognition,Easy
+Q1887,"Find the missing: 1, 6, 6, ?",9,13,14,11,D,Pattern Recognition,Medium
+Q1888,"Find the missing: 1, 8, 2, ?",11,9,8,10,B,Pattern Recognition,Medium
+Q1889,"Find the missing: 5, 1, 8, ?",2,3,5,4,D,Pattern Recognition,Medium
+Q1890,"Find the next number: 19, 26, 33, ?",41,47,48,40,D,Pattern Recognition,Easy
+Q1891,"Find the missing: 4, 3, 7, ?",6,5,8,7,A,Pattern Recognition,Medium
+Q1892,"Find the next number: 13, 17, 21, ?",25,24,28,29,A,Pattern Recognition,Easy
+Q1893,"Find the missing: 8, 8, 11, ?",14,9,13,11,D,Pattern Recognition,Medium
+Q1894,"Find the next number: 11, 15, 19, ?",24,26,23,27,C,Pattern Recognition,Easy
+Q1895,"Find the missing: 8, 2, 11, ?",3,5,8,4,B,Pattern Recognition,Medium
+Q1896,"Find the missing: 6, 4, 8, ?",5,7,8,6,D,Pattern Recognition,Medium
+Q1897,"Find the missing: 5, 8, 9, ?",11,13,12,14,C,Pattern Recognition,Medium
+Q1898,"Find the next number: 18, 22, 26, ?",25,28,32,30,D,Pattern Recognition,Easy
+Q1899,"Find the next number: 2, 9, 16, ?",22,25,26,23,D,Pattern Recognition,Easy
+Q1900,"Find the next number: 17, 20, 23, ?",28,22,25,26,D,Pattern Recognition,Easy
+Q1901,"Find the next number: 4, 10, 16, ?",21,19,22,25,C,Pattern Recognition,Easy
+Q1902,"Find the missing: 8, 6, 10, ?",7,9,10,8,D,Pattern Recognition,Medium
+Q1903,"Complete: 3, 9, 27, ?",92,90,86,81,D,Pattern Recognition,Medium
+Q1904,"Find the next number: 13, 15, 17, ?",21,19,22,20,B,Pattern Recognition,Easy
+Q1905,"Find the next number: 9, 15, 21, ?",30,28,27,29,C,Pattern Recognition,Easy
+Q1906,"Find the missing: 8, 7, 10, ?",12,11,8,9,D,Pattern Recognition,Medium
+Q1907,"Find the missing: 6, 4, 11, ?",10,9,11,8,B,Pattern Recognition,Medium
+Q1908,"Find the next number: 15, 18, 21, ?",20,27,24,26,C,Pattern Recognition,Easy
+Q1909,"Find the missing: 2, 3, 3, ?",5,2,4,7,C,Pattern Recognition,Medium
+Q1910,"Find the missing: 1, 3, 4, ?",4,8,7,6,D,Pattern Recognition,Medium
+Q1911,"Find the next number: 18, 24, 30, ?",39,38,43,36,D,Pattern Recognition,Easy
+Q1912,"Find the next number: 16, 20, 24, ?",28,27,23,31,A,Pattern Recognition,Easy
+Q1913,"Find the next number: 7, 12, 17, ?",24,18,22,23,C,Pattern Recognition,Easy
+Q1914,"Find the missing: 4, 2, 5, ?",6,2,3,5,C,Pattern Recognition,Medium
+Q1915,"Find the next number: 12, 17, 22, ?",27,32,30,29,A,Pattern Recognition,Easy
+Q1916,"Find the next number: 7, 14, 21, ?",28,24,31,27,A,Pattern Recognition,Easy
+Q1917,"Find the missing: 3, 7, 5, ?",8,10,11,9,D,Pattern Recognition,Medium
+Q1918,"Find the next number: 3, 8, 13, ?",20,21,18,16,C,Pattern Recognition,Easy
+Q1919,"Find the missing: 5, 6, 7, ?",9,8,11,7,B,Pattern Recognition,Medium
+Q1920,"Find the next number: 17, 24, 31, ?",44,36,40,38,D,Pattern Recognition,Easy
+Q1921,"Find the missing: 7, 2, 11, ?",6,8,4,5,A,Pattern Recognition,Medium
+Q1922,"Find the next number: 20, 27, 34, ?",44,36,41,38,C,Pattern Recognition,Easy
+Q1923,"Find the next number: 20, 23, 26, ?",29,34,26,35,A,Pattern Recognition,Easy
+Q1924,"Find the missing: 8, 5, 12, ?",12,11,9,7,C,Pattern Recognition,Medium
+Q1925,"Find the missing: 6, 6, 10, ?",8,12,10,13,C,Pattern Recognition,Medium
+Q1926,"Find the next number: 15, 19, 23, ?",23,25,24,27,D,Pattern Recognition,Easy
+Q1927,"Find the next number: 6, 13, 20, ?",27,30,28,25,A,Pattern Recognition,Easy
+Q1928,"Find the missing: 7, 8, 8, ?",8,7,9,11,C,Pattern Recognition,Medium
+Q1929,"Find the next number: 13, 20, 27, ?",32,33,34,37,C,Pattern Recognition,Easy
+Q1930,"Find the next number: 7, 13, 19, ?",23,28,29,25,D,Pattern Recognition,Easy
+Q1931,"Find the next number: 11, 16, 21, ?",28,31,26,29,C,Pattern Recognition,Easy
+Q1932,"Find the missing: 7, 7, 10, ?",10,8,12,9,A,Pattern Recognition,Medium
+Q1933,"Find the next number: 8, 11, 14, ?",15,18,21,17,D,Pattern Recognition,Easy
+Q1934,"Find the missing: 4, 7, 5, ?",10,7,8,9,C,Pattern Recognition,Medium
+Q1935,"Find the missing: 6, 5, 11, ?",10,11,8,12,A,Pattern Recognition,Medium
+Q1936,"Find the next number: 2, 7, 12, ?",18,16,19,17,D,Pattern Recognition,Easy
+Q1937,"Find the missing: 3, 2, 6, ?",3,7,6,5,D,Pattern Recognition,Medium
+Q1938,"Find the next number: 17, 23, 29, ?",37,39,32,35,D,Pattern Recognition,Easy
+Q1939,"Find the missing: 5, 8, 8, ?",14,11,9,12,B,Pattern Recognition,Medium
+Q1940,"Find the missing: 7, 1, 10, ?",6,7,4,3,C,Pattern Recognition,Medium
+Q1941,"Find the missing: 4, 6, 5, ?",10,5,7,6,C,Pattern Recognition,Medium
+Q1942,"Find the next number: 6, 12, 18, ?",24,23,29,27,A,Pattern Recognition,Easy
+Q1943,"Find the missing: 8, 7, 9, ?",8,7,10,6,A,Pattern Recognition,Medium
+Q1944,"Find the missing: 4, 8, 6, ?",10,11,12,9,A,Pattern Recognition,Medium
+Q1945,"Find the missing: 2, 2, 7, ?",5,10,9,7,D,Pattern Recognition,Medium
+Q1946,"Find the next number: 12, 15, 18, ?",24,25,21,18,C,Pattern Recognition,Easy
+Q1947,"Find the next number: 18, 25, 32, ?",39,41,45,40,A,Pattern Recognition,Easy
+Q1948,"Find the missing: 1, 4, 6, ?",11,9,8,7,B,Pattern Recognition,Medium
+Q1949,"Find the next number: 3, 7, 11, ?",13,16,15,19,C,Pattern Recognition,Easy
+Q1950,"Find the next number: 16, 21, 26, ?",33,31,34,37,B,Pattern Recognition,Easy
+Q1951,"Find the missing: 3, 7, 8, ?",14,10,11,12,D,Pattern Recognition,Medium
+Q1952,"Find the missing: 6, 1, 9, ?",4,7,5,6,A,Pattern Recognition,Medium
+Q1953,"Find the next number: 20, 22, 24, ?",23,26,22,29,B,Pattern Recognition,Easy
+Q1954,"Find the missing: 4, 8, 7, ?",13,12,11,10,C,Pattern Recognition,Medium
+Q1955,"Find the missing: 6, 7, 10, ?",10,12,11,14,C,Pattern Recognition,Medium
+Q1956,"Find the missing: 1, 8, 5, ?",13,12,11,15,B,Pattern Recognition,Medium
+Q1957,"Find the missing: 3, 3, 7, ?",7,8,9,10,A,Pattern Recognition,Medium
+Q1958,"Find the next number: 12, 14, 16, ?",18,15,17,21,A,Pattern Recognition,Easy
+Q1959,"Find the next number: 4, 11, 18, ?",21,25,26,29,B,Pattern Recognition,Easy
+Q1960,"Find the missing: 1, 4, 4, ?",7,5,8,6,A,Pattern Recognition,Medium
+Q1961,"Find the next number: 19, 21, 23, ?",29,30,25,28,C,Pattern Recognition,Easy
+Q1962,"Find the missing: 7, 8, 10, ?",14,12,10,11,D,Pattern Recognition,Medium
+Q1963,"Find the next number: 19, 23, 27, ?",29,31,35,30,B,Pattern Recognition,Easy
+Q1964,"Find the next number: 14, 20, 26, ?",32,34,37,28,A,Pattern Recognition,Easy
+Q1965,"Find the missing: 1, 3, 3, ?",8,5,3,7,B,Pattern Recognition,Medium
+Q1966,"Find the next number: 5, 9, 13, ?",14,16,19,17,D,Pattern Recognition,Easy
+Q1967,"Find the next number: 5, 10, 15, ?",17,23,25,20,D,Pattern Recognition,Easy
+Q1968,"Find the missing: 3, 8, 5, ?",12,11,10,9,C,Pattern Recognition,Medium
+Q1969,"Find the next number: 16, 22, 28, ?",37,35,32,34,D,Pattern Recognition,Easy
+Q1970,"Find the missing: 4, 7, 6, ?",9,11,7,12,A,Pattern Recognition,Medium
+Q1971,"Find the missing: 8, 5, 9, ?",9,5,7,6,D,Pattern Recognition,Medium
+Q1972,"Find the missing: 3, 1, 8, ?",7,8,4,6,D,Pattern Recognition,Medium
+Q1973,"Find the next number: 2, 5, 8, ?",10,11,9,14,B,Pattern Recognition,Easy
+Q1974,"Find the next number: 14, 19, 24, ?",31,29,32,34,B,Pattern Recognition,Easy
+Q1975,"Find the missing: 7, 4, 12, ?",7,11,12,9,D,Pattern Recognition,Medium
+Q1976,"Find the missing: 6, 7, 11, ?",12,13,14,11,A,Pattern Recognition,Medium
+Q1977,"Find the missing: 1, 2, 4, ?",3,5,6,7,B,Pattern Recognition,Medium
+Q1978,"Find the next number: 8, 10, 12, ?",16,17,14,18,C,Pattern Recognition,Easy
+Q1979,"Find the missing: 7, 4, 8, ?",4,3,7,5,D,Pattern Recognition,Medium
+Q1980,"Find the missing: 4, 5, 6, ?",9,6,7,5,C,Pattern Recognition,Medium
+Q1981,"Find the next number: 19, 22, 25, ?",30,28,32,23,B,Pattern Recognition,Easy
+Q1982,"Find the missing: 3, 5, 7, ?",12,7,9,11,C,Pattern Recognition,Medium
+Q1983,"Find the missing: 1, 5, 2, ?",6,4,7,8,A,Pattern Recognition,Medium
+Q1984,"Find the missing: 7, 6, 8, ?",8,7,9,10,B,Pattern Recognition,Medium
+Q1985,"Find the next number: 18, 23, 28, ?",35,33,39,36,B,Pattern Recognition,Easy
+Q1986,"Find the missing: 7, 4, 9, ?",5,6,9,8,B,Pattern Recognition,Medium
+Q1987,"Find the next number: 6, 11, 16, ?",21,23,18,26,A,Pattern Recognition,Easy
+Q1988,"Find the next number: 5, 8, 11, ?",14,18,11,12,A,Pattern Recognition,Easy
+Q1989,"Find the missing: 5, 2, 6, ?",2,1,3,6,C,Pattern Recognition,Medium
+Q1990,"Find the missing: 3, 8, 8, ?",12,15,13,16,C,Pattern Recognition,Medium
+Q1991,"Find the next number: 18, 21, 24, ?",33,22,27,29,C,Pattern Recognition,Easy
+Q1992,"Find the missing: 8, 8, 9, ?",12,11,9,10,C,Pattern Recognition,Medium
+Q1993,"Find the next number: 2, 4, 6, ?",8,10,7,6,A,Pattern Recognition,Easy
+Q1994,"Find the next number: 8, 12, 16, ?",25,24,19,20,D,Pattern Recognition,Easy
+Q1995,"Find the missing: 6, 3, 7, ?",7,3,4,2,C,Pattern Recognition,Medium
+Q1996,"Find the next number: 10, 17, 24, ?",35,27,31,29,C,Pattern Recognition,Easy
+Q1997,"Find the next number: 15, 21, 27, ?",38,28,33,37,C,Pattern Recognition,Easy
+Q1998,"Find the missing: 2, 3, 7, ?",8,10,11,9,A,Pattern Recognition,Medium
+Q1999,"Find the missing: 3, 5, 6, ?",6,8,11,10,B,Pattern Recognition,Medium
+Q2000,"Find the missing: 4, 6, 6, ?",8,11,9,10,A,Pattern Recognition,Medium
